@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@500&display=swap" rel="stylesheet">
   </head>
   <body>
+
     <!--<footer class="footer py-4">
       <div class="container" style="height: 50px;">
         <div class="row align-items-center mb-5">

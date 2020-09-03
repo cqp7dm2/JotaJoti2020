@@ -52,13 +52,14 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="program.php">Program</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="challenges.php">Challenges</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contactus.php">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="login.php">Login</a></li>
 
                 </ul>
             </div>
         </div>
     </nav>
 
-<!-- Not using this but just keep it as reference --> 
+<!-- Not using this but just keep it as reference -->
 
     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 
