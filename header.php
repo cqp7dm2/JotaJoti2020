@@ -21,7 +21,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Jota-Joti 2020</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -39,24 +39,26 @@
     <!-- Navigation/Header-->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="" /></a>
+            <a class="navbar-brand js-scroll-trigger" href="home.php">
+              <img src="assets/img/navbar-logo.svg" alt="" />
+            </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars ml-1"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ml-auto">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="">Home</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="">Program</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="">Challenges</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="home.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="about.php">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="program.php">Program</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="challenges.php">Challenges</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contactus.php">Contact Us</a></li>
 
                 </ul>
             </div>
         </div>
     </nav>
 
-<!-- Not using this but just keep it as reference -->
+<!-- Not using this but just keep it as reference --> 
 
     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 
