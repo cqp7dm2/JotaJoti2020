@@ -6,7 +6,6 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <?php include "footer.php"; ?>
     <!-- Masthead-->
     <header class="masthead">
 
