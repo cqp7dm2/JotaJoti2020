@@ -52,7 +52,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="program.php">Program</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="challenges.php">Challenges</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contactus.php">Contact Us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="login.php">Login</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="login.php">Login/Register</a></li>
 
                 </ul>
             </div>
