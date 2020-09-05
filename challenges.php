@@ -11,7 +11,7 @@
 
         <div class="container">
                 <div class="masthead-subheading">JOTA JOTI 2020</div>
-                <div class="masthead-heading text-uppercase">Don't limit your challenges. Challenge your limits.</div>
+                <div class="masthead-heading text-uppercase">Don't limit your challenges.<br>Challenge your limits.</div>
             </div>
       </header>
 

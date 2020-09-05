@@ -17,6 +17,7 @@
   </header>
   <section style="background-color:#D9514EFF;">
     <div class="container" >
+
       <div class="row align-items-center">
         <div class="col-lg-6 order-lg-2">
           <div class="p-5">
@@ -30,6 +31,7 @@
           </div>
         </div>
       </div>
+
     </div>
   </section>
 
