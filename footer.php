@@ -46,17 +46,17 @@
         	<div class="col-md-3 footer-brand animated fadeInLeft">
             	<h2>Jota Joti 2020</h2>
                 <p>Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies. Curabitur vehicula, libero eget faucibus faucibus, purus erat eleifend enim, porta pellentesque ex mi ut sem.</p>
-                <p>© 2014 BS3 UI Kit, All rights reserved</p>
+                <p>Copyright © Jota Joti 2020, All rights reserved</p>
             </div>
         	<div class="col-md-3 footer-nav animated fadeInUp">
             	<h4>Menu —</h4>
             	<div class="col-md-6">
                     <ul class="list">
-                        <li><a href="#"><h4>Home</h4></a></li>
-                        <li><a href="#"><h4>About</h4></a></li>
-                        <li><a href="#"><h4>Program</h4></a></li>
-                        <li><a href="#"><h4>Challenges</h4></a></li>
-                        <li><a href="#"><h4>Contact Us</h4></a></li>
+                        <li><a href="home.php"><h4>Home</h4></a></li>
+                        <li><a href="about.php"><h4>About</h4></a></li>
+                        <li><a href="program.php"><h4>Program</h4></a></li>
+                        <li><a href="challenges.php"><h4>Challenges</h4></a></li>
+                        <li><a href="contactus.php"><h4>Contact Us</h4></a></li>
                     </ul>
                 </div>
             </div>

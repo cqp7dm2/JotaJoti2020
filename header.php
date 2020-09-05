@@ -47,12 +47,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ml-auto">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="home.php">Home</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="about.php">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="program.php">Program</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="challenges.php">Challenges</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contactus.php">Contact Us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="login/login.php">Login/Register</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="home.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="about.php">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="program.php">Program</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="challenges.php">Challenges</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="contactus.php">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="login/login.php">Login/Register</a></li>
 
                 </ul>
             </div>
