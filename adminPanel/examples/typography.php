@@ -32,80 +32,13 @@ The above copyright notice and this permission notice shall be included in all c
 
 <body class="">
   <div class="wrapper ">
-    <div class="sidebar" data-color="purple" data-background-color="white" data-image="../assets/img/sidebar-1.jpg">
-      <!--
-        Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
-
-        Tip 2: you can also add an image using data-image tag
-    -->
-      <div class="logo"><a href="http://www.creative-tim.com" class="simple-text logo-normal">
-          Creative Tim
-        </a></div>
-      <div class="sidebar-wrapper">
-        <ul class="nav">
-          <li class="nav-item  ">
-            <a class="nav-link" href="./dashboard.html">
-              <i class="material-icons">dashboard</i>
-              <p>Dashboard</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./user.html">
-              <i class="material-icons">person</i>
-              <p>User Profile</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./tables.html">
-              <i class="material-icons">content_paste</i>
-              <p>Table List</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./typography.html">
-              <i class="material-icons">library_books</i>
-              <p>Typography</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./icons.html">
-              <i class="material-icons">bubble_chart</i>
-              <p>Icons</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./map.html">
-              <i class="material-icons">location_ons</i>
-              <p>Maps</p>
-            </a>
-          </li>
-          <li class="nav-item active ">
-            <a class="nav-link" href="./notifications.html">
-              <i class="material-icons">notifications</i>
-              <p>Notifications</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./rtl.html">
-              <i class="material-icons">language</i>
-              <p>RTL Support</p>
-            </a>
-          </li>
-          <li class="nav-item active-pro ">
-            <a class="nav-link" href="./upgrade.html">
-              <i class="material-icons">unarchive</i>
-              <p>Upgrade to PRO</p>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
+      <?php include 'sideNav.php';?>
     <div class="main-panel">
       <!-- Navbar -->
       <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
         <div class="container-fluid">
           <div class="navbar-wrapper">
-            <a class="navbar-brand" href="javascript:;">Notifications</a>
+            <a class="navbar-brand" href="javascript:;">Typography</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -171,118 +104,94 @@ The above copyright notice and this permission notice shall be included in all c
         <div class="container-fluid">
           <div class="card">
             <div class="card-header card-header-primary">
-              <h3 class="card-title">Notifications</h3>
-              <p class="card-category">Handcrafted by our friend
-                <a target="_blank" href="https://github.com/mouse0270">Robert McIntosh</a>. Please checkout the
-                <a href="http://bootstrap-notify.remabledesigns.com/" target="_blank">full documentation.</a>
-              </p>
+              <h4 class="card-title">Material Dashboard Heading</h4>
+              <p class="card-category">Created using Roboto Font Family</p>
             </div>
             <div class="card-body">
-              <div class="row">
-                <div class="col-md-6">
-                  <h4 class="card-title">Notifications Style</h4>
-                  <div class="alert alert-info">
-                    <span>This is a plain notification</span>
-                  </div>
-                  <div class="alert alert-info">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>This is a notification with close button.</span>
-                  </div>
-                  <div class="alert alert-info alert-with-icon" data-notify="container">
-                    <i class="material-icons" data-notify="icon">add_alert</i>
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span data-notify="message">This is a notification with close button and icon.</span>
-                  </div>
-                  <div class="alert alert-info alert-with-icon" data-notify="container">
-                    <i class="material-icons" data-notify="icon">add_alert</i>
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span data-notify="message">This is a notification with close button and icon and have many lines. You can see that the icon and the close button are always vertically aligned. This is a beautiful notification. So you don't have to worry about the style.</span>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <h4 class="card-title">Notification states</h4>
-                  <div class="alert alert-info">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>
-                      <b> Info - </b> This is a regular notification made with ".alert-info"</span>
-                  </div>
-                  <div class="alert alert-success">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>
-                      <b> Success - </b> This is a regular notification made with ".alert-success"</span>
-                  </div>
-                  <div class="alert alert-warning">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>
-                      <b> Warning - </b> This is a regular notification made with ".alert-warning"</span>
-                  </div>
-                  <div class="alert alert-danger">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>
-                      <b> Danger - </b> This is a regular notification made with ".alert-danger"</span>
-                  </div>
-                  <div class="alert alert-primary">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>
-                      <b> Primary - </b> This is a regular notification made with ".alert-primary"</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-12">
-              <div class="places-buttons">
-                <div class="row">
-                  <div class="col-md-6 ml-auto mr-auto text-center">
-                    <h4 class="card-title">
-                      Notifications Places
-                      <p class="category">Click to view notifications</p>
-                    </h4>
-                  </div>
+              <div id="typography">
+                <div class="card-title">
+                  <h2>Typography</h2>
                 </div>
                 <div class="row">
-                  <div class="col-lg-8 col-md-10 ml-auto mr-auto">
-                    <div class="row">
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('top','left')">Top Left</button>
-                      </div>
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('top','center')">Top Center</button>
-                      </div>
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('top','right')">Top Right</button>
-                      </div>
-                    </div>
+                  <div class="tim-typo">
+                    <h1>
+                      <span class="tim-note">Header 1</span>The Life of Material Dashboard </h1>
                   </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-8 col-md-10 ml-auto mr-auto">
-                    <div class="row">
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('bottom','left')">Bottom Left</button>
-                      </div>
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('bottom','center')">Bottom Center</button>
-                      </div>
-                      <div class="col-md-4">
-                        <button class="btn btn-primary btn-block" onclick="md.showNotification('bottom','right')">Bottom Right</button>
-                      </div>
-                    </div>
+                  <div class="tim-typo">
+                    <h2>
+                      <span class="tim-note">Header 2</span>The Life of Material Dashboard</h2>
+                  </div>
+                  <div class="tim-typo">
+                    <h3>
+                      <span class="tim-note">Header 3</span>The Life of Material Dashboard</h3>
+                  </div>
+                  <div class="tim-typo">
+                    <h4>
+                      <span class="tim-note">Header 4</span>The Life of Material Dashboard</h4>
+                  </div>
+                  <div class="tim-typo">
+                    <h5>
+                      <span class="tim-note">Header 5</span>The Life of Material Dashboard</h5>
+                  </div>
+                  <div class="tim-typo">
+                    <h6>
+                      <span class="tim-note">Header 6</span>The Life of Material Dashboard</h6>
+                  </div>
+                  <div class="tim-typo">
+                    <p>
+                      <span class="tim-note">Paragraph</span>
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Quote</span>
+                    <blockquote class="blockquote">
+                      <p>
+                        I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.
+                      </p>
+                      <small>
+                        Kanye West, Musician
+                      </small>
+                    </blockquote>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Muted Text</span>
+                    <p class="text-muted">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers...
+                    </p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Primary Text</span>
+                    <p class="text-primary">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers... </p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Info Text</span>
+                    <p class="text-info">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers... </p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Success Text</span>
+                    <p class="text-success">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers... </p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Warning Text</span>
+                    <p class="text-warning">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers...
+                    </p>
+                  </div>
+                  <div class="tim-typo">
+                    <span class="tim-note">Danger Text</span>
+                    <p class="text-danger">
+                      I will be the leader of a company that ends up being worth billions of dollars, because I got the answers... </p>
+                  </div>
+                  <div class="tim-typo">
+                    <h2>
+                      <span class="tim-note">Small Tag</span>
+                      Header with small subtitle
+                      <br>
+                      <small>Use "small" tag for the headers</small>
+                    </h2>
                   </div>
                 </div>
               </div>
@@ -607,12 +516,6 @@ The above copyright notice and this permission notice shall be included in all c
 
         });
       });
-    });
-  </script>
-  <script>
-    $(document).ready(function() {
-      //init DateTimePickers
-      md.initFormExtendedDatetimepickers();
     });
   </script>
 </body>

@@ -32,80 +32,13 @@ The above copyright notice and this permission notice shall be included in all c
 
 <body class="">
   <div class="wrapper ">
-    <div class="sidebar" data-color="purple" data-background-color="white" data-image="../assets/img/sidebar-1.jpg">
-      <!--
-        Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
-
-        Tip 2: you can also add an image using data-image tag
-    -->
-      <div class="logo"><a href="http://www.creative-tim.com" class="simple-text logo-normal">
-          Creative Tim
-        </a></div>
-      <div class="sidebar-wrapper">
-        <ul class="nav">
-          <li class="nav-item  ">
-            <a class="nav-link" href="./dashboard.html">
-              <i class="material-icons">dashboard</i>
-              <p>Dashboard</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./user.html">
-              <i class="material-icons">person</i>
-              <p>User Profile</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./tables.html">
-              <i class="material-icons">content_paste</i>
-              <p>Table List</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./typography.html">
-              <i class="material-icons">library_books</i>
-              <p>Typography</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./icons.html">
-              <i class="material-icons">bubble_chart</i>
-              <p>Icons</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./map.html">
-              <i class="material-icons">location_ons</i>
-              <p>Maps</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./notifications.html">
-              <i class="material-icons">notifications</i>
-              <p>Notifications</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./rtl.html">
-              <i class="material-icons">language</i>
-              <p>RTL Support</p>
-            </a>
-          </li>
-          <li class="nav-item active-pro active ">
-            <a class="nav-link" href="./upgrade.html">
-              <i class="material-icons">unarchive</i>
-              <p>Upgrade to PRO</p>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
+      <?php include 'sideNav.php';?>
     <div class="main-panel">
       <!-- Navbar -->
       <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
         <div class="container-fluid">
           <div class="navbar-wrapper">
-            <a class="navbar-brand" href="javascript:;">Upgrade to PRO</a>
+            <a class="navbar-brand" href="javascript:;">Table List</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -170,70 +103,276 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="content">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-8 ml-auto mr-auto">
+            <div class="col-md-12">
               <div class="card">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title">Material Dashboard PRO</h4>
-                  <p class="card-category">Are you looking for more components? Please check our Premium Version of Material Dashboard.</p>
+                  <h4 class="card-title ">Simple Table</h4>
+                  <p class="card-category"> Here is a subtitle for this table</p>
                 </div>
                 <div class="card-body">
-                  <div class="table-responsive table-upgrade">
+                  <div class="table-responsive">
                     <table class="table">
-                      <thead>
+                      <thead class=" text-primary">
+                        <th>
+                          ID
+                        </th>
+                        <th>
+                          Name
+                        </th>
+                        <th>
+                          Country
+                        </th>
+                        <th>
+                          City
+                        </th>
+                        <th>
+                          Edit
+                        </th>
+                      </thead>
+
+                      <tbody>
                         <tr>
-                          <th></th>
-                          <th class="text-center">Free</th>
-                          <th class="text-center">PRO</th>
+                          <td>
+                            1
+                          </td>
+                          <td>
+                            Dakota Rice
+                          </td>
+                          <td>
+                            Niger
+                          </td>
+                          <td>
+                            Oud-Turnhout
+                          </td>
+                          <td>
+                            <button href="update.php" class="btn btn-primary pull-right">Edit Profile</button>
+                          </td>
                         </tr>
+
+                        <tr>
+                          <td>
+                            2
+                          </td>
+                          <td>
+                            Minerva Hooper
+                          </td>
+                          <td>
+                            Curaçao
+                          </td>
+                          <td>
+                            Sinaai-Waas
+                          </td>
+                          <td>
+                          <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td>
+                            3
+                          </td>
+                          <td>
+                            Sage Rodriguez
+                          </td>
+                          <td>
+                            Netherlands
+                          </td>
+                          <td>
+                            Baileux
+                          </td>
+                          <td>
+                          <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td>
+                            4
+                          </td>
+                          <td>
+                            Philip Chaney
+                          </td>
+                          <td>
+                            Korea, South
+                          </td>
+                          <td>
+                            Overland Park
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td>
+                            5
+                          </td>
+                          <td>
+                            Doris Greene
+                          </td>
+                          <td>
+                            Malawi
+                          </td>
+                          <td>
+                            Feldkirchen in Kärnten
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td>
+                            6
+                          </td>
+                          <td>
+                            Mason Porter
+                          </td>
+                          <td>
+                            Chile
+                          </td>
+                          <td>
+                            Gloucester
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+
+                      </tbody>
+
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="card card-plain">
+                <div class="card-header card-header-primary">
+                  <h4 class="card-title mt-0"> Table on Plain Background</h4>
+                  <p class="card-category"> Here is a subtitle for this table</p>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-hover">
+                      <thead class="">
+                        <th>
+                          ID
+                        </th>
+                        <th>
+                          Name
+                        </th>
+                        <th>
+                          Country
+                        </th>
+                        <th>
+                          City
+                        </th>
+                        <th>
+                        Edit
+                        </th>
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Components</td>
-                          <td class="text-center">60</td>
-                          <td class="text-center">200</td>
-                        </tr>
-                        <tr>
-                          <td>Plugins</td>
-                          <td class="text-center">2</td>
-                          <td class="text-center">15</td>
-                        </tr>
-                        <tr>
-                          <td>Example Pages</td>
-                          <td class="text-center">3</td>
-                          <td class="text-center">27</td>
-                        </tr>
-                        <tr>
-                          <td>Login, Register, Pricing, Lock Pages</td>
-                          <td class="text-center"><i class="fa fa-times text-danger"></i></td>
-                          <td class="text-center"><i class="fa fa-check text-success"></i></td>
-                        </tr>
-                        <tr>
-                          <td>DataTables, VectorMap, SweetAlert, Wizard, jQueryValidation, FullCalendar etc...</td>
-                          <td class="text-center"><i class="fa fa-times text-danger"></i></td>
-                          <td class="text-center"><i class="fa fa-check text-success"></i></td>
-                        </tr>
-                        <tr>
-                          <td>Mini Sidebar</td>
-                          <td class="text-center"><i class="fa fa-times text-danger"></i></td>
-                          <td class="text-center"><i class="fa fa-check text-success"></i></td>
-                        </tr>
-                        <tr>
-                          <td>Premium Support</td>
-                          <td class="text-center"><i class="fa fa-times text-danger"></i></td>
-                          <td class="text-center"><i class="fa fa-check text-success"></i></td>
-                        </tr>
-                        <tr>
-                          <td></td>
-                          <td class="text-center">Free</td>
-                          <td class="text-center">Just $49</td>
-                        </tr>
-                        <tr>
-                          <td class="text-center"></td>
-                          <td class="text-center">
-                            <a href="#" class="btn btn-round btn-fill btn-default disabled">Current Version</a>
+                          <td>
+                            1
                           </td>
-                          <td class="text-center">
-                            <a target="_blank" href="http://www.creative-tim.com/product/material-dashboard-pro/?ref=md-free-upgrade-live" class="btn btn-round btn-fill btn-info">Upgrade to PRO</a>
+                          <td>
+                            Dakota Rice
+                          </td>
+                          <td>
+                            Niger
+                          </td>
+                          <td>
+                            Oud-Turnhout
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            2
+                          </td>
+                          <td>
+                            Minerva Hooper
+                          </td>
+                          <td>
+                            Curaçao
+                          </td>
+                          <td>
+                            Sinaai-Waas
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            3
+                          </td>
+                          <td>
+                            Sage Rodriguez
+                          </td>
+                          <td>
+                            Netherlands
+                          </td>
+                          <td>
+                            Baileux
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            4
+                          </td>
+                          <td>
+                            Philip Chaney
+                          </td>
+                          <td>
+                            Korea, South
+                          </td>
+                          <td>
+                            Overland Park
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            5
+                          </td>
+                          <td>
+                            Doris Greene
+                          </td>
+                          <td>
+                            Malawi
+                          </td>
+                          <td>
+                            Feldkirchen in Kärnten
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            6
+                          </td>
+                          <td>
+                            Mason Porter
+                          </td>
+                          <td>
+                            Chile
+                          </td>
+                          <td>
+                            Gloucester
+                          </td>
+                          <td>
+                            <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
                           </td>
                         </tr>
                       </tbody>
