@@ -30,20 +30,20 @@
       if (empty($Fname) || empty($Lname) || empty($email) || empty($passW) || empty($dob) || empty($phone) || empty($address) || empty($postal))
       {
         echo ('<script>alert("Empty Slot!")</script>');
-        echo "<script>window.location.href='ordering.php';</script>";
+        echo "<script>window.location.href='register.php';</script>";
           exit();
       }else{
             //check if the input characters are Filer_validate_email
             if(!preg_match("/^[a-zA-Z]*$/",$Fname) || !preg_match("/^[a-zA-Z]*$/",$Lname)){
-              echo ('<script>alert("Invalid Name!")</script>');
-              echo "<script>window.location.href='ordering.php';</script>";
+              echo ('<script>alert("Invalid Name leh cqp!")</script>');
+              echo "<script>window.location.href='register.php';</script>";
             exit();
             }
             else{
           //check if email is valid
             if (!filter_var($email, FILTER_VALIDATE_EMAIL)){
               echo ('<script>alert("Invalid Email")</script>');
-              echo "<script>window.location.href='ordering.php';</script>";
+              echo "<script>window.location.href='register.php';</script>";
               exit();
             }else{
               $sql = "select * from user where user_email = '$email'";
@@ -52,7 +52,7 @@
 
               if ($resultCheck > 0){
                 echo ('<script>alert("Email Taken!")</script>');
-                echo "<script>window.location.href='ordering.php';</script>";
+                echo "<script>window.location.href='register.php';</script>";
                 exit();
               }else{
                   //hasting password
@@ -64,7 +64,7 @@
                   mysqli_query($conn, $sql);
 
                   echo ('<script>alert("Register Sucessfully!")</script>');
-                  echo "<script>window.location.href='register.php';</script>";
+                  echo "<script>window.location.href='login.php';</script>";
                   exit();
         }
        }
@@ -76,7 +76,6 @@
      {
        header("Location: register.php");
        echo ("<script>alert('Insert Error');</script>");
-
        exit();
      }
 

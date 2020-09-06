@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Jota-Joti 2020</title>
   </head>
   <body>
     <?php include "header.php"; ?>

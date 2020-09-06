@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Jota-Joti 2020</title>
 
     <!--<header class="container">
       <li><a href="#" class="trans">Home</a></li>
@@ -52,7 +52,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="program.php">Program</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="challenges.php">Challenges</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="contactus.php">Contact Us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="login/login.php">Login/Register</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="loginRegister/login.php">Login/Register</a></li>
 
                 </ul>
             </div>
