@@ -15,12 +15,13 @@ session_start();
 </head>
 
 <!--The whole Log In form start here-->
-<body class="bg-gradient-primary">
+<body class="bg-secondary">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-9 col-lg-12 col-xl-10">
                 <div class="card shadow-lg o-hidden border-0 my-5">
                     <div class="card-body p-0">
+
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-flex">
                                 <div class="flex-grow-1 bg-login-image" style="background-image: url(&quot;assets/img/jotajoti/mainlogo.png&quot;);"></div>
@@ -48,8 +49,8 @@ session_start();
 
                                     <!-- <div class="text-center"><a class="small" href="forgot-password.php">Forgot Password?</a></div> -->
                                     <div class="text-center"><a class="small" href="register.php">Create an Account!</a></div>
-                                    <br>
-                                    <div class="text-center"><a class="small" href="../home.php">BACK TO HOME</a></div>
+
+                                  <a class="btn btn-secondary btn-block text-white btn-user" href="../home.php" role="button">Back To Home</a>
 
                                 </div>
                             </div>

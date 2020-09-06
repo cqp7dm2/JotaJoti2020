@@ -11,7 +11,7 @@
 </head>
 
 <!--The log in form start here-->
-<body class="bg-gradient-primary">
+<body class="bg-secondary">
     <div class="container p-1">
         <div class="card shadow-lg o-hidden border-0 my-5">
             <div class="card-body p-10">
