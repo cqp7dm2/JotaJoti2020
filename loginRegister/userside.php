@@ -1,52 +1,5 @@
 <!-- <?php
 SESSION_start();
-
-if(filter_input(INPUT_POST, 'add to cart')){
-  if(isset($_SESSION['shopping_cart'])){
-
-    //keep track of how many shopping cart has been submitted
-    $count = count($_SESSION['shopping_cart']);
-
-    //create sequantial array for matching array keys to product id's
-    $product_ids = array_column($_SESSION['shopping_cart'], 'id');
-
-    if (!in_array(filter_input(INPUT_GET, 'id'))){
-      $_SESSION['shopping_cart'][$count] = array
-      (
-        'id' => filter_input(INPUT_GET , 'id'),
-        'name' => filter_input(INPUT_POST , 'name'),
-        'price' => filter_input(INPUT_POST , 'price'),
-        'quantity' => filter_input(INPUT_POST , 'quantity'),
-      );
-    }
-    else{
-      for($i = 0; $i , count($product_ids); $i++){
-        if ($product_ids[$i] == filter_input(INPUT_GET, 'id')){
-          $_SESSION['shopping_cart'][$i]['quantity'] += filter_input(INPUT_POST, 'quantity');
-        }
-      }
-    }
-
-  }
-  else{ //if shopping cart doesn't exist , create first product with array key 0
-    //create array using submitted from data , start from key 0 and fill in with values
-    $_SESSION['shopping_cart'][0] = array
-    (
-      'id' => filter_input(INPUT_GET , 'id'),
-      'name' => filter_input(INPUT_POST , 'name'),
-      'price' => filter_input(INPUT_POST , 'price'),
-      'quantity' => filter_input(INPUT_POST , 'quantity'),
-    );
-
-  }
-}
-pre_r($_SESSION);
-
-function pre_r($array){
-  echo '<pre>';
-  print_r($array);
-  echo '</pre>';
-}
  ?> -->
 <!DOCTYPE html>
 <html>
@@ -87,7 +40,7 @@ function pre_r($array){
 
               <h2 >Welcome Back !</h2>
 
-            
+
                     </div>
                     </div>
 

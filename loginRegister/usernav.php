@@ -110,13 +110,11 @@
                     <div class="nav-item dropdown no-arrow">
                       <a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">
                         <span class="d-none d-lg-inline mr-1 text-gray-600 small" name="LoginName">
-
-
-                          <!-- <?php
+                          <?php
 
                         if (isset($_SESSION['u_id']))
                         {
-                          include ('conn.php');
+                          include ('../conn.php');
 
                           $sql = "select * from user where user_id = '".$_SESSION['u_id']."'";
 
@@ -134,30 +132,21 @@
 
                          ?>
                         </span>
-                        <img class="border rounded-circle img-profile" src="assets/img/avatars/avatar1.jpeg"></a>
+
+                        <img class="border rounded-circle img-profile" src="#"></a>
                         <div class="dropdown-menu shadow dropdown-menu-right animated--grow-in" role="menu">
 
-
-                            <a class="dropdown-item" role="presentation" href="FAQ.php"><i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;FAQ</a>
+                            <!-- <a class="dropdown-item" role="presentation" href="FAQ.php"><i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;FAQ</a>
                         <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" role="presentation" href="login.php"><i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;Logout
-                              <?php
+                            <a class="dropdown-item" role="presentation" href="login.php"><i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;Logout -->
+                              <!-- <?php
 
                                 SESSION_unset();
                                 SESSION_destroy();
 
                                ?> -->
 
-                             </span>
-                             <img class="border rounded-circle img-profile" src="#"></a>
-                             <div class="dropdown-menu shadow dropdown-menu-right animated--grow-in" role="menu">
 
-
-                                 <a class="dropdown-item" role="presentation" href="FAQ.php"><i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;FAQ</a>
-                             <div class="dropdown-divider"></div>
-                                 <a class="dropdown-item" role="presentation" href="login.php"><i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>&nbsp;Logout
-
-                            </a></div>
         </div>
         </li>
         </ul>
