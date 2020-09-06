@@ -10,8 +10,6 @@
 
 <?php
 
-//Testing again dont giv up
-
 if (isset($_POST['login'])) {
 
   include "../conn.php";
