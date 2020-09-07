@@ -18,7 +18,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xl-9 mx-auto">
-            <div class="cta-inner text-center rounded">
+            <div class="cta-inner text-center rounded" style="border-radius: 10px; background: #fff; padding: 25px 30px 25px 30px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);-webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
               <h2 class="section-heading mb-4">
                 <span class="section-heading-lower">JOTA-JOTI</span>
                 <span class="section-heading-upper">Jamboree-on-the-Air-Jamboree-on-the-Internet</span>

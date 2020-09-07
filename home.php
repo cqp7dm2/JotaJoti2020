@@ -8,20 +8,31 @@
     <?php include "header.php"; ?>
     <!-- Masthead-->
     <header class="masthead">
+      <div class="container">
+        <div class="masthead-heading mb-2" style="font-size: 35px;">JOTA JOTI 2020</div>
+        <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
 
-    <div class="container">
-            <div class="masthead-heading mb-2" style="font-size: 35px;">JOTA JOTI 2020</div>
-            <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
-        </div>
-  </header>
+        <!--Text Typing Animation-->
+        <!--<div class="masthead-heading text-uppercase text-typing">It's Nice To Meet You</div>-->
+
+        <!--GIF text-->
+        <!--<div class="masthead-heading text-uppercase title-text"><h1>It's Nice<br>To Meet You</h1></div>-->
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+      </div>
+    </header>
   <section style="background-color:#D9514EFF;">
     <div class="container" >
-
       <div class="row align-items-center">
         <div class="col-lg-6 order-lg-2">
           <div class="p-5">
-            <img class="img-fluid " src="assets/img/01.jpg" alt="">
+            <div class="content">
+              <div class="content-overlay"></div>
+              <img class="img-fluid content-image" src="assets/img/01.jpg" alt="">
+              <div class="content-details fadeIn-left">
+                <h3>This is a title</h3>
+                <p>This is a short description</p>
+              </div>
+            </div>
           </div>
         </div>
         <div class="col-lg-6 order-lg-1">

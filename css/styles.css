@@ -10140,11 +10140,12 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/12.jpg");
+  background-color: rgba(0, 0, 0, 0.85);
+  /*background-image: url("../assets/img/12.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: cover;*/
 }
 #overlay {
   position: fixed; /* Sit on top of the page content*/
@@ -10596,6 +10597,125 @@ section.contacts ul.list-social li.social-google-plus a {
 section.contacts ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
+
+/*Fade-in effect for image*/
+.content {
+  position: relative;
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.content .content-overlay {
+  background: rgba(0,0,0,0.7);
+  position: absolute;
+  height: 99%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay{
+  opacity: 1;
+}
+
+.content-image{
+  width: 100%;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details{
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  text-transform: uppercase;
+}
+
+.content-details p{
+  color: #fff;
+  font-size: 0.8em;
+}
+
+.fadeIn-left{
+  left: 20%;
+}
+/*Fade-in effect end*/
+
+/*Text typign animation*/
+/*.text-typing {
+  animation: type 3s steps(19);
+  justify-content: center;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid purple;
+  width: 18ch;
+}
+@keyframes type {
+  0% {
+    width: 0ch;
+  }
+  100% {
+    width: 18ch;
+  }
+}*/
+/*Text typign animation end*/
+
+/*GIF text*/
+.title-text {
+  text-align: center;
+  color: #FFF;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  letter-spacing: 1px;
+}
+
+.title-text h1 {
+    background-image: url(https://media.giphy.com/media/RIwhn16k11Xyoq9Izk/giphy.gif);
+    background-size: cover;
+    object-fit: cover;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    font-size: 120px;
+    line-height: .75;
+    margin: 10px 0;
+}
+/*GIF text end*/
 
 .footer {
   text-align: center;
