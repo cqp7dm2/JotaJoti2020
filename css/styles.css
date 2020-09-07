@@ -10816,6 +10816,82 @@ section.contacts ul.list-social li.social-youtube a:hover {
 }
 /*3D*/
 
+section {
+  padding: 60px 0;
+}
+
+.section-bg, .services .icon-box {
+  background-color: #f8f9fa;
+}
+
+.section-title {
+  padding-bottom: 40px;
+}
+
+.section-title h2 {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0;
+  line-height: 1px;
+  margin: 0 0 5px 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  font-family: "Poppins", sans-serif;
+}
+
+.section-title h2::after {
+  content: "";
+  width: 120px;
+  height: 1px;
+  display: inline-block;
+  background: #e6636a;
+  margin: 4px 10px;
+}
+
+.section-title p {
+  margin: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #556270;
+}
+
+.services .icon-box {
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 6px;
+}
+
+/* .services .icon-box i {
+  float: left;
+  color: #d9232d;
+  font-size: 40px;
+} */
+
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.services .icon-box h4 a {
+  color: #556270;
+  transition: 0.3s;
+}
+
+.services .icon-box p {
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* .services .icon-box:hover h4 a {
+  color: #d9232d;
+} */
+
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
