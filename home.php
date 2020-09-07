@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
+    <link rel="stylesheet" type="text/css" href="assets/img/my-icons-collection/font/flaticon.css">
   </head>
   <body>
     <?php include "header.php"; ?>
@@ -36,8 +37,17 @@
           </div>
         </div>
         <div class="col-lg-6 order-lg-1">
-          <div class="p-5"  style="color:#2A2B2DFF;">
-            <h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
+          <div class="p-5" style="color:#2A2B2DFF;">
+            <div class="row">
+              <div class="col-6">
+                <h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
+              </div>
+              <div class="col-6">
+                <i class="flaticon-boy-scout" style="font-size: 50px;"></i>
+              </div>
+            </div>
+            <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
+            <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
             <p>Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
           </div>
         </div>
@@ -60,7 +70,14 @@
         </div>
         <div class="col-lg-6">
           <div class="p-5" style="color:#2DA8D8FF">
-            <h2 class="display-4 gradient-text2 font-weight-bold">When?</h2>
+            <div class="row">
+              <div class="col-6">
+                <h2 class="display-4 gradient-text2 font-weight-bold">When?</h2>
+              </div>
+              <div class="col-6">
+                <i class="flaticon-calendar" style="font-size: 50px;"></i>
+              </div>
+            </div>
             <p>JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
           </div>
         </div>
@@ -78,7 +95,15 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5" style="color:#D9514EFF">
-                  <h2 class="display-4 gradient-text3 font-weight-bold">Scouting Around The World</h2>
+                  <div class="row">
+                    <div class="col-9">
+                      <h2 class="display-4 gradient-text3 font-weight-bold">Scouting Around The World</h2>
+                    </div>
+                    <div class="col-3 pt-6 pb-6">
+                      <br><br><br>
+                      <i class="flaticon-scout" style="font-size: 50px;"></i>
+                    </div>
+                  </div>
                   <p>The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
                       an educational youth movement engaging young people from all over the world to
                       promote unity, respect, friendship, under- standing and peace.
