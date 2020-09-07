@@ -10693,7 +10693,7 @@ section.contacts ul.list-social li.social-youtube a:hover {
     width: 18ch;
   }
 }
-/*Text typign animation end*/
+/*Text typing animation end*/
 
 /*GIF text*/
 .title-text {
@@ -10805,6 +10805,16 @@ section.contacts ul.list-social li.social-youtube a:hover {
   }
 }
 /*Gradient text ends*/
+
+/*3D*/
+.threed-img:hover {
+  border-radius: 50px;
+  box-shadow: 1px 1px 1px #9980FA, 2px 2px 2px #9980FA, 3px 3px 2px #9980FA;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px);
+  transition: .5s ease;
+}
+/*3D*/
 
 .footer {
   text-align: center;
