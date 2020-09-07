@@ -10577,12 +10577,12 @@ section.contacts ul.list-social li a {
   border-radius: 100%;
 }
 
-section.contacts ul.list-social li.social-twitter a {
-  background-color: #1da1f2;
+section.contacts ul.list-social li.social-instagram a {
+  background-color: #3f729b;
 }
 
-section.contacts ul.list-social li.social-twitter a:hover {
-  background-color: #0d95e8;
+section.contacts ul.list-social li.social-instagram a:hover {
+  background-color: #3373af;
 }
 
 section.contacts ul.list-social li.social-facebook a {
