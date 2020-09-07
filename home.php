@@ -9,8 +9,8 @@
     <!-- Masthead-->
     <header class="masthead">
       <div class="container">
-        <div class="masthead-heading mb-2" style="font-size: 35px;">JOTA JOTI 2020</div>
-        <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+        <div class="masthead-heading mb-2 move-text1" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
+        <div class="masthead-heading text-uppercase move-text2" style="text-shadow: 3px 3px 3px #7158e2;">It's Nice To Meet You</div>
 
         <!--Text Typing Animation-->
         <!--<div class="masthead-heading text-uppercase text-typing">It's Nice To Meet You</div>-->
@@ -37,7 +37,7 @@
         </div>
         <div class="col-lg-6 order-lg-1">
           <div class="p-5"  style="color:#2A2B2DFF;">
-            <h2 class="display-4">Who?</h2>
+            <h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
             <p>Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
           </div>
         </div>
@@ -56,7 +56,7 @@
         </div>
         <div class="col-lg-6">
           <div class="p-5" style="color:#2DA8D8FF">
-            <h2 class="display-4" >When?</h2>
+            <h2 class="display-4 gradient-text2 font-weight-bold">When?</h2>
             <p>JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
           </div>
         </div>
@@ -64,7 +64,7 @@
     </div>
   </section>
 
-        <section style="background-color:##2DA8D8FF;">
+        <section style="background-color:#FFEFBA;">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-lg-6 order-lg-2">
@@ -74,7 +74,7 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5" style="color:#D9514EFF">
-                  <h2 class="display-4">Scouting Around The World</h2>
+                  <h2 class="display-4 gradient-text3 font-weight-bold">Scouting Around The World</h2>
                   <p>The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
                       an educational youth movement engaging young people from all over the world to
                       promote unity, respect, friendship, under- standing and peace.

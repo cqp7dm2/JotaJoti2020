@@ -9,8 +9,8 @@
 
     <header class="masthead">
       <div class="container">
-              <div class="masthead-heading mb-2" style="font-size: 35px;">JOTA JOTI 2020</div>
-              <div class="masthead-heading text-uppercase">Know more about Jota-Joti</div>
+              <div class="masthead-heading mb-2 move-text1" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
+              <div class="masthead-heading text-uppercase move-text2" style="text-shadow: 3px 3px 3px #7158e2;">Know more about<br>Jota Joti</div>
           </div>
     </header>
 

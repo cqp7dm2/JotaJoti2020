@@ -10140,6 +10140,9 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+  /*background-image: url(https://media.giphy.com/media/iiJapbhouUjFPXbN1d/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;*/
   background-color: rgba(0, 0, 0, 0.85);
   /*background-image: url("../assets/img/12.jpg");
   background-repeat: no-repeat;
@@ -10673,7 +10676,7 @@ section.contacts ul.list-social li.social-youtube a:hover {
 /*Fade-in effect end*/
 
 /*Text typign animation*/
-/*.text-typing {
+.text-typing {
   animation: type 3s steps(19);
   justify-content: center;
   overflow: hidden;
@@ -10681,6 +10684,7 @@ section.contacts ul.list-social li.social-youtube a:hover {
   border-right: 3px solid purple;
   width: 18ch;
 }
+
 @keyframes type {
   0% {
     width: 0ch;
@@ -10688,7 +10692,7 @@ section.contacts ul.list-social li.social-youtube a:hover {
   100% {
     width: 18ch;
   }
-}*/
+}
 /*Text typign animation end*/
 
 /*GIF text*/
@@ -10716,6 +10720,91 @@ section.contacts ul.list-social li.social-youtube a:hover {
     margin: 10px 0;
 }
 /*GIF text end*/
+
+/*Move text*/
+.move-text1 {
+  animation: move 3s;
+  text-align: center;
+  -webkit-animation: move 3s;
+}
+
+.move-text2 {
+  animation: move 4s;
+  text-align: center;
+  -webkit-animation: move 4s;
+}
+
+@keyframes move {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@-webkit-keyframes move {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+/*Move text ends*/
+
+/*Gradient text*/
+.gradient-text1 {
+  position: relative;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(90deg, #D9514EFF, #2A2B2DFF, #D9514EFF);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 3s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+.gradient-text2 {
+  position: relative;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(90deg, #2A2B2DFF, #2DA8D8FF, #2A2B2DFF);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 3s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+.gradient-text3 {
+  position: relative;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(90deg, #FFEFBA, #D9514EFF, #FFEFBA);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 3s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+@keyframes animate {
+  0% {
+    background-position: -500%;
+  }
+  100% {
+    background-position: 500%;
+  }
+}
+/*Gradient text ends*/
 
 .footer {
   text-align: center;
