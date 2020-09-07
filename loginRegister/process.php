@@ -10,8 +10,6 @@
 
 <?php
 
-//Testing again dont giv up
-
 if (isset($_POST['login'])) {
 
   include "../conn.php";
@@ -80,7 +78,7 @@ if (isset($_POST['login'])) {
           $_SESSION['u_email'] = $row["user_email"];
 
           echo ('<script>alert("Log In Success!")</script>');
-          echo "<script>window.location.href='../user.php';</script>";
+          echo "<script>window.location.href='userside.php';</script>";
 
           exit();
           }

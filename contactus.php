@@ -3,6 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <link href="css/styles.css" rel="stylesheet" />
   </head>
   <body>
       <?php include "header.php"; ?>
@@ -52,19 +60,19 @@
             <i class="fas fa-heart"></i>
             new friends!</h2>
           <ul class="list-inline list-social">
-            <li class="list-inline-item social-twitter">
+            <!-- <li class="list-inline-item social-twitter">
               <a href="#">
                 <i class="fab fa-twitter"></i>
               </a>
-            </li>
+            </li> -->
             <li class="list-inline-item social-facebook">
-              <a href="#">
+              <a href="https://www.messenger.com/t/232000980145607" target="_blank">
                 <i class="fab fa-facebook-f"></i>
               </a>
             </li>
-            <li class="list-inline-item social-google-plus">
-              <a href="#">
-                <i class="fab fa-google-plus-g"></i>
+            <li class="list-inline-item social-youtube">
+              <a href="https://www.youtube.com/channel/UC3P9q6Zakt-olweYIC7OeMw?view_as=subscriber" target="_blank">
+                <i class="fab fa-youtube"></i>
               </a>
             </li>
           </ul>
