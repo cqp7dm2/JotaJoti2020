@@ -86,7 +86,7 @@
                     4)	Participants can answer as many questions as possible until the time is up. <br>
                     5)	The more questions are answered the more points earned. <br>
                     6)	Leader board shows the ranking. <br>
-                    7)	Top 3 will have the position written in their e-certificate. <br> <br> <br> <br> <br>
+                    7)	Top 3 will have the position written in their e-certificate. <br> <br>
                 </p>
               </div>
             </div>
@@ -105,7 +105,7 @@
                 <p> 1)	Morse Codes are presented to participants <br>
                     2)	Participants are required to translate the Morse codes into words or answer questions after listening to the codes <br>
                     3)	As for Phonetics Alphabets, questions/statements are given in phonetics alphabets, participants have to answer or translate into words. <br>
-                    4)	Total questions are 30 in total, automatically suffered for participants to answer 10 questions <br>
+                    4)	Total questions are 30 in total, automatically suffered for participants to answer 10 questions
                 </p>
               </div>
             </div>
@@ -114,8 +114,8 @@
                 <i class="icofont-settings"></i>
                 <h4><a>Exchange JID</a></h4>
                 <p> 1)	Participants are required to collect 10 JID codes for other participants all around the world. <br>
-                    2)	Repeated JID codes in one’s collection are considered not valid. <br>
-                    </p> <br> <br> <br> <br>
+                    2)	Repeated JID codes in one’s collection are considered not valid. <br> <br> <br>
+                    </p> <br> <br>
               </div>
             </div>
           </div>
@@ -131,7 +131,7 @@
                 <i class="icofont-earth"></i>
                 <h4><a>Find the location</a></h4>
                 <p> 1)	Participants required Google Map to complete the challenge. <br>
-                    2)	The challenge is to find locations in google map by following the instruction/directions given. <br> <br> <br> <br>
+                    2)	The challenge is to find locations in google map by following the instruction/directions given. <br> <br> <br>
                 </p>
               </div>
             </div>
