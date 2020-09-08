@@ -177,5 +177,8 @@
 
         </div>
       </section><!-- End Services Section -->
+
+      <?php include "footer.php"; ?>
+
   </body>
 </html>
