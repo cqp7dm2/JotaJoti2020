@@ -128,7 +128,7 @@
                     <div class="row pt-6">
                       <ul class="font-weight-bold pt-3" style="list-style-type: none;">
                         <li><a href="#" style="font-size: 13px; color: #fff;">Terms and Condition</a></li>
-                        <li><a href="#" style="font-size: 13px; color: #fff;">FAQ</a></li>
+                        <li><a href="faq.php" style="font-size: 13px; color: #fff;">FAQ</a></li>
                         <li><a href="#" style="font-size: 13px; color: #fff;">Cookies Policy</a></li>
                         <li><a href="#" style="font-size: 13px; color: #fff;">Privacy Policy</a></li>
                         <li><a href="#" style="font-size: 13px; color: #fff;">Terms of Use</a></li>
