@@ -29,7 +29,7 @@
           <div class="p-5">
             <div class="content">
               <div class="content-overlay"></div>
-              <img class="img-fluid content-image" src="assets/img/01.jpg" alt="">
+              <img class="img-fluid content-image" src="assets/img/1.jpg" alt="">
               <div class="content-details fadeIn-left">
                 <h3>This is a title</h3>
                 <p>This is a short description</p>
@@ -63,7 +63,7 @@
         <div class="col-lg-6">
           <div class="p-5">
 
-            <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/02.jpg" alt="">
+            <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/2.jpg" alt="">
 
             <!--<img class="img-fluid " src="assets/img/02.jpg" alt="">-->
 
