@@ -10140,28 +10140,26 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  /*background-image: url(https://media.giphy.com/media/iiJapbhouUjFPXbN1d/giphy.gif);
+  background-image: url(https://media.giphy.com/media/iiJapbhouUjFPXbN1d/giphy.gif);
   background-repeat: no-repeat;
-  background-size: cover;*/
-  background-color: rgba(0, 0, 0, 0.85);
+  background-size: cover;
+
   /*background-image: url("../assets/img/12.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;*/
 }
-#overlay {
-  position: fixed; /* Sit on top of the page content*/
-  display: none; /* Hidden by default */
+.overlay {
+  position: absolute; /* Sit on top of the page content*/
   width: 100%; /* Full width (cover the whole page) */
-  height: 100%; /* Full height (cover the whole page) */
+  height: 130.5%; /* Full height (cover the whole page) */
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   background-color: rgba(0,0,0,0.5); /* Black background with opacity */
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
-  cursor: pointer; /* Add a pointer on hover */
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;

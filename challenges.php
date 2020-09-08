@@ -29,6 +29,8 @@
                   <div class="row">
 
                       <h3>Basic Requirement</h3>
+                  </div>
+                  <div class="row">
                       <p> 1)	Participants need to have an e-mail account to participants. <br>
                           2)	All the games and challenges are published in our Jota-Joti website. <br>
                           3)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
