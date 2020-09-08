@@ -16,6 +16,41 @@
                 <div class="masthead-heading text-uppercase">Don't limit your challenges.<br>Challenge your limits.</div>
             </div>
       </header>
+
+      <section class="page-section" id="services">
+        <div class="container">
+          <h2 class="text-center mt-0">Information for participating in this event</h2>
+          <hr class="divider my-4" />
+
+
+            <div class="col-lg-11 mt-4 mt-lg-0">
+              <div class="tab-content">
+                <div class="tab-pane active show" id="tab-1">
+                  <div class="row">
+
+                      <h3>Basic Requirement</h3>
+                      <p> 1)	Participants need to have an e-mail account to participants. <br>
+                          2)	All the games and challenges are published in our Jota-Joti website. <br>
+                          3)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
+                          4)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
+                      </p>
+                      <h3>Method of Operations</h3>
+                      <p> 1)	2 tasks/games per week, total of 4 weeks. (8 tasks in total) <br>
+                          2)	Tasks are to upload at the first day of the week  <br>
+                          3)	Completion card is to send to participants once they submit the tasks <br>
+                          4)	1st week starts on the registration date (15 Sept) <br>
+                          5)	Requirement of tasks included social media uploading and answering through online. <br>
+                          6)	The tasks must be completed within 2 weeks once they are uploaded. (eg. The 1st week’s tasks are removed at the 3rd week)
+                      </p>
+
+                  </div>
+                </div>
+                  </div>
+                </div>
+        </div>
+
+      </section>
+
       <section class="page-section" id="services">
           <div class="container">
               <h2 class="text-center mt-0">Activities for each week</h2>
