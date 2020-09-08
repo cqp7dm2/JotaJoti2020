@@ -10,8 +10,8 @@
     <!-- Masthead-->
     <header class="masthead">
       <div class="container">
-        <div class="masthead-heading mb-2 move-text1" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
-        <div class="masthead-heading text-uppercase move-text2" style="text-shadow: 3px 3px 3px #7158e2;">It's Nice To Meet You</div>
+        <div class="masthead-heading mb-2 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
+        <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">It's Nice To Meet You</div>
 
         <!--Text Typing Animation-->
         <!--<div class="masthead-heading text-uppercase text-typing">It's Nice To Meet You</div>-->
