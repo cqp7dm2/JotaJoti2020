@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Jota-Joti 2020</title>
   </head>
   <body>
         <?php include "header.php"; ?>
@@ -65,6 +65,27 @@
           </div>
         </div>
       </section>
+<<<<<<< HEAD
+=======
+      <section class="page-section" id="services">
+        <div class="container">
+          <h2 class="text-center mt-0">Information for participating in this event</h2>
+          <hr class="divider my-4" />
+          <h3 class="text-center mb-2">Short Film Competition,THEME: Year 2020</h3>
+        </div>
+        <div class="row px-5 mx-4">
+          <p> This year has not been an easy one for all of us. Small businesses were affected,
+            thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
+            How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
+            the year, or a reenactment of this year itself. As long as it is according to the theme,
+            let your ideas roam freely! <br><br>
+            1)	DURATION:<br>
+            2)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
+            3)	Online submission &amp; posting statue in Facebook is required.  <br> <br> <br>
+          <p>
+        </div>
+      </section>
+>>>>>>> 6f17f37aea7621dfdce90c93858a018079bc5df2
 
       <?php include "footer.php"; ?>
 
