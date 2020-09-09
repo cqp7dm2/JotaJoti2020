@@ -215,7 +215,7 @@
               ●	People’s Choice Award<br><br>
           </P>
 
-          <h3>Group Photo Competition THEME: WHO AM I??</h3>
+          <h3>Group Photo Competition, THEME: WHO AM I??</h3>
           <p>
             1)	NUMBER OF PARTICIPANTS (for secondary school students): <br>
               ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). <br><br>
