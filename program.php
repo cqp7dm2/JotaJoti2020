@@ -71,7 +71,7 @@
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
           <hr class="divider my-4" />
-          <h3 class="text-center mb-2">Short Film Competition,THEME: Year 2020</h3>
+          <h3 class="text-side mb-2">Short Film Competition,THEME: Year 2020</h3>
         </div>
         <div class="row px-5 mx-4">
           <p> This year has not been an easy one for all of us. Small businesses were affected,
@@ -101,6 +101,14 @@
             ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br><br>
           </p>
 
+          <h3>Method of Operations</h3>
+          <p> 1)	2 tasks/games per week, total of 4 weeks. (8 tasks in total) <br>
+              2)	Tasks are to upload at the first day of the week  <br>
+              3)	Completion card is to send to participants once they submit the tasks <br>
+              4)	1st week starts on the registration date (15 Sept) <br>
+              5)	Requirement of tasks included social media uploading and answering through online. <br>
+              6)	The tasks must be completed within 2 weeks once they are uploaded. (eg. The 1st week’s tasks are removed at the 3rd week)
+          </p>
 
 
 
