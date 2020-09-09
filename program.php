@@ -65,8 +65,8 @@
           </div>
         </div>
       </section>
-<<<<<<< HEAD
-=======
+
+
       <section class="page-section" id="services">
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
@@ -85,7 +85,7 @@
           <p>
         </div>
       </section>
->>>>>>> 6f17f37aea7621dfdce90c93858a018079bc5df2
+
 
       <?php include "footer.php"; ?>
 
