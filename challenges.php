@@ -3,6 +3,108 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
+    <style>
+    .hover-div {
+      transition: 1s box-shadow;
+    }
+
+    .hover-div:hover {
+      box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);
+    }
+
+    .hover-div:hover::before, .hover-div:hover::after {
+      display: block;
+      content: '';
+      position: absolute;
+      background: #FDA8CF;
+      border-radius: 75px;
+      z-index: -1;
+      animation: 1s clockwise infinite;
+    }
+
+    .hover-div:hover:after {
+      background: #F3CE5E;
+      animation: 2s counterclockwise infinite;
+    }
+
+    @keyframes clockwise {
+      0% {
+        top: -5px;
+        left: 0;
+      }
+      12% {
+        top: -2px;
+        left: 2px;
+      }
+      25% {
+        top: 0;
+        left: 5px;
+      }
+      37% {
+        top: 2px;
+        left: 2px;
+      }
+      50% {
+        top: 5px;
+        left: 0;
+      }
+      62% {
+        top: 2px;
+        left: -2px;
+      }
+      75% {
+        top: 0;
+        left: -5px;
+      }
+      87% {
+        top: -2px;
+        left: -2px;
+      }
+      100% {
+        top: -5px;
+        left: 0;
+      }
+    }
+
+    @keyframes counterclockwise {
+      0% {
+        top: -5px;
+        right: 0;
+      }
+      12% {
+        top: -2px;
+        right: 2px;
+      }
+      25% {
+        top: 0;
+        right: 5px;
+      }
+      37% {
+        top: 2px;
+        right: 2px;
+      }
+      50% {
+        top: 5px;
+        right: 0;
+      }
+      62% {
+        top: 2px;
+        right: -2px;
+      }
+      75% {
+        top: 0;
+        right: -5px;
+      }
+      87% {
+        top: -2px;
+        right: -2px;
+      }
+      100% {
+        top: -5px;
+        right: 0;
+      }
+    }
+    </style>
     <link href="css/style.css" rel="stylesheet" />
     <!-- <link href="css/challenge.css" rel="stylesheet" /> -->
   </head>
@@ -102,11 +204,11 @@
 
           <div class="row">
             <div class="col-md-6">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-computer"></i>
                 <h4><a>Poster Challenge</a></h4>
                 <p> 1)	Participants have to create a poster with to promote and attract more people to join Jota-Joti 2020. <br>
-                    2)	The completed poster is required to post on your Facebook statues with some captions and hashtag #JotaJoti2020 & #CabaranPosterChallege <br>
+                    2)	The completed poster is required to post on your Facebook statues with some captions and hashtag <span style="color: #fed136;">#JotaJoti2020</span> &amp; <span style="color: #fed136;">#CabaranPosterChallege</span>. <br>
                     3)	The size of poster is not limited, as long as it is able to be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
                     4)	The poster must include the Logo of Jota-Joti 2020, and Date of the event. <br>
                     5)	Method of creating is not limited. (Hand drawing/Online editing) <br>
@@ -115,7 +217,7 @@
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <h4><a>Jota Joti Quiz</a></h4>
                 <p> 1)	Total of 30 questions. <br>
                     2)	The questions are automatically shuffled for participants. <br>
@@ -123,7 +225,7 @@
                     4)	Participants can answer as many questions as possible until the time is up. <br>
                     5)	The more questions are answered the more points earned. <br>
                     6)	Leader board shows the ranking. <br>
-                    7)	Top 3 will have the position written in their e-certificate. <br> <br>
+                    7)	Top 3 will have the position written in their e-certificate. <br> <br> <br>
                 </p>
               </div>
             </div>
@@ -136,7 +238,7 @@
 
             <div class="row">
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-image"></i>
                 <h4><a>Morse Code & Phonetic</a></h4>
                 <p> 1)	Morse Codes are presented to participants <br>
@@ -147,12 +249,16 @@
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-settings"></i>
                 <h4><a>Exchange JID</a></h4>
+                <!--<ol>
+                  <li style="font-size: 15px;"><p>Participants are required to collect 10 JID codes for other participants all around the world.</p></li>
+                  <li style="font-size: 15px;"><p>Repeated JID codes in one’s collection are considered not valid.</p></li>
+                </ol>-->
                 <p> 1)	Participants are required to collect 10 JID codes for other participants all around the world. <br>
                     2)	Repeated JID codes in one’s collection are considered not valid. <br> <br> <br>
-                    </p> <br> <br>
+                  </p> <br> <br> <br>
               </div>
             </div>
           </div>
@@ -164,7 +270,7 @@
 
           <div class="row">
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-earth"></i>
                 <h4><a>Find the location</a></h4>
                 <p> 1)	Participants required Google Map to complete the challenge. <br>
@@ -173,7 +279,7 @@
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-tasks-alt"></i>
                 <h4><a>Pac-man</a></h4>
                 <p> 1)	Specific points are required to reach or excess to be consider as completed the challenge. <br>
@@ -191,7 +297,7 @@
 
           <div class="row">
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-earth"></i>
                 <h4><a>Dinosaur Jump</a></h4>
                 <p> 1)	Specific points are required to reach or excess to be consider as completed the challenge. <br>
@@ -200,7 +306,7 @@
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
-              <div class="icon-box">
+              <div class="icon-box hover-div">
                 <i class="icofont-tasks-alt"></i>
                 <h4><a>Online Chess</a></h4>
                 <p> 1)	Computer is the opponent of the participants. <br>
