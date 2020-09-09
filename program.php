@@ -66,28 +66,6 @@
         </div>
       </section>
 
-        <h2 class="text-center mt-0">Information about program structure</h2>
-        <hr class="divider my-4" />
-
-            <div class="col-lg-11 mt-4 mt-lg-0">
-              <div class="tab-content">
-                <div class="tab-pane active show" id="tab-1">
-                  <div class="row">
-
-        <h3>Short Film Comppetition,THEME: Year 2020</h3>
-                          </div>
-                          <div class="row">
-                              <p> This year has not been an easy one for all of us. Small businesses were affected,
-                                  thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-                                  How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of the year,
-                                  or a reenactment of this year itself. As long as it is according to the theme, let your ideas roam freely!
-                                  <br>
-                                  1)	DURATION:<br>
-                                  2)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
-                                  3)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
-
-        </div>
-      </section>
       <?php include "footer.php"; ?>
 
   </body>
