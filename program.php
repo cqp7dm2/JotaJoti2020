@@ -141,8 +141,8 @@
 
             5)	COPYRIGHT:<br>
               ●	The video submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
-              (1) Participants have a license to use such works in the Video; or <br>
-              (2) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
+              (a) Participants have a license to use such works in the Video; or <br>
+              (b) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
               ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.<br><br>
 
             6) 	DEADLINE:<br>
@@ -190,8 +190,8 @@
 
             4)	COPYRIGHT:<br>
               ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
-              (1) Participants have a license to use such works in the song(s); or <br>
-              (2) the use participants’ song(s) makes of such works is a fair one under the copyright laws.<br>
+              (a) Participants have a license to use such works in the song(s); or <br>
+              (b) the use participants’ song(s) makes of such works is a fair one under the copyright laws.<br>
               ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.<br><br>
 
             5)	DEADLINE: <br>
