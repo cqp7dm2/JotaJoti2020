@@ -71,7 +71,6 @@
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
           <hr class="divider my-4" />
-          <h3 class="text-centre mb-2">Short Film Competition,THEME: Year 2020</h3>
         </div>
         <div class="row px-5 mx-4">
 
