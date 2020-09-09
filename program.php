@@ -110,7 +110,7 @@
           </P>
 
 
-        <h3>Dance Competition</h3>
+        <h3>Dance Competition</h3><br>
          <p> 1)	NUMBER OF PARTICIPANTS (size of the crews): <br>
             ●	5-10 members.<br>
 
