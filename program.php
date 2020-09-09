@@ -71,8 +71,7 @@
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
           <hr class="divider my-4" />
-        </div>
-        <div class="row px-5 mx-4">
+            <div class="row px-5 mx-4">
 
           <h3>Short Film Competition, THEME: Year 2020</h3>
           <p> This year has not been an easy one for all of us. Small businesses were affected,
@@ -247,14 +246,8 @@
 
           </P>
 
-
-
-
-
-
-
-
           <p>
+        </div>
         </div>
       </section>
 

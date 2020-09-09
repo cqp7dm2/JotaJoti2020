@@ -225,7 +225,7 @@
                     4)	Participants can answer as many questions as possible until the time is up. <br>
                     5)	The more questions are answered the more points earned. <br>
                     6)	Leader board shows the ranking. <br>
-                    7)	Top 3 will have the position written in their e-certificate. <br> <br> <br>
+                    7)	Top 3 will have the position written in their e-certificate. <br> <br>
                 </p>
               </div>
             </div>
@@ -258,7 +258,7 @@
                 </ol>-->
                 <p> 1)	Participants are required to collect 10 JID codes for other participants all around the world. <br>
                     2)	Repeated JID codes in one’s collection are considered not valid. <br> <br> <br>
-                  </p> <br> <br> <br>
+                  </p> <br> <br>
               </div>
             </div>
           </div>
