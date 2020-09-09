@@ -65,8 +65,8 @@
           </div>
         </div>
       </section>
-    
-        <h2 class="text-center mt-0">Information for participating in this event</h2>
+
+        <h2 class="text-center mt-0">Information about program structure</h2>
         <hr class="divider my-4" />
 
         <h3>Short Film Comppetition,THEME: Year 2020</h3>
