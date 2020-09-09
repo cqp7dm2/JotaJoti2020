@@ -111,11 +111,7 @@
 
 
           <h3>Short Film Competition,THEME: Year 2020</h3>
-          <p> This year has not been an easy one for all of us. Small businesses were affected,
-            thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-            How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
-            the year, or a reenactment of this year itself. As long as it is according to the theme,
-            let your ideas roam freely! <br><br>
+          <p> 
             1)	DURATION:<br>
             	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br><br>
             2)	LANGUAGE:  <br>
