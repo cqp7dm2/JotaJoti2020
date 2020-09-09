@@ -81,7 +81,7 @@
             let your ideas roam freely! <br><br>
             1)	DURATION:<br>
             	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br>
-            2)	LANGUAGE:  <br> <br> <br>
+            2)	LANGUAGE:  <br> 
             ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
             ●	Subtitles in English are compulsory. <br>
 
