@@ -111,8 +111,10 @@
 
 
           <h3>Short Film Competition,THEME: Year 2020</h3>
-          <p> 
-            1)	DURATION:<br>
+          <p>
+            1)	1.	NUMBER OF PARTICIPANTS (size of the crews): <br>
+              ●	5-10 members.<br>
+<
             	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br><br>
             2)	LANGUAGE:  <br>
               ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
