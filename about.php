@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <th scope="row">Vice Treasurer</th>
-      <td>Tan Kai Wern <br> <br> Koay Zi Jie</td>
+      <td> Koay Zi Jie <br>Tan Kai Wern</td>
     </tr>
     <tr>
       <th scope="row">Program Unit (Senior)</th>
@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <th scope="row">Sponsorship</th>
-      <td>Chong Wen Jun <br> <br>Hoe Dong Liang</td>
+      <td>Chong Wen Jun <br> Hoe Dong Liang</td>
     </tr>
     <tr>
       <th scope="row">Merchandising Donation and Distribution</th>
