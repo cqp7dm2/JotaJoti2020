@@ -10599,80 +10599,6 @@ section.contacts ul.list-social li.social-youtube a:hover {
   background-color: #d73925;
 }
 
-/*Fade-in effect for image*/
-.content {
-  position: relative;
-  width: 90%;
-  max-width: 400px;
-  margin: auto;
-  overflow: hidden;
-}
-
-.content .content-overlay {
-  background: rgba(0,0,0,0.7);
-  position: absolute;
-  height: 99%;
-  width: 100%;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  opacity: 0;
-  -webkit-transition: all 0.4s ease-in-out 0s;
-  -moz-transition: all 0.4s ease-in-out 0s;
-  transition: all 0.4s ease-in-out 0s;
-}
-
-.content:hover .content-overlay{
-  opacity: 1;
-}
-
-.content-image{
-  width: 100%;
-}
-
-.content-details {
-  position: absolute;
-  text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  width: 100%;
-  top: 50%;
-  left: 50%;
-  opacity: 0;
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  -webkit-transition: all 0.3s ease-in-out 0s;
-  -moz-transition: all 0.3s ease-in-out 0s;
-  transition: all 0.3s ease-in-out 0s;
-}
-
-.content:hover .content-details{
-  top: 50%;
-  left: 50%;
-  opacity: 1;
-}
-
-.content-details h3{
-  color: #fff;
-  font-weight: 500;
-  letter-spacing: 0.15em;
-  margin-bottom: 0.5em;
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: uppercase;
-}
-
-.content-details p{
-  color: #fff;
-  font-size: 0.8em;
-}
-
-.fadeIn-left{
-  left: 20%;
-}
-/*Fade-in effect end*/
-
 /*Text typign animation*/
 .text-typing {
   animation: type 3s steps(19);
@@ -10888,6 +10814,73 @@ section {
 /* .services .icon-box:hover h4 a {
   color: #d9232d;
 } */
+
+@-webkit-keyframes wobble {
+	0% {
+		-webkit-transform: translateX(0%);
+	}
+
+    15% {
+		-webkit-transform: translateX(-25%) rotate(-5deg);
+	}
+
+	30% {
+		-webkit-transform: translateX(20%) rotate(3deg);
+	}
+
+	45% {
+		-webkit-transform: translateX(-15%) rotate(-3deg);
+	}
+
+    60% {
+		-webkit-transform: translateX(10%) rotate(2deg);
+	}
+
+    75% {
+		-webkit-transform: translateX(-5%) rotate(-1deg);
+	}
+
+    100% {
+		-webkit-transform: translateX(0%);
+	}
+}
+
+@keyframes wobble {
+	0% {
+		transform: translateX(0%);
+	}
+
+    15% {
+		transform: translateX(-25%) rotate(-5deg);
+	}
+
+	30% {
+		transform: translateX(20%) rotate(3deg);
+	}
+
+	45% {
+		transform: translateX(-15%) rotate(-3deg);
+	}
+
+	60% {
+		transform: translateX(10%) rotate(2deg);
+	}
+
+    75% {
+		transform: translateX(-5%) rotate(-1deg);
+	}
+
+	100% {
+		transform: translateX(0%);
+	}
+}
+
+.faa-wobble.animated,
+.faa-wobble.animated-hover:hover,
+.faa-parent.animated-hover:hover > .faa-wobble {
+  -webkit-animation: wobble 3s infinite linear;
+  animation: wobble 3s infinite linear;
+}
 
 .footer {
   background-color: #212529;

@@ -3,7 +3,9 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel="stylesheet" type="text/css" href="assets/img/my-icons-collection/font/flaticon.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body>
     <?php include "header.php"; ?>
@@ -26,19 +28,15 @@
     <div class="container" >
       <div class="row align-items-center">
         <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <div class="content">
-              <div class="content-overlay"></div>
-              <img class="img-fluid content-image" src="assets/img/1.jpg" alt="">
-              <div class="content-details fadeIn-left">
-                <h3>This is a title</h3>
-                <p>This is a short description</p>
-              </div>
-            </div>
+          <div class="p-5" data-aos="slide-up">
+              <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
           </div>
+          <script>
+            AOS.init();
+          </script>
         </div>
         <div class="col-lg-6 order-lg-1">
-          <div class="p-5" style="color:#2A2B2DFF;">
+          <div class="p-5" data-aos="fade-right" style="color:#2A2B2DFF;">
             <div class="row">
               <div class="col-6">
                 <h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
@@ -61,7 +59,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <div class="p-5">
+          <div class="p-5" data-aos="fade-down-right">
 
             <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/2.jpg" alt="">
 
@@ -70,7 +68,7 @@
           </div>
         </div>
         <div class="col-lg-6">
-          <div class="p-5" style="color:#2DA8D8FF">
+          <div class="p-5" data-aos="fade-left" style="color:#2DA8D8FF">
             <div class="row">
               <div class="col-6">
                 <h2 class="display-4 gradient-text2 font-weight-bold">When?</h2>
@@ -90,12 +88,12 @@
           <div class="container">
             <div class="row align-items-center">
               <div class="col-lg-6 order-lg-2">
-                <div class="p-5">
+                <div class="p-5" data-aos="fade-down">
                   <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/header-bg.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-6 order-lg-1">
-                <div class="p-5" style="color:#D9514EFF">
+                <div class="p-5" data-aos="fade-right" style="color:#D9514EFF">
                   <div class="row">
                     <div class="col-9">
                       <h2 class="display-4 gradient-text3 font-weight-bold">Scouting Around The World</h2>
