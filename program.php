@@ -81,9 +81,24 @@
             let your ideas roam freely! <br><br>
             1)	DURATION:<br>
             	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br>
-            2)	LANGUAGE:  <br> 
-            ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
-            ●	Subtitles in English are compulsory. <br>
+            2)	LANGUAGE:  <br>
+              ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
+              ●	Subtitles in English are compulsory. <br>
+            3) TOPIC SENSITIVITY: <br>
+              ●	All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed. <br>
+            4)	COPYRIGHT: <br>
+            ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,
+            (a) Participants have a license to use such works in the Film; or
+            (b) the use participants’ Film makes of such works is a fair one under the copyright laws.
+            ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason
+
+
+
+
+
+
+
+
 
           <p>
         </div>
