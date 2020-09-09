@@ -26,7 +26,7 @@
               <a class="portfolio-item" href="#!">
                 <div class="caption">
                   <div class="caption-content">
-                    <div class="h2">Short Film Competition,THEME: YEAR 2020 </div>                    
+                    <div class="h2">Short Film Competition,THEME: YEAR 2020 </div>
                   </div>
                 </div>
                 <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
@@ -65,6 +65,16 @@
           </div>
         </div>
       </section>
+      <section class="page-section" id="services">
+      <div class="container">
+        <h2 class="text-center mt-0">Information for participating in this event</h2>
+        <hr class="divider my-4" />
+
+
+          <div class="col-lg-11 mt-4 mt-lg-0">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="tab-1">
+                <div class="row">
 
       <?php include "footer.php"; ?>
 
