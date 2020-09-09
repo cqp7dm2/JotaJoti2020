@@ -71,10 +71,6 @@
         <hr class="divider my-4" />
 
 
-          <div class="col-lg-11 mt-4 mt-lg-0">
-            <div class="tab-content">
-              <div class="tab-pane active show" id="tab-1">
-                <div class="row">
 
       <?php include "footer.php"; ?>
 
