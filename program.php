@@ -97,8 +97,8 @@
             6) 6.	SUBMISSION:<br>
             ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
             ●	Judges decision will be final and binding<br>
-            ●	Submissions should be done via Google Drive with file name <TROOPNAME_SHORTFILM><br>
-            ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name <TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc>.<br><br>
+            ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
+            ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br><br>
 
 
 
