@@ -95,20 +95,27 @@
             5) 	DEADLINE: <br>
             ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
             ●	 Films received after this deadline will not be viewed or rated by the judging panel.<br><br>
-            6) 6.	SUBMISSION:<br>
+            6) 	SUBMISSION:<br>
             ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
             ●	Judges decision will be final and binding<br>
             ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
             ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br><br>
-          </p>
+            ●	Kindly send the Google Drive link to the email Joinjota@scout.my and CC rachcytan@gmail.com .
+            ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/rachel.tan.7796/ OR Email: rachcytan@gmail.com.<br><br>
+            7) PRIZES: <br>
+            ●	Best Actor<br>
+            ●	Best Actress<br>
+            ●	Best Film<br>
+            ●	People’s Choice Award<br><br>
+          </P>
 
-          <h3>Method of Operations</h3>
-          <p> 1)	2 tasks/games per week, total of 4 weeks. (8 tasks in total) <br>
-              2)	Tasks are to upload at the first day of the week  <br>
-              3)	Completion card is to send to participants once they submit the tasks <br>
-              4)	1st week starts on the registration date (15 Sept) <br>
-              5)	Requirement of tasks included social media uploading and answering through online. <br>
-              6)	The tasks must be completed within 2 weeks once they are uploaded. (eg. The 1st week’s tasks are removed at the 3rd week)
+
+        <h3>Dance Competition</h3>
+         <p> 1)	NUMBER OF PARTICIPANTS (size of the crews): <br>
+            ●	5-10 members.<br>
+
+ <br>
+
           </p>
 
 
