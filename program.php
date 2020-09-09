@@ -114,7 +114,6 @@
          <p> 1)	NUMBER OF PARTICIPANTS (size of the crews): <br><br>
             ●	5-10 members.<br>
 
- <br>
 
           </p>
 
