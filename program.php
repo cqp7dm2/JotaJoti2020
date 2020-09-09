@@ -91,6 +91,16 @@
             (a) Participants have a license to use such works in the Film; or <br>
             (b) the use participants’ Film makes of such works is a fair one under the copyright laws.<br>
             ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason <br><br>
+            5) 	DEADLINE: <br>
+            ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
+            ●	 Films received after this deadline will not be viewed or rated by the judging panel.<br><br>
+            6) 6.	SUBMISSION:<br>
+            ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+            ●	Judges decision will be final and binding<br>
+            ●	Submissions should be done via Google Drive with file name <TROOPNAME_SHORTFILM><br>
+            ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name <TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc>.<br><br>
+
+
 
 
 
