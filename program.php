@@ -165,55 +165,105 @@
               ●	People’s choices award<br><br>
           </P>
 
-          <h3>Short Film Competition,THEME: Year 2020</h3>
+          <h3>Singing Competition</h3>
           <p>
-            1)	NUMBER OF PARTICIPANTS (size of the crews): <br>
-              ●	5-10 members.<br><br>
+            1)	NUMBER OF PARTICIPANTS (for secondary school students): <br>
+              ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). <br><br>
 
-            2)	MUSIC LENGTH:<br>
-              ●	Maximum 5:00 min.<br><br>
+            2)	DURATION: <br>
+              ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.<br><br>
 
-            3) 	RULES:<br>
-              ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
-              ●	All registered participants must appear in video throughout the dance.<br>
-              ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, etc.).<br>
-              ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
-              ●	Coach, teacher, choreographer or any other very experienced dancer are not allowed to participate in the competition.<br>
-              ●	Each crew can have more than one (1) submission per video. It is allowed for the same participant to participate in two (2) or more videos.<br>
-              ●	Attire may include accessories such as hats, caps, gloves, scarves, jewellery, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character.
-                Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed. Tap shoes, jazz shoes, high-heeled shoes and bare feet are prohibited. <br><br>
+            3)  RULES: <br>
+              ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
+              ●	All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old.<br>
+              ●	All registered participants which participate in singing competition must appear (show faces) in the video throughout singing.<br>
+              ●	Musical instruments can be included in the song (if any), or non-musical instruments also can be used.<br>
+              ●	No copyrighted or plagiarized material may be submitted. Such entries will be disqualified.<br>
+              ●	The songs should not contain any of the following: profanity; vulgarity; obscene or pornographic content; hate or racist speech; disruptive or hostile remarks; threats of violence.<br>
+              ●	Own mashup in one video is allowed (can perform more than one song but should not more than 5 minutes).<br>
+              ●	Own acapella in one video is allowed (if acapella is included, participant(s) can choose either to use self-played piano as background music or not).<br>
+              ●	Coach, teacher, or any other very experienced singers are not allowed to participate in the competition.<br>
+              ●	If the judges suspect that participant(s) did any lip sync or did not sing by themselves, the organizer has the power to request participant(s)
+                to record a short video of showing their face(s) singing OR record a short video of self-introduction to prove that they are not lip synced in the song.<br>
+              ●	Each team can have more than one (1) submission per video. It is allowed for the same participants to participate in two (2) or more videos.
+                Participants are not allowed to submit more than one (1) submission of video having the similar content. <br>
+              ●	Participants must be dressed appropriately.<br><br>
 
-            4)	MUSIC:<br>
-              ●	Music must be pre-cut and prepared.<br>
-              ●	Please ensure the video uploaded is with music.<br>
-              ●	Please make sure the version is CLEAN/family friendly otherwise the video will be not accepted.<br><br>
-
-            5)	COPYRIGHT:<br>
-              ●	The video submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
-              (1) Participants have a license to use such works in the Video; or <br>
-              (2) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
+            4)	COPYRIGHT:<br>
+              ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
+              (1) Participants have a license to use such works in the song(s); or <br>
+              (2) the use participants’ song(s) makes of such works is a fair one under the copyright laws.<br>
               ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.<br><br>
 
-            6) 	DEADLINE:<br>
-              ●	The deadline for submission of film is 1159 hours (+8 GMT) 9th, October 2020.<br>
-              ●	Videos received after this deadline will not be viewed or rated by the judging panel.<br><br>
+            5)	DEADLINE: <br>
+              ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
 
-            7)  SUBMISSION:<br>
+            6) 	SUBMISSION:<br>
               ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
               ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
-              ●	Judges decision will be final and binding.<br>
-              ●	Submissions should be done via Google Drive with file name "CREWNAME_DANCE".<br>
-              ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "CREW_PARTICIPANT_DETAILS.doc".<br>
-              ●	Kindly send the Google Drive link to the email Joinjota@scout.my and CC nickjun2000@gmail.com .<br>
+              ●	Judges’ decisions will be final and binding.<br>
+              ●	Submissions should be done via Google Drive with file name "TROOPNAME_SONG".<br>
+              ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_INFO.doc".<br>
+              ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_PARTICIPANT_DETAILS.doc".<br>
+              ●	Kindly send the Google Drive link to the email: joinjota@scout.my AND CC email: evateng0124@gmail.com.<br><br>
 
-            8)  PRIZES:<br>
-              ●	Best dance crew award<br>
-              ●	Rising star award<br>
-              ●	Most creative dance crew<br>
-              ●	People’s choices award<br><br>
+            7) PRIZES: <br>
+              ●	Champion<br>
+              ●	1st Runner Up<br>
+              ●	Best Singer<br>
+              ●	Best Band<br>
+              ●	People’s Choice Award<br><br>
           </P>
 
+          <h3>Group Photo Competition THEME: WHO AM I??</h3>
+          <p>
+            1)	NUMBER OF PARTICIPANTS (for secondary school students): <br>
+              ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). <br><br>
 
+            2)	DURATION: <br>
+              ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.<br><br>
+
+            3)  RULES: <br>
+              ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
+              ●	All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old.<br>
+              ●	All registered participants which participate in singing competition must appear (show faces) in the video throughout singing.<br>
+              ●	Musical instruments can be included in the song (if any), or non-musical instruments also can be used.<br>
+              ●	No copyrighted or plagiarized material may be submitted. Such entries will be disqualified.<br>
+              ●	The songs should not contain any of the following: profanity; vulgarity; obscene or pornographic content; hate or racist speech; disruptive or hostile remarks; threats of violence.<br>
+              ●	Own mashup in one video is allowed (can perform more than one song but should not more than 5 minutes).<br>
+              ●	Own acapella in one video is allowed (if acapella is included, participant(s) can choose either to use self-played piano as background music or not).<br>
+              ●	Coach, teacher, or any other very experienced singers are not allowed to participate in the competition.<br>
+              ●	If the judges suspect that participant(s) did any lip sync or did not sing by themselves, the organizer has the power to request participant(s)
+                to record a short video of showing their face(s) singing OR record a short video of self-introduction to prove that they are not lip synced in the song.<br>
+              ●	Each team can have more than one (1) submission per video. It is allowed for the same participants to participate in two (2) or more videos.
+                Participants are not allowed to submit more than one (1) submission of video having the similar content. <br>
+              ●	Participants must be dressed appropriately.<br><br>
+
+            4)	COPYRIGHT:<br>
+              ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
+              (1) Participants have a license to use such works in the song(s); or <br>
+              (2) the use participants’ song(s) makes of such works is a fair one under the copyright laws.<br>
+              ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.<br><br>
+
+            5)	DEADLINE: <br>
+              ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+
+            6) 	SUBMISSION:<br>
+              ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+              ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
+              ●	Judges’ decisions will be final and binding.<br>
+              ●	Submissions should be done via Google Drive with file name "TROOPNAME_SONG".<br>
+              ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_INFO.doc".<br>
+              ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_PARTICIPANT_DETAILS.doc".<br>
+              ●	Kindly send the Google Drive link to the email: joinjota@scout.my AND CC email: evateng0124@gmail.com.<br><br>
+
+            7) PRIZES: <br>
+              ●	Champion<br>
+              ●	1st Runner Up<br>
+              ●	Best Singer<br>
+              ●	Best Band<br>
+              ●	People’s Choice Award<br><br>
+          </P>
 
 
 
