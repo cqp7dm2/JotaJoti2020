@@ -74,8 +74,9 @@
                           <div class="row">
                               <p> This year has not been an easy one for all of us. Small businesses were affected,
                                   thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-                                   How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of the year,
-                                   or a reenactment of this year itself. As long as it is according to the theme, let your ideas roam freely! <br>
+                                  How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of the year,
+                                  or a reenactment of this year itself. As long as it is according to the theme, let your ideas roam freely!
+                                  <br>
                                   1)	DURATION:<br>
                                   2)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
                                   3)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
