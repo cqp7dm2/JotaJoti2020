@@ -81,7 +81,10 @@
             let your ideas roam freely! <br><br>
             1)	DURATION:<br>
             	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br>
-            3)	Online submission &amp; posting statue in Facebook is required.  <br> <br> <br>
+            2)	LANGUAGE:  <br> <br> <br>
+            ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
+            ●	Subtitles in English are compulsory. <br>
+
           <p>
         </div>
       </section>
