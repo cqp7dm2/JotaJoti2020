@@ -112,15 +112,19 @@
 
           <h3>Short Film Competition,THEME: Year 2020</h3>
           <p>
-            1)	1.	NUMBER OF PARTICIPANTS (size of the crews): <br>
-              ●	5-10 members.<br>
-<
-            	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br><br>
-            2)	LANGUAGE:  <br>
-              ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
-              ●	Subtitles in English are compulsory. <br><br>
-            3) TOPIC SENSITIVITY: <br>
-              ●	All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed. <br><br>
+            1)	NUMBER OF PARTICIPANTS (size of the crews): <br>
+              ●	5-10 members.<br><br>
+            2)	MUSIC LENGTH:
+              ●	Maximum 5:00 min.<br><br>
+            3) 	RULES:<br>
+              ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
+              ●	All registered participants must appear in video throughout the dance.<br>
+              ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, etc.).<br>
+              ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
+              ●	Coach, teacher, choreographer or any other very experienced dancer are not allowed to participate in the competition.<br>
+              ●	Each crew can have more than one (1) submission per video. It is allowed for the same participant to participate in two (2) or more videos.<br>
+              ●	Attire may include accessories such as hats, caps, gloves, scarves, jewellery, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character.
+                Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed. Tap shoes, jazz shoes, high-heeled shoes and bare feet are prohibited. <br><br>
             4)	COPYRIGHT: <br>
             ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
             (a) Participants have a license to use such works in the Film; or <br>
