@@ -71,9 +71,11 @@
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
           <hr class="divider my-4" />
-          <h3 class="text-side mb-2">Short Film Competition,THEME: Year 2020</h3>
+          <h3 class="text-centre mb-2">Short Film Competition,THEME: Year 2020</h3>
         </div>
         <div class="row px-5 mx-4">
+
+          <h3>Short Film Competition,THEME: Year 2020</h3>
           <p> This year has not been an easy one for all of us. Small businesses were affected,
             thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
             How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
