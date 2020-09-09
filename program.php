@@ -65,8 +65,7 @@
           </div>
         </div>
       </section>
-      <section class="page-section" id="services">
-      <div class="container">
+    
         <h2 class="text-center mt-0">Information for participating in this event</h2>
         <hr class="divider my-4" />
 
