@@ -86,7 +86,7 @@
                                   2)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
                                   3)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
 
-    </div>
+        </div>
       </section>
       <?php include "footer.php"; ?>
 
