@@ -80,7 +80,7 @@
             the year, or a reenactment of this year itself. As long as it is according to the theme,
             let your ideas roam freely! <br><br>
             1)	DURATION:<br>
-            2)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
+            	●	The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits. <br>
             3)	Online submission &amp; posting statue in Facebook is required.  <br> <br> <br>
           <p>
         </div>
