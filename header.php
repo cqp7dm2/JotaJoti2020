@@ -37,7 +37,7 @@
   <body id="page-top">
 
     <!-- Navigation/Header-->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="box-shadow: 0px 0px 8px rgba(0,0,0,.6);">
         <div class="container">
             <a class="navbar-brand js-scroll-trigger" href="home.php">
               <img src="assets/img/navbar-logo.svg" alt="" />

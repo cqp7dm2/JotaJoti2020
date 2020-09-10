@@ -4,108 +4,17 @@
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
     <style>
-    .hover-div {
-      transition: 1s box-shadow;
-    }
+      .hover-div {
+        transition: 1s box-shadow;
+      }
 
-    .hover-div:hover {
-      box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);
-    }
-
-    .hover-div:hover::before, .hover-div:hover::after {
-      display: block;
-      content: '';
-      position: absolute;
-      background: #FDA8CF;
-      border-radius: 75px;
-      z-index: -1;
-      animation: 1s clockwise infinite;
-    }
-
-    .hover-div:hover:after {
-      background: #F3CE5E;
-      animation: 2s counterclockwise infinite;
-    }
-
-    @keyframes clockwise {
-      0% {
-        top: -5px;
-        left: 0;
+      .hover-div:hover {
+        box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);
       }
-      12% {
-        top: -2px;
-        left: 2px;
-      }
-      25% {
-        top: 0;
-        left: 5px;
-      }
-      37% {
-        top: 2px;
-        left: 2px;
-      }
-      50% {
-        top: 5px;
-        left: 0;
-      }
-      62% {
-        top: 2px;
-        left: -2px;
-      }
-      75% {
-        top: 0;
-        left: -5px;
-      }
-      87% {
-        top: -2px;
-        left: -2px;
-      }
-      100% {
-        top: -5px;
-        left: 0;
-      }
-    }
-
-    @keyframes counterclockwise {
-      0% {
-        top: -5px;
-        right: 0;
-      }
-      12% {
-        top: -2px;
-        right: 2px;
-      }
-      25% {
-        top: 0;
-        right: 5px;
-      }
-      37% {
-        top: 2px;
-        right: 2px;
-      }
-      50% {
-        top: 5px;
-        right: 0;
-      }
-      62% {
-        top: 2px;
-        right: -2px;
-      }
-      75% {
-        top: 0;
-        right: -5px;
-      }
-      87% {
-        top: -2px;
-        right: -2px;
-      }
-      100% {
-        top: -5px;
-        right: 0;
-      }
-    }
     </style>
     <link href="css/style.css" rel="stylesheet" />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- <link href="css/challenge.css" rel="stylesheet" /> -->
   </head>
   <body>
@@ -118,10 +27,12 @@
                 <div class="masthead-heading text-uppercase move-text2" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Don't limit your challenges.<br>Challenge your limits.</div>
             </div>
       </header>
-
+      <script>
+        AOS.init();
+      </script>
       <section class="page-section" id="services">
         <div class="container">
-          <h2 class="text-center mt-0">Information for participating in this event</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Information for participating in this event</h2>
           <hr class="divider my-4" />
 
 

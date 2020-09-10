@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body>
     <?php include "header.php"; ?>
@@ -20,9 +22,12 @@
           <div class="col-xl-9 mx-auto">
             <div class="cta-inner text-center rounded" style="border-radius: 10px; background: #fff; padding: 25px 30px 25px 30px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);-webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1); -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
               <h2 class="section-heading mb-4">
-                <span class="section-heading-lower">JOTA-JOTI</span>
-                <span class="section-heading-upper">Jamboree-on-the-Air-Jamboree-on-the-Internet</span>
+                <span class="section-heading-lower" data-aos="fade-up">JOTA-JOTI</span>
+                <span class="section-heading-upper" data-aos="flip-up">Jamboree-on-the-Air-Jamboree-on-the-Internet</span>
               </h2>
+              <script>
+                AOS.init();
+              </script>
               <p class="mb-0">JOTA-JOTI (Jamboree-on-the-Air-Jamboree-on-the-Internet) is the world’s largest digital Scout event taking place on the Internet and over the airwaves. Held ever year in October, the event connects millions of young people around the world for a full weekend of online activities that promote friendship and global citizenship. </p>
                 <br>
                 <p>JOTA-JOTI enables young people and volunteers to participate in fun and engaging group activities over the Internet and amateur radio focused on developing 21st century skills through Scouting.</p>
