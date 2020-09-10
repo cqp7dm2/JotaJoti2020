@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020</title>
+        <link href="css/style.css" rel="stylesheet" />
   </head>
   <body>
         <?php include "header.php"; ?>
