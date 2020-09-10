@@ -15,7 +15,7 @@
             </div>
       </header>
 
-      <section class="content-section" id="portfolio">
+      <section class="content-section" id="portfolioo">
         <div class="container">
           <div class="content-section-heading text-center">
             <h3 class="text-secondary mb-0">Program</h3>
@@ -23,7 +23,7 @@
           </div>
           <div class="row no-gutters">
             <div class="col-lg-6">
-              <a class="portfolio-item" href="#!">
+              <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
                     <div class="h2">Short Film Competition,THEME: YEAR 2020 </div>
@@ -33,7 +33,7 @@
               </a>
             </div>
             <div class="col-lg-6">
-              <a class="portfolio-item" href="#!">
+              <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
                     <div class="h2">Dance Competition</div>
@@ -43,7 +43,7 @@
               </a>
             </div>
             <div class="col-lg-6">
-              <a class="portfolio-item" href="#!">
+              <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
                     <div class="h2">Singing Competition</div>
@@ -53,7 +53,7 @@
               </a>
             </div>
             <div class="col-lg-6">
-              <a class="portfolio-item" href="#!">
+              <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
                     <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div>
