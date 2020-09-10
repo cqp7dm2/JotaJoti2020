@@ -68,7 +68,7 @@
 
       <section class="page-section" id="services">
           <div class="container">
-              <h2 class="text-center mt-0">Activities for each week</h2>
+              <h2 class="text-center mt-0" data-aos="fade-down">Activities for each week</h2>
               <hr class="divider my-4" />
               <div class="row">
                   <div class="col-lg-3 col-md-6 text-center">
@@ -105,7 +105,7 @@
 
       <section id="services" class="services">
         <div class="container">
-          <h2 class="text-center mt-0">Rules and Regulations</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Rules and Regulations</h2>
           <hr class="divider my-4" />
 
           <div class="section-title">
