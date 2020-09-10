@@ -22,6 +22,7 @@
             <h3 class="text-secondary mb-0">Program</h3>
             <h2 class="mb-5">Structure List</h2>
           </div>
+
           <div class="row no-gutters">
             <div class="col-lg-6">
               <a class="portfolioo-item">
@@ -33,6 +34,7 @@
                 <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
               </a>
             </div>
+
             <div class="col-lg-6">
               <a class="portfolioo-item">
                 <div class="caption">
@@ -43,6 +45,7 @@
                 <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
               </a>
             </div>
+
             <div class="col-lg-6">
               <a class="portfolioo-item">
                 <div class="caption">
@@ -53,6 +56,7 @@
                 <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
               </a>
             </div>
+
             <div class="col-lg-6">
               <a class="portfolioo-item">
                 <div class="caption">
