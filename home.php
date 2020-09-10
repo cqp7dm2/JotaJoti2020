@@ -38,9 +38,9 @@
       <script>
         AOS.init();
       </script>
-      
+
       <!--New Design-->
-      <div class="row py-3 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
         <div class="col-lg-6">
           <div class="p-5" data-aos="slide-up">
               <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
@@ -48,12 +48,12 @@
         </div>
         <div class="col-lg-6">
           <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
-            <div class="row">
+            <div class="row pb-3">
               <div class="col-6">
                 <h2 class="section-heading" style="font-size: 50px;">Who?</h2>
               </div>
               <div class="col-6">
-                <i class="flaticon-boy-scout" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-boy-scout" style="font-size: 50px;"></i>
               </div>
             </div>
             <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
@@ -63,15 +63,15 @@
         </div>
       </div>
 
-      <div class="row py-3 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
         <div class="col-lg-6">
           <div class="p-5" data-aos="fade-left" style="color:#2A2B2DFF;">
-            <div class="row">
+            <div class="row pb-3">
               <div class="col-6">
                 <h2 class="section-heading" style="font-size: 50px;">When?</h2>
               </div>
               <div class="col-6">
-                <i class="flaticon-calendar" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-calendar" style="font-size: 50px;"></i>
               </div>
             </div>
             <p>JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
@@ -84,7 +84,7 @@
         </div>
       </div>
 
-      <div class="row py-3 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
         <div class="col-lg-6">
           <div class="p-5" data-aos="slide-up">
               <img class="img-fluid" style="border-radius: 50px;" src="assets/img/header-bg.jpg" alt="">
@@ -92,17 +92,15 @@
         </div>
         <div class="col-lg-6">
           <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
-            <div class="row">
+            <div class="row pb-3">
               <div class="col-6">
                 <h2 class="section-heading" style="font-size: 50px;">Scouting Around The World</h2>
               </div>
               <div class="col-3 pt-6 pb-6">
                 <br><br><br>
-                <i class="flaticon-scout" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-scout" style="font-size: 50px;"></i>
               </div>
             </div>
-            <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
-            <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
             <p>The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
                 an educational youth movement engaging young people from all over the world to
                 promote unity, respect, friendship, under- standing and peace.
@@ -223,7 +221,7 @@
                     <h3 class="section-subheading text-muted">2017-2020</h3>
                 </div>
                 <ul class="timeline">
-                    <li>
+                    <li data-aos="fade-right">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2017.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -231,21 +229,21 @@
                             </div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
+                    <li class="timeline-inverted" data-aos="fade-left">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2018.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <!-- <h4>March 2011</h4> -->
                             </div>
                     </li>
-                    <li>
+                    <li data-aos="fade-right">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2019.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <!-- <h4>December 2012</h4> -->
                             </div>
                     </li>
-                    <li class="timeline-inverted">
+                    <li class="timeline-inverted" data-aos="fade-left">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2020.png" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -253,7 +251,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
+                    <li class="timeline-inverted" data-aos="fade-right">
                         <div class="timeline-image">
                             <h4>
                                 Be Part
