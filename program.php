@@ -53,7 +53,7 @@
                     <!-- <div class="h2">Singing Competition</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/singing.jpg" alt="">
+                <img class="img-fluid" src="assets/img/sing.jpg" alt="">
               </a>
             </div>
 
