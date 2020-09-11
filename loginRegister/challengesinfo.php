@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Agency - Start Bootstrap Theme</title>
-    <link rel="icon" type="image/x-icon" href="../assets/img/favicon.ico" />
+    <title>Jota-Joti 2020 | Challenges</title>
+    <link rel="icon" href="../assets/img/2020.png">
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
@@ -39,64 +39,64 @@
                                  <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                              </div>
                              <div class="row">
-                                 <div class="col-lg-4 col-sm-6 mb-4">
+                                 <div class="col-lg-3 col-sm-5 mb-3">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/01-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Threads</div>
-                                             <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                             <div class="portfolio-caption-heading">Week 1</div>
+                                             <div class="portfolio-caption-subheading text-muted">Poster Challenge</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6 mb-4">
+                                 <div class="col-lg-3 col-sm-5 mb-3">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/02-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Explore</div>
-                                             <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                             <div class="portfolio-caption-heading">Week 1</div>
+                                             <div class="portfolio-caption-subheading text-muted">Jota Joti Quiz</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6 mb-4">
+                                 <div class="col-lg-3 col-sm-5 mb-3">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/03-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Finish</div>
-                                             <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                             <div class="portfolio-caption-heading">Week 2</div>
+                                             <div class="portfolio-caption-subheading text-muted">Pac -Man</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                                 <div class="col-lg-3 col-sm-5 mb-3 mb-lg-0">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/04-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Lines</div>
-                                             <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                             <div class="portfolio-caption-heading">Week 2</div>
+                                             <div class="portfolio-caption-subheading text-muted">Morse Code & Phonetic</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                                     <!-- <div class="portfolio-item">
+                                 <!-- <div class="col-lg-3 col-sm-5 mb-3 mb-lg-0">
+                                     <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
@@ -107,66 +107,64 @@
                                              <div class="portfolio-caption-heading">Southwest</div>
                                              <div class="portfolio-caption-subheading text-muted">Website Design</div>
                                          </div>
-                                     </div> -->
-                                 </div>
-                                 <div class="col-lg-4 col-sm-6">
+                                     </div>
+                                 </div> -->
+                                 <div class="col-lg-3 col-sm-5">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Window</div>
-                                             <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                             <div class="portfolio-caption-heading">Week 3</div>
+                                             <div class="portfolio-caption-subheading text-muted">Dinosaur Jump</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6">
+                                 <div class="col-lg-3 col-sm-5">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Window</div>
-                                             <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                             <div class="portfolio-caption-heading">Week 3</div>
+                                             <div class="portfolio-caption-subheading text-muted">Exchange JID</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6">
+                                 <div class="col-lg-3 col-sm-5">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Window</div>
-                                             <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                             <div class="portfolio-caption-heading">Week 4</div>
+                                             <div class="portfolio-caption-subheading text-muted">Find the location</div>
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-sm-6">
+                                 <div class="col-lg-3 col-sm-5">
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
                                                  <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                              </div>
-                                             <img class="img-fluid" src="../assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                                             <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
                                          <div class="portfolio-caption">
-                                             <div class="portfolio-caption-heading">Window</div>
-                                             <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                             <div class="portfolio-caption-heading">Week 4</div>
+                                             <div class="portfolio-caption-subheading text-muted">Online Class</div>
                                          </div>
                                      </div>
                                  </div>
-
-
                              </div>
                          </div>
                      </section>
