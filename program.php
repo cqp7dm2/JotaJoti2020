@@ -13,7 +13,7 @@
         <div class="container">
                 <div class="masthead-heading mb-2 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
                 <div class="masthead-heading text-uppercase move-text2" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Check out our programs</div>
-            </div>
+          </div>
       </header>
 
       <section class="content-section" id="portfolioo">
@@ -71,13 +71,8 @@
         </div>
       </section>
 
-      <section class="page-section" id="services">
-        <div class="container">
 
-        </div>
-
-      </section>
-
+      <main id="main">
       <section id="features" class="features">
         <div class="container">
           <h3>Short Film Competition, THEME: Year 2020</h3>
@@ -85,8 +80,7 @@
             thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
             How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
             the year, or a reenactment of this year itself. As long as it is according to the theme,
-            let your ideas roam freely! <br><br>
-
+            let your ideas roam freely!
 
           <div class="row">
             <div class="col-lg-3">
@@ -95,7 +89,7 @@
                   <a class="nav-link active show" data-toggle="tab" href="#tab-1">DURATION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-2">LANGUAGE</a>
+                  <a class="nav-link " data-toggle="tab" href="#tab-2">LANGUAGE</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#tab-3">TOPIC SENSITIVITY</a>
@@ -126,7 +120,6 @@
                     </div>
                   </div>
                 </div>
-
                 <div class="tab-pane" id="tab-2">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -136,7 +129,6 @@
                     </div>
                   </div>
                 </div>
-
                 <div class="tab-pane" id="tab-3">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -145,7 +137,6 @@
                     </div>
                   </div>
                 </div>
-
                 <div class="tab-pane" id="tab-4">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -386,6 +377,16 @@
         </div>
       </section>
 
+      <script src="assets/vendor/jquery/jquery.min.js"></script>
+      <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+      <script src="assets/vendor/php-email-form/validate.js"></script>
+      <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+      <script src="assets/vendor/venobox/venobox.min.js"></script>
+      <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+      <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+      
+      <script src="assets/js/main.js"></script>
 
       <?php include "footer.php"; ?>
 
