@@ -26,7 +26,7 @@
 
           <div class="row no-gutters">
             <div class="col-lg-6">
-              <a class="portfolioo-item">
+              <a class="portfolioo-item"  href="#features-1" >
                 <div class="caption">
                   <div class="caption-content">
                     <!-- <div class="h2">Short Film Competition,THEME: YEAR 2020 </div> -->
@@ -37,7 +37,7 @@
             </div>
 
             <div class="col-lg-6">
-              <a class="portfolioo-item">
+              <a class="portfolioo-item" href="#features-2">
                 <div class="caption">
                   <div class="caption-content">
                     <!-- <div class="h2">Dance Competition</div> -->
@@ -48,7 +48,7 @@
             </div>
 
             <div class="col-lg-6">
-              <a class="portfolioo-item">
+              <a class="portfolioo-item" href="#features-3">
                 <div class="caption">
                   <div class="caption-content">
                     <!-- <div class="h2">Singing Competition</div> -->
@@ -59,7 +59,7 @@
             </div>
 
             <div class="col-lg-6">
-              <a class="portfolioo-item">
+              <a class="portfolioo-item" href="#features-4">
                 <div class="caption">
                   <div class="caption-content">
                     <!-- <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div> -->
@@ -74,17 +74,28 @@
 
 
       <main id="main">
+
+        <section class="page-section" id="services">
+          <div class="container" id="features-1">
+            <hr class="divider my-4">
+          </div>
+        </section>
+
+
+
       <section id="features" class="features">
         <div class="container">
-          <h3>Short Film Competition, THEME: Year 2020</h3>
-          <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
-            thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-            How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
-            the year, or a reenactment of this year itself. As long as it is according to the theme,
-            let your ideas roam freely!
-
           <div class="row">
-            <div class="col-lg-3">
+              <h2>Short Film Competition, THEME: Year 2020</h3>
+              <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
+                thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
+                How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
+                the year, or a reenactment of this year itself. As long as it is according to the theme,
+                let your ideas roam freely!
+              </h2>
+
+
+            <div class="col-lg-3" id="services" >
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
                   <a class="nav-link active show" data-toggle="tab" href="#tab-1">DURATION</a>
@@ -190,6 +201,12 @@
             </div>
           </div>
 
+        </div>
+      </section>
+
+      <section class="page-section" id="services">
+        <div class="container" id="features-2">
+          <hr class="divider my-4">
         </div>
       </section>
 
@@ -327,8 +344,11 @@
         </div>
       </section>
 
-
-
+      <section class="page-section" id="services">
+        <div class="container" id="features-3">
+          <hr class="divider my-4">
+        </div>
+      </section>
 
       <section id="features" class="features">
         <div class="container">
@@ -458,6 +478,12 @@
         </div>
       </section>
 
+      <section class="page-section" id="services">
+        <div class="container" id="features-4">
+          <hr class="divider my-4">
+        </div>
+      </section>
+
       <section id="features" class="features">
         <div class="container">
           <h3>Group Photo Competition, THEME: WHO AM I??</h3>
@@ -556,7 +582,7 @@
       </section>
 
 
-      <section class="page-section" id="services">
+      <!-- <section class="page-section" id="services">
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
           <hr class="divider my-4" />
@@ -739,7 +765,7 @@
           <p>
         </div>
         </div>
-      </section>
+      </section> -->
 
       <script src="assets/vendor/jquery/jquery.min.js"></script>
       <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
