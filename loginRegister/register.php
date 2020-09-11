@@ -52,7 +52,7 @@
                             <!-- <div class="text-center"><a class="small" href="forgot-password.php">Forgot Password?</a></div> -->
                             <div class="text-center"><a class="small" href="login.php">Already have an account? Login!</a></div>
                             <br>
-                            <div class="text-center"><a class="small" href="../home.php">BACK TO HOME</a></div>
+                            <a class="btn btn-secondary btn-block text-white btn-user" href="../home.php" role="button">Back To Home</a>
                         </div>
                     </div>
                 </div>

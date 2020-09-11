@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+
+    <title>Challenges Information</title>
   </head>
   <body id= "page-top">
 
@@ -16,11 +17,16 @@
                     include ('usernav.php');
                      ?>
 
-<h1>Challenges Info</h1>
 
-  </div>
-  </div>
-  </div>
+
+<h1>Challengers</h1>
+
+</div>
+</div>
+</div>
+
+
+
 
   </body>
 </html>
