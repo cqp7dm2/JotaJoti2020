@@ -2,9 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Jota-Joti 2020 | Week Two</title>
+    <title>Jota-Joti 2020 | Final</title>
     <link rel="icon" href="../assets/img/2020.png">
-
   </head>
   <body id= "page-top">
 
@@ -19,9 +18,7 @@
                      ?>
 
 
-
-
-<h1>Week Two</h1>
+    <h1>Week Three</h1>
 </div>
 </div>
 </div>
