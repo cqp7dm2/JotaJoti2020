@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Jota-Joti 2020 | Home</title>
+    <link rel="icon" href="assets/img/2020.png">
     <style>
       .hover-div {
         transition: 1s box-shadow;

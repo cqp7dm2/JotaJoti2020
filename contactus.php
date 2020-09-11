@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Jota-Joti 2020 | Contact Us</title>
+    <link rel="icon" href="assets/img/2020.png">
     <link href="css/styles.css" rel="stylesheet" />
   </head>
   <body>

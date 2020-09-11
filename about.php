@@ -2,9 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Jota-Joti 2020</title>
+    <title>Jota-Joti 2020 | About</title>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="icon" href="assets/img/2020.png">
   </head>
   <body>
     <?php include "header.php"; ?>
