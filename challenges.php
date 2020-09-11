@@ -25,6 +25,7 @@
         <div class="container">
                 <div class="masthead-heading mb-2 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
                 <div class="masthead-heading text-uppercase move-text2" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Don't limit your challenges.<br>Challenge your limits.</div>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="loginRegister/register.php">Register Now</a>
             </div>
       </header>
       <script>
@@ -72,30 +73,30 @@
               <hr class="divider my-4" />
               <div class="row">
                   <div class="col-lg-3 col-md-6 text-center">
-                      <div class="mt-5">
+                      <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-one mb-4 faa-wobble animated" style="color: #e7462f;"></i>
-                          <h3 class="h4 mb-2">Week 1</h3>
+                          <h3 class="h4 mb-2" href="#week1">Week 1</h3>
                           <p class="text-muted mb-0 futura">Poster Challenge <br> Jota Joti Quiz </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
-                      <div class="mt-5">
+                      <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-two mb-4 faa-wobble animated" style="color: #fab800;"></i>
-                          <h3 class="h4 mb-2">Week 2</h3>
+                          <h3 class="h4 mb-2" href="week2">Week 2</h3>
                           <p class="text-muted mb-0 futura">Pac-Man <br> Morse code & Phonetic </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
-                      <div class="mt-5">
+                      <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-three mb-4 faa-wobble animated" style="color: #00a5c0;"></i>
-                          <h3 class="h4 mb-2">Week 3</h3>
+                          <h3 class="h4 mb-2" href="week3">Week 3</h3>
                           <p class="text-muted mb-0 futura">Dinosaur Jump <br> Exchange JID </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
                       <div class="mt-5">
                           <i class="fas fa-4x fa-dice-four mb-4 faa-wobble animated" style="color: #5c2f87;"></i>
-                          <h3 class="h4 mb-2">Week 4</h3>
+                          <h3 class="h4 mb-2" href="week4">Week 4</h3>
                           <p class="text-muted mb-0 futura">Find the location <br> Online Chess </p>
                       </div>
                   </div>
@@ -108,7 +109,7 @@
           <h2 class="text-center mt-0" data-aos="fade-down">Rules and Regulations</h2>
           <hr class="divider my-4" />
 
-          <div class="section-title">
+          <div class="section-title" id = "week1">
             <br>
             <h2>Week 1</h2>
           </div>
@@ -144,7 +145,7 @@
             </div>
           </div>
 
-            <div class="section-title">
+            <div class="section-title" id = "week2">
               <br>
               <h2>Week 2</h2>
             </div>
@@ -175,7 +176,7 @@
             </div>
           </div>
 
-          <div class="section-title">
+          <div class="section-title" id = "week3">
             <br>
             <h2>Week 3</h2>
           </div>
@@ -204,7 +205,7 @@
             </div>
           </div>
 
-          <div class="section-title">
+          <div class="section-title" id = "week4">
             <br>
             <h2>Week 4</h2>
           </div>

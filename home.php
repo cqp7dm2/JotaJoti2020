@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Jota-Joti 2020</title>
+    <title>Jota-Joti 2020 | Home</title>
     <style>
       .hover-div {
         transition: 1s box-shadow;
@@ -18,6 +18,7 @@
   </head>
   <body>
     <?php include "header.php"; ?>
+
     <!-- Masthead-->
     <header class="masthead">
       <div class="overlay"></div>
@@ -30,7 +31,7 @@
 
         <!--GIF text-->
         <!--<div class="masthead-heading text-uppercase title-text"><h1>It's Nice<br>To Meet You</h1></div>-->
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+        <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a> -->
       </div>
     </header>
   <section style="background-color:#fff;"> <!--#D9514EFF-->
@@ -46,6 +47,7 @@
               <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
           </div>
         </div>
+
         <div class="col-lg-6">
           <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
             <div class="row pb-3">
@@ -206,6 +208,8 @@
             </div>
           </div>-->
 <!-- Another style ends -->
+
+
         </section>
 
         <section>
