@@ -92,33 +92,33 @@
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#tabb1">DURATION</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#tab-1">DURATION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tabb2">LANGUAGE</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-2">LANGUAGE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tabb3">TOPIC SENSITIVITY</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-3">TOPIC SENSITIVITY</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tabb4">COPYRIGHT</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-4">COPYRIGHT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tabb5">DEADLINE</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-5">DEADLINE</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tabb6">SUBMISSION</a>
+                <a class="nav-link" data-toggle="tab" href="#tab-6">SUBMISSION</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#tabb7">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#tab-7">PRIZES</a>
             </li>
               </ul>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
-                <div class="tab-pane active show" id="tabb1">
+                <div class="tab-pane active show" id="tab-1">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DURATION</h3>
@@ -127,7 +127,7 @@
                   </div>
                 </div>
 
-                <div class="tab-pane" id="tabb2">
+                <div class="tab-pane" id="tab-2">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>LANGUAGE</h3>
@@ -137,7 +137,7 @@
                   </div>
                 </div>
 
-                <div class="tab-pane" id="tabb3">
+                <div class="tab-pane" id="tab-3">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
@@ -146,7 +146,7 @@
                   </div>
                 </div>
 
-                <div class="tab-pane" id="tabb4">
+                <div class="tab-pane" id="tab-4">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
@@ -158,7 +158,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tabb5">
+                <div class="tab-pane" id="tab-5">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
@@ -167,7 +167,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tabb6">
+                <div class="tab-pane" id="tab-6">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
@@ -181,7 +181,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tabb7">
+                <div class="tab-pane" id="tab-7">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>PRIZES</h3>
