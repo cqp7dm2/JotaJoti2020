@@ -48,19 +48,19 @@
 
     <section class="page-section bg-light" id="team">
       <div class="container">
-        <h2 class="section-heading text-uppercase" style="font-size: 60px">Our Committee</h2>
+        <h2 class="section-heading text-uppercase"  data-aos="flip-up" style="font-size: 60px">Our Committee</h2>
         <!--Table-->
 <table id="tablePreview" class="table">
 <!--Table head-->
   <thead style="font-size:25px">
-    <tr>
+    <tr class="futura">
       <th>Position</th>
       <th>Name</th>
     </tr>
   </thead>
   <!--Table head-->
   <!--Table body-->
-  <tbody>
+  <tbody class="futura">
     <tr>
       <th scope="row">Advisor</th>
       <td>Tuan Haji Zulkafli Bin Kamarudin (State Chief Commissioner) <br> <br> Mr P'ng Lai Heng (District Council Chairman)</td>

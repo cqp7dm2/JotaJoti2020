@@ -10953,6 +10953,10 @@ section {
   }
 }
 
+.futura {
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+
 .footer {
   background-color: #212529;
   text-align: center;

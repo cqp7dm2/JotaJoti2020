@@ -79,7 +79,7 @@
             <div class="row px-5 mx-4">
 
           <h3>Short Film Competition, THEME: Year 2020</h3>
-          <p> This year has not been an easy one for all of us. Small businesses were affected,
+          <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
             thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
             How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
             the year, or a reenactment of this year itself. As long as it is according to the theme,
@@ -118,11 +118,11 @@
             ●	Best Actress<br>
             ●	Best Film<br>
             ●	People’s Choice Award<br><br>
-          </P>
+          </p>
 
 
           <h3>Dance Competition</h3>
-          <p>
+          <p class="futura">
             1)	NUMBER OF PARTICIPANTS (size of the crews): <br>
               ●	5-10 members.<br><br>
 
@@ -167,10 +167,10 @@
               ●	Rising star award<br>
               ●	Most creative dance crew<br>
               ●	People’s choices award<br><br>
-          </P>
+          </p>
 
           <h3>Singing Competition</h3>
-          <p>
+          <p class="futura">
             1)	NUMBER OF PARTICIPANTS (for secondary school students): <br>
               ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). <br><br>
 
@@ -217,10 +217,10 @@
               ●	Best Singer<br>
               ●	Best Band<br>
               ●	People’s Choice Award<br><br>
-          </P>
+          </p>
 
           <h3>Group Photo Competition, THEME: WHO AM I??</h3>
-          <p>
+          <p class="futura">
              1)	NUMBER OF PARTICIPANTS (size of the teams) : <br>
               ●	5-20 members<br><br>
 
@@ -249,7 +249,7 @@
               ●	Most Creative & Inspiring<br>
               ●	People’s Choice Award<br><br>
 
-          </P>
+          </p>
 
 
           <p>

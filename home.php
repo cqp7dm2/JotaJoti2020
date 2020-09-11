@@ -53,12 +53,12 @@
                 <h2 class="section-heading" style="font-size: 50px;">Who?</h2>
               </div>
               <div class="col-6">
-                <i class="display-4 flaticon-boy-scout" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
               </div>
             </div>
             <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
             <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
-            <p>Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
+            <p class="futura">Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
           </div>
         </div>
       </div>
@@ -71,10 +71,10 @@
                 <h2 class="section-heading" style="font-size: 50px;">When?</h2>
               </div>
               <div class="col-6">
-                <i class="display-4 flaticon-calendar" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
               </div>
             </div>
-            <p>JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
+            <p class="futura">JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
           </div>
         </div>
         <div class="col-lg-6">
@@ -98,10 +98,10 @@
               </div>
               <div class="col-3 pt-6 pb-6">
                 <br><br><br>
-                <i class="display-4 flaticon-scout" style="font-size: 50px;"></i>
+                <i class="display-4 flaticon-scout futura" style="font-size: 50px;"></i>
               </div>
             </div>
-            <p>The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
+            <p class="futura">The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
                 an educational youth movement engaging young people from all over the world to
                 promote unity, respect, friendship, under- standing and peace.
                 World Scouting is brought together by the World Organization of the Scout Movement
