@@ -17,12 +17,12 @@ $Pass = mysqli_real_escape_string($con, $Pass);
 $Pass = stripslashes($Pass);
 $Pass = htmlentities($Pass);
 $Pass = md5($Pass);
- 
+
 $message = "Dear $First_name $Last_name, Your acccount has registered succesfully. 'Admin' will be your password for this new account, please login to change it.";
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-/* Include the Composer generated autoload.php file. 
+/* Include the Composer generated autoload.php file.
 require 'C:\xampp\composer\vendor\autoload.php'; */
 
 /* If you installed PHPMailer without Composer do this instead: */
@@ -58,7 +58,7 @@ $mail->Port = 587;                          // TCP port to connect to
    $mail->Subject = 'Registered account';
 
    $mail->Body = $message;
-							
+
    $mail->send();
 }
 catch (Exception $e)
@@ -107,12 +107,5 @@ window.location.href = "dashboard.php";
 
 }
 
-
-
 mysqli_close($con);
 ?>
-
-
-
-
-
