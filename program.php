@@ -28,10 +28,10 @@
               <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
-                    <div class="h2">Short Film Competition,THEME: YEAR 2020 </div>
+                    <!-- <div class="h2">Short Film Competition,THEME: YEAR 2020 </div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
+                <img class="img-fluid" src="assets/img/video.jpg" alt="">
               </a>
             </div>
 
@@ -39,10 +39,10 @@
               <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
-                    <div class="h2">Dance Competition</div>
+                    <!-- <div class="h2">Dance Competition</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
+                <img class="img-fluid" src="assets/img/dance.jpg" alt="">
               </a>
             </div>
 
@@ -50,10 +50,10 @@
               <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
-                    <div class="h2">Singing Competition</div>
+                    <!-- <div class="h2">Singing Competition</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
+                <img class="img-fluid" src="assets/img/singing.jpg" alt="">
               </a>
             </div>
 
@@ -61,10 +61,10 @@
               <a class="portfolioo-item">
                 <div class="caption">
                   <div class="caption-content">
-                    <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div>
+                    <!-- <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+                <img class="img-fluid" src="assets/img/photo.jpg" alt="">
               </a>
             </div>
           </div>
