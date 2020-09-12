@@ -38,6 +38,77 @@
         <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a> -->
       </div>
     </header>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex ml-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Smart Move</span>
+                <span class="section-heading-lower">Chess Club</span>
+              </h2>
+            </div>
+          </div>
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/001.jpg" alt="">
+          <div class="product-item-description d-flex mr-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">Are you a strong chess player or are you interested to become one? Unimas Indoor Games Club is right here for you. Majoring in the Unimas chess team. You'll learn a lot. Many upcoming activities, events and competition. Come and join us!</p>
+              <div class="product-button mx-auto">
+                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex mr-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Accuracy is essential to beauty</span>
+                <span class="section-heading-lower">Sniper Club</span>
+              </h2>
+            </div>
+          </div>
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
+          <div class="product-item-description d-flex ml-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">For that purpose Sniping Club to build up a team of certified instructors on each shooting discipline. Each member of our team has permission to train shooting disciplines. Club instructors are former law-enforcement officers with experience in handling weapons of various types and configurations.</p>
+              <div class="product-button mx-auto">
+                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex ml-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Another way of thinking</span>
+                <span class="section-heading-lower">Science Club</span>
+              </h2>
+            </div>
+          </div>
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
+          <div class="product-item-description d-flex mr-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">Science Club is an afterschool, mentor-based science program for middle school youth. This program brings graduate student mentors together with small groups of students to conduct fun and engaging scientific investigations. </p>
+              <div class="product-button mx-auto">
+                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
   <section style="background-color:#fff;"> <!--#D9514EFF-->
     <div class="container">
       <script>
@@ -275,6 +346,18 @@
         </section>
 
         <?php include "footer.php"; ?>
+
+        <script src="assets/vendor/jquery/jquery.min.js"></script>
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+        <script src="assets/vendor/venobox/venobox.min.js"></script>
+        <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+        <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+
+        <!-- Template Main JS File -->
+        <script src="assets/js/main.js"></script>
 
   </body>
 </html>
