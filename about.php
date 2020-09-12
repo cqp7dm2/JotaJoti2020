@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177875132-1');
+</script>
+
+
     <meta charset="utf-8">
     <title>Jota-Joti 2020 | About</title>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
