@@ -37,10 +37,9 @@
     <header class="masthead">
       <!-- <div class="overlay"></div> -->
       <div class="container">
-        <br><br><br>
         <div class="masthead-heading mb-3 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">Donation</div>
         <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Coming Soon...</div>
-        <br><br><br><br>
+        <br><br><br>
         <!--Text Typing Animation-->
         <!--<div class="masthead-heading text-uppercase text-typing">It's Nice To Meet You</div>-->
 

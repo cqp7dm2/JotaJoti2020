@@ -103,16 +103,16 @@
 
       <section id="features" class="features">
         <div class="container">
-          <div class="row">
-              <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
-              <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
-                thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-                How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
-                the year, or a reenactment of this year itself. As long as it is according to the theme,
-                let your ideas roam freely!
-              </p>
-
-
+          <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
+          <div class="row col-lg-12">
+            <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
+              thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
+              How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
+              the year, or a reenactment of this year itself. As long as it is according to the theme,
+              let your ideas roam freely!
+            </p>
+          </div>
+          <div class="row pt-3">
             <div class="col-lg-3" id="services" >
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
@@ -252,7 +252,7 @@
         <div class="container">
           <h3 data-aos="fade-down">Dance Competition</h3>
 
-          <div class="row">
+          <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
@@ -403,7 +403,7 @@
         <div class="container">
           <h3 data-aos="fade-down">Singing Competition</h3>
 
-          <div class="row">
+          <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
@@ -546,7 +546,7 @@
         <div class="container">
           <h3 data-aos="fade-down">Group Photo Competition, THEME: WHO AM I??</h3>
 
-          <div class="row">
+          <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">

@@ -10141,8 +10141,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url(https://media.giphy.com/media/iiJapbhouUjFPXbN1d/giphy.gif);
-  /*background-image: url("../assets/img/new-bg.jpg");*/
+  /*background-image: url(https://media.giphy.com/media/iiJapbhouUjFPXbN1d/giphy.gif);*/
+  background-image: url("../assets/img/new-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -10992,7 +10992,7 @@ section {
 }
 
 .features .details h3 {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 20px;
   color: #556270;
