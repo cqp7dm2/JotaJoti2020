@@ -97,9 +97,9 @@
           <div class="container">
               <div class="row align-items-center" style="color: #fff;">
                   <div class="col-lg-3 text-lg-left">
-                    <div class="row font-weight-bold pb-3" style="font-size: 30px">
+                    <div class="row font-weight-bold pb-3" style="font-size: 30px"><a href="home.php" style="color:white">
                       Jota Joti 2020
-                    </div>
+                    </a></div>
                     <div class="row">
 
                     </div>
@@ -117,6 +117,7 @@
                         <li><a href="about.php" style="font-size: 13px; color: #fff;">About</a></li>
                         <li><a href="program.php" style="font-size: 13px; color: #fff;">Program</a></li>
                         <li><a href="challenges.php" style="font-size: 13px; color: #fff;">Challenges</a></li>
+                        <li><a href="merchant.php" style="font-size: 13px; color: #fff;">Donation</a></li>
                         <li><a href="contactus.php" style="font-size: 13px; color: #fff;">Contact Us</a></li>
                       </ul>
                     </div>
