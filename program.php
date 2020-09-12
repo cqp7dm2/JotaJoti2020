@@ -32,7 +32,7 @@
                     <!-- <div class="h2">Short Film Competition,THEME: YEAR 2020 </div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/video.jpg" alt="">
+                <img class="img-fluid" src="assets/img/video.jpg" alt="" target="_blank">
               </a>
             </div>
 
@@ -43,7 +43,7 @@
                     <!-- <div class="h2">Dance Competition</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/dance.jpg" alt="">
+                <img class="img-fluid" src="assets/img/dance.jpg" alt="" target="_blank">
               </a>
             </div>
 
@@ -54,7 +54,7 @@
                     <!-- <div class="h2">Singing Competition</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/sing.jpg" alt="">
+                <img class="img-fluid" src="assets/img/sing.jpg" alt="" target="_blank">
               </a>
             </div>
 
@@ -65,7 +65,7 @@
                     <!-- <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div> -->
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/photo.jpg" alt="">
+                <img class="img-fluid" src="assets/img/photo.jpg" alt="" target="_blank">
               </a>
             </div>
           </div>
@@ -98,30 +98,30 @@
             <div class="col-lg-3" id="services" >
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#tab-1">DURATION</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#tab-1" target="_blank">DURATION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " data-toggle="tab" href="#tab-2">LANGUAGE</a>
+                  <a class="nav-link " data-toggle="tab" href="#tab-2" target="_blank">LANGUAGE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-3">TOPIC SENSITIVITY</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-3" target="_blank">TOPIC SENSITIVITY</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-4">COPYRIGHT</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-4" target="_blank">COPYRIGHT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-5">DEADLINE</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-5" target="_blank">DEADLINE</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-6">SUBMISSION</a>
+                <a class="nav-link" data-toggle="tab" href="#tab-6" target="_blank">SUBMISSION</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#tab-7">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#tab-7" target="_blank">PRIZES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing">Register now</a>
+              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing" target="_blank">Register now </a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -216,33 +216,33 @@
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#cap-1">NUMBER OF PARTICIPANTS (size of the crews)</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#cap-1" target="_blank">NUMBER OF PARTICIPANTS (size of the crews)</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " data-toggle="tab" href="#cap-2">MUSIC LENGTH</a>
+                  <a class="nav-link " data-toggle="tab" href="#cap-2" target="_blank">MUSIC LENGTH</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#cap-3">RULES</a>
+                  <a class="nav-link" data-toggle="tab" href="#cap-3" target="_blank">RULES</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#cap-4">MUSIC</a>
+                  <a class="nav-link" data-toggle="tab" href="#cap-4" target="_blank">MUSIC</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#cap-5">COPYRIGHT</a>
+                  <a class="nav-link" data-toggle="tab" href="#cap-5" target="_blank">COPYRIGHT</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#cap-6">DEADLINE</a>
+                <a class="nav-link" data-toggle="tab" href="#cap-6" target="_blank">DEADLINE</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#cap-7">SUBMISSION</a>
+              <a class="nav-link" data-toggle="tab" href="#cap-7" target="_blank">SUBMISSION</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#cap-8">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#cap-8" target="_blank">PRIZES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php">Register Now</a>
+              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php" target="_blank">Register Now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -355,30 +355,30 @@
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#dab-1">NUMBER OF PARTICIPANTS <br> (for secondary school students)</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#dab-1" target="_blank">NUMBER OF PARTICIPANTS <br> (for secondary school students)</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " data-toggle="tab" href="#dab-2">DURATION</a>
+                  <a class="nav-link " data-toggle="tab" href="#dab-2" target="_blank">DURATION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#dab-3">RULES</a>
+                  <a class="nav-link" data-toggle="tab" href="#dab-3" target="_blank">RULES</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#dab-4">COPYRIGHT</a>
+                  <a class="nav-link" data-toggle="tab" href="#dab-4" target="_blank">COPYRIGHT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#dab-5">DEADLINE</a>
+                  <a class="nav-link" data-toggle="tab" href="#dab-5" target="_blank">DEADLINE</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#dab-6">SUBMISSION</a>
+                <a class="nav-link" data-toggle="tab" href="#dab-6" target="_blank">SUBMISSION</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#dab-7">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#dab-7" target="_blank">PRIZES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing">Register now</a>
+              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -488,30 +488,30 @@
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#gab-1">NUMBER OF PARTICIPANTS <br> (size of the teams)</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#gab-1" target="_blank">NUMBER OF PARTICIPANTS <br> (size of the teams)</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " data-toggle="tab" href="#gab-2">RULES</a>
+                  <a class="nav-link " data-toggle="tab" href="#gab-2" target="_blank">RULES</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gab-3">DEADLINE</a>
+                  <a class="nav-link" data-toggle="tab" href="#gab-3" target="_blank">DEADLINE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gab-4">SUBMISSION</a>
+                  <a class="nav-link" data-toggle="tab" href="#gab-4" target="_blank">SUBMISSION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gab-5">PRIZES</a>
+                  <a class="nav-link" data-toggle="tab" href="#gab-5" target="_blank">PRIZES</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#gab-6">SUBMISSION</a>
+                <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">SUBMISSION</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#gab-7">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#gab-7" target="_blank">PRIZES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php">Register now</a>
+              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
