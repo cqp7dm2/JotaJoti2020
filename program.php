@@ -16,10 +16,16 @@
     <meta charset="utf-8">
     <title>Jota-Joti 2020 | Program</title>
         <link href="css/styles.css" rel="stylesheet" />
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="icon" href="assets/img/2020.png">
   </head>
   <body>
         <?php include "header.php"; ?>
+
+        <script>
+          AOS.init();
+        </script>
 
         <header class="masthead">
 
@@ -98,13 +104,13 @@
       <section id="features" class="features">
         <div class="container">
           <div class="row">
-              <h2>Short Film Competition, THEME: Year 2020</h3>
+              <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
               <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
                 thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
                 How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
                 the year, or a reenactment of this year itself. As long as it is according to the theme,
                 let your ideas roam freely!
-              </h2>
+              </p>
 
 
             <div class="col-lg-3" id="services" >
@@ -139,7 +145,7 @@
               <a class="nav-link" data-toggle="tab" href="#tab-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing" target="_blank">Register now </a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing" target="_blank">Register now </a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -147,7 +153,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS</h3>
-                      <p>No limit. (13-18 years old)</p>
+                      <p class="futura">No limit. (13-18 years old)</p>
                     </div>
                   </div>
                 </div>
@@ -155,7 +161,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DURATION</h3>
-                      <p> The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
+                      <p class="futura"> The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
                     </div>
                   </div>
                 </div>
@@ -163,7 +169,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>LANGUAGE</h3>
-                      <p>   ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
+                      <p class="futura">   ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
                             ●	Subtitles in English are compulsory. <br><br></p>
                     </div>
                   </div>
@@ -172,7 +178,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
-                      <p>All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed.</p>
+                      <p class="futura">All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed.</p>
                     </div>
                   </div>
                 </div>
@@ -180,7 +186,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p> ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
+                      <p class="futura"> ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
                           (a) Participants have a license to use such works in the Film; or <br>
                           (b) the use participants’ Film makes of such works is a fair one under the copyright laws.<br>
                           ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason <br><br>
@@ -192,7 +198,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
                           ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
                     </div>
                   </div>
@@ -201,7 +207,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
-                      <p> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+                      <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Judges decision will be final and binding<br>
                           ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
                           ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
@@ -213,7 +219,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>PRIZES</h3>
-                      <p> ●	Best Actor<br>
+                      <p class="futura"> ●	Best Actor<br>
                           ●	Best Actress<br>
                           ●	Best Film<br>
                           ●	People’s Choice Award
@@ -225,7 +231,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p> ● Each video submission will be charged at a fee of MYR 10. </p>
+                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10. </p>
                     </div>
                   </div>
                 </div>
@@ -244,7 +250,7 @@
 
       <section id="features" class="features">
         <div class="container">
-          <h3>Dance Competition</h3>
+          <h3 data-aos="fade-down">Dance Competition</h3>
 
           <div class="row">
             <div class="col-lg-3">
@@ -279,7 +285,7 @@
               <a class="nav-link" data-toggle="tab" href="#cap-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php" target="_blank">Register Now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php" target="_blank">Register Now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -287,7 +293,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the crews)</h3>
-                      <p> ●	5-10 members.</p>
+                      <p class="futura"> ●	5-10 members.</p>
                     </div>
                   </div>
                 </div>
@@ -295,7 +301,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>MUSIC LENGTH</h3>
-                      <p> ●	Maximum 5:00 min.</p>
+                      <p class="futura"> ●	Maximum 5:00 min.</p>
                     </div>
                   </div>
                 </div>
@@ -303,7 +309,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
+                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
                           ●	All registered participants must appear in video throughout the dance.<br>
                           ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, etc.).<br>
                           ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
@@ -319,7 +325,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>MUSIC</h3>
-                      <p> ●	Music must be pre-cut and prepared.<br>
+                      <p class="futura"> ●	Music must be pre-cut and prepared.<br>
                           ●	Please ensure the video uploaded is with music.<br>
                           ●	Please make sure the version is CLEAN/family friendly otherwise the video will be not accepted.<br><br>
                     </p>
@@ -330,7 +336,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
                           ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
                     </div>
                   </div>
@@ -339,7 +345,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9th, October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9th, October 2020.<br>
                           ●	Videos received after this deadline will not be viewed or rated by the judging panel.<br><br></p>
                     </div>
                   </div>
@@ -348,7 +354,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
-                      <p> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+                      <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges decision will be final and binding.<br>
                           ●	Submissions should be done via Google Drive with file name "CREWNAME_DANCE".<br>
@@ -362,7 +368,7 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>PRIZES</h3>
-                    <p> ●	Best dance crew award<br>
+                    <p class="futura"> ●	Best dance crew award<br>
                         ●	Rising star award<br>
                         ●	Most creative dance crew<br>
                         ●	People’s choices award<br><br>
@@ -374,7 +380,7 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
-                    <p> ● Each video submission will be charged at a fee of MYR 10.
+                    <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                     </p>
                   </div>
                 </div>
@@ -395,7 +401,7 @@
 
       <section id="features" class="features">
         <div class="container">
-          <h3>Singing Competition</h3>
+          <h3 data-aos="fade-down">Singing Competition</h3>
 
           <div class="row">
             <div class="col-lg-3">
@@ -425,7 +431,7 @@
               <a class="nav-link" data-toggle="tab" href="#dab-8" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing" target="_blank">Register now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -433,7 +439,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (for secondary school students)</h3>
-                      <p> ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). </p>
+                      <p class="futura"> ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). </p>
                     </div>
                   </div>
                 </div>
@@ -441,7 +447,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DURATION</h3>
-                      <p> ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.</p>
+                      <p class="futura"> ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.</p>
                     </div>
                   </div>
                 </div>
@@ -449,7 +455,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
+                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
                           ●	All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old.<br>
                           ●	All registered participants which participate in singing competition must appear (show faces) in the video throughout singing.<br>
                           ●	Musical instruments can be included in the song (if any), or non-musical instruments also can be used.<br>
@@ -470,7 +476,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p> ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
+                      <p class="futura"> ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
                           (a) Participants have a license to use such works in the song(s); or <br>
                           (b) the use participants’ song(s) makes of such works is a fair one under the copyright laws.<br>
                           ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.<br><br>
@@ -482,7 +488,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+                      <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
                       </div>
                   </div>
@@ -491,7 +497,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
-                      <p> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+                      <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges’ decisions will be final and binding.<br>
                           ●	Submissions should be done via Google Drive with file name "TROOPNAME_SONG".<br>
@@ -505,7 +511,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>PRIZES</h3>
-                      <p> ●	Champion<br>
+                      <p class="futura"> ●	Champion<br>
                           ●	1st Runner Up<br>
                           ●	Best Singer<br>
                           ●	Best Band<br>
@@ -518,7 +524,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p> ● Each video submission will be charged at a fee of MYR 10.
+                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                       </p>
                     </div>
                   </div>
@@ -538,7 +544,7 @@
 
       <section id="features" class="features">
         <div class="container">
-          <h3>Group Photo Competition, THEME: WHO AM I??</h3>
+          <h3 data-aos="fade-down">Group Photo Competition, THEME: WHO AM I??</h3>
 
           <div class="row">
             <div class="col-lg-3">
@@ -562,7 +568,7 @@
               <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php" target="_blank">Register now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -570,7 +576,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the teams)</h3>
-                      <p> ●	5-20 members</p>
+                      <p class="futura"> ●	5-20 members</p>
                     </div>
                   </div>
                 </div>
@@ -578,7 +584,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p> ●	Kindly contact the in-charge person of particular competition for any enquiries. Facebook URL: www.facebook.com/huishien99/ |  Email: huishienchong@gmail.com.<br>
+                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for any enquiries. Facebook URL: www.facebook.com/huishien99/ |  Email: huishienchong@gmail.com.<br>
                           ●	Each team has to submit 2 FUNNY & CREATIVE group photos of the team related to the theme “MY CULTURAL IDENTITY” along with one CREATIVE photo caption for each photo submitted.<br>
                           ●	Participants are allowed to wear whatever costume they want, as long as the costumes are appropriate. Anyway, participants are encouraged to wear a scout scarf in the group photos.<br>
                           ●	Photos resolution required : 1920*768, minimum 300 dpi.<br>
@@ -592,7 +598,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+                      <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
                     </div>
                   </div>
@@ -601,7 +607,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
-                      <p> ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
+                      <p class="futura"> ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges’ decisions will be final and binding.<br>
                           ●	Submissions that violate the competition rules will be disqualified.<br>
                           ●	Submissions should be done via Google Drive with file name "TEAMNAME-GPC-P1" for photo 1 and "TEAMNAME-GPC-P2" for photo 2.<br>
@@ -614,7 +620,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>PRIZES</h3>
-                      <p> ●	Grand Prize<br>
+                      <p class="futura"> ●	Grand Prize<br>
                           ●	Most Creative & Inspiring<br>
                           ●	People’s Choice Award<br><br>
                     </div>
@@ -624,7 +630,7 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p> ● Each video submission will be charged at a fee of MYR 10.
+                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                       </p>
                     </div>
                   </div>
