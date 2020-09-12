@@ -33,7 +33,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <div class="icon-box hover-div">
+            <div class="icon-box hover-div" data-aos="fade-right">
               <i class="icofont-computer"></i>
               <h4><a>Jamboree on the Air</a></h4>
               <p class="futura">
@@ -41,7 +41,7 @@
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
-            <div class="icon-box hover-div">
+            <div class="icon-box hover-div" data-aos="fade-left">
               <h4><a>Jamboree on the Internet</a></h4>
               <p class="futura">
                   Jamboree on the Internet, known by its acronym JOTI, is an international Scouting activity held annually. Participants, through the use of designated Chats from all over the world, can contact their fellow Scouts by means of the Internet. Common communication methods include ScoutLink (IRC), e-mail, and VOIP. This provides the Scouts with a means of learning about fellow Scouts from around the world. JOTI operates alongside Jamboree on the Air (JOTA) and is an official event of the World Organization of the Scout Movement.</p>
@@ -98,70 +98,70 @@
   <!--Table head-->
   <!--Table body-->
   <tbody class="futura">
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Advisor</th>
       <td>Tuan Haji Zulkafli Bin Kamarudin (State Chief Commissioner) <br> <br> Mr P'ng Lai Heng (District Council Chairman)</td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">District Commissioner</th>
       <td>Mr Oi Siou Hean</td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Chairman</th>
       <td><a href="https://www.instagram.com/wson21/" style="color:black" target="_blank">Mark Tan Weng Son</a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Vice Chairman</th>
       <td> <a href="https://www.instagram.com/millieeetan/" style="color:black" target="_blank">Millie Tan Chia Hui</a> (Senior) <br> <a href="https://www.instagram.com/ksj_luck51/" style="color:black" target="_blank">Kung Sin Jin (Junior)</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Secretary</th>
       <td><a href="https://www.instagram.com/ruanyuan98/" style="color:black" target="_blank">Thien Ruan Yuan (Senior)</a> <br> <a href="https://www.instagram.com/maychin8998/" style="color:black" target="_blank">Chin Lai Khoon (Junior)</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Treasurer</th>
       <td> <a href="#" style="color:black" target="_blank">Ooi Yeong Sheng</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Vice Treasurer</th>
       <td> <a href="https://www.instagram.com/zi_jie99/" style="color:black" target="_blank">Koay Zi Jie</a> <br><a href="#" style="color:black" target="_blank">Tan Kai Wern</a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Program Unit (Senior)</th>
       <td><a href="https://www.instagram.com/chng.zhengyuen/" style="color:black" target="_blank">Ch'ng Zheng Yuen (Leader)</a> <br> <a href="#" style="color:black" target="_blank">Chong Hui Shien</a> <br> <a href="#" style="color:black" target="_blank">Eva Teng Ee Hwa</a>
         <br> <a href="#" style="color:black" target="_blank"> Poh Zi Jun </a> <br><a href="#" style="color:black" target="_blank"> Rachel Tan Chia Yi</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Program Unit (Junior)</th>
       <td><a href="#" style="color:black" target="_blank">Ng Kah Weng</a> <br> <a href="#" style="color:black" target="_blank">Tee Sok Huan</a> <br> <a href="#" style="color:black" target="_blank">Yeoh Kean Keong</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">JOTA (Radio Station)</th>
       <td><a href="#" style="color:black" target="_blank">Charlie Teoh theam Chye</a> <br> <a href="https://www.instagram.com/keanjynn/" style="color:black" target="_blank">Leonard Khor Kean Jynn</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Challenge Master</th>
       <td><a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a> <br> <a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Media and Publicity</th>
       <td><a href="https://www.instagram.com/cxaang/" style="color:black" target="_blank">Ang Chern Xing (Leader)</a><br> <a href="#" style="color:black" target="_blank">Eric Goh Thean Yu</a> <br> <a href="https://www.instagram.com/kyara_khaw/" style="color:black" target="_blank">Kyara Khaw Wen Qian</a>
         <br><a href="" style="color:black" target="_blank"> Rachel Tan Chia Yi </a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Sponsorship</th>
       <td><a href="https://www.instagram.com/im_wenjun/" style="color:black" target="_blank">Chong Wen Jun</a> <br> <a href="https://www.instagram.com/draco.musca/" style="color:black" target="_blank">Hoe Dong Liang</a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Merchandising Donation and Distribution</th>
       <td><a href="https://www.instagram.com/axzeltan/" style="color:black" target="_blank">Axzel Tan Aik Sian </a><br> <a href="#" style="color:black" target="_blank">Lee Pei Nee</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">ICT</th>
       <td><a href="https://www.instagram.com/cqp_7dm2/" style="color:black" target="_blank">Chua Qin Peng (Leader)</a> <br> <a href="https://www.instagram.com/kahxuan19/" style="color:black" target="_blank">Cheah Kah Xuan</a> <br> <a href="https://www.instagram.com/darkchoceva/" style="color:black" target="_blank">Eva Teng Ee Hwa</a> <br>
          <a href="https://www.instagram.com/kevinlim715/" style="color:black" target="_blank">Lim Chee Hoong</a> <br> <a href="https://www.instagram.com/nik_nikkhesh/" style="color:black" target="_blank">Nikkhesh Naiidu</a> </td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Prize and Souvenir</th>
       <td><a href="#" style="color:black" target="_blank">Boon Yoong Theng</a></td>
     </tr>
@@ -169,7 +169,7 @@
       <th scope="row">Designer</th>
       <td><a href="https://www.instagram.com/_fongjw_/" style="color:black" target="_blank">Fong Jia Wei</a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Auditor</th>
       <td><a href="https://www.instagram.com/pantherloo1/" style="color:black" target="_blank">Loo Chin Choong</a></td>
     </tr>
