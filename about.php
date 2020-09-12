@@ -36,6 +36,7 @@
             <div class="icon-box hover-div" data-aos="fade-right">
               <i class="icofont-computer"></i>
               <h4><a>Jamboree on the Air</a></h4>
+              
               <p class="futura">
                   Jamboree on the Air, known by its acronym JOTA, is an international Scouting and Guiding activity held annually; it is on the third full weekend in October. First held in conjunction with the fiftieth anniversary of Scouting in 1957, it was devised by Leslie R. Mitchell, a radio amateur with the callsign G3BHK. It is now considered the largest event scheduled by the World Organization of the Scout Movement annually. <br> <br> </p>
             </div>
@@ -165,7 +166,7 @@
       <th scope="row">Prize and Souvenir</th>
       <td><a href="#" style="color:black" target="_blank">Boon Yoong Theng</a></td>
     </tr>
-    <tr>
+    <tr data-aos="fade-up">
       <th scope="row">Designer</th>
       <td><a href="https://www.instagram.com/_fongjw_/" style="color:black" target="_blank">Fong Jia Wei</a></td>
     </tr>
