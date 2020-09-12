@@ -53,7 +53,7 @@ if (isset($_POST['login'])) {
             $_SESSION["ad_email"] = $row2["admin_email"];
 
             echo ('<script>alert("ADMIN = Log In Success!")</script>');
-            echo "<script>window.location.href='adminorder.php';</script>";
+            echo "<script>window.location.href='../adminPanel/examples/dahsboard.php';</script>";
 
             exit();
           }
