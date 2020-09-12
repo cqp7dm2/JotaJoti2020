@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177875132-1');
+</script>
+
+
     <meta charset="utf-8">
     <title>Jota-Joti 2020 | About</title>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -76,11 +88,11 @@
     </tr>
     <tr>
       <th scope="row">Vice Chairman</th>
-      <td> <a href="https://www.instagram.com/millieeetan/" style="color:black" target="_blank">Millie Tan Chia Hui</a> (Senior) <br> <a href="#" style="color:black" target="_blank">Kung Sin Jin (Junior)</a> </td>
+      <td> <a href="https://www.instagram.com/millieeetan/" style="color:black" target="_blank">Millie Tan Chia Hui</a> (Senior) <br> <a href="https://www.instagram.com/ksj_luck51/" style="color:black" target="_blank">Kung Sin Jin (Junior)</a> </td>
     </tr>
     <tr>
       <th scope="row">Secretary</th>
-      <td><a href="https://www.instagram.com/ruanyuan98/" style="color:black" target="_blank">Thien Ruan Yuan (Senior)</a> <br> <a href="#" style="color:black" target="_blank">Chin Lai Khoon (Junior)</a> </td>
+      <td><a href="https://www.instagram.com/ruanyuan98/" style="color:black" target="_blank">Thien Ruan Yuan (Senior)</a> <br> <a href="https://www.instagram.com/maychin8998/" style="color:black" target="_blank">Chin Lai Khoon (Junior)</a> </td>
     </tr>
     <tr>
       <th scope="row">Treasurer</th>
@@ -118,7 +130,7 @@
     </tr>
     <tr>
       <th scope="row">Merchandising Donation and Distribution</th>
-      <td><a href="#" style="color:black" target="_blank">Axzel Tan Aik Sian </a><br> <a href="#" style="color:black" target="_blank">Lee Pei Nee</a> </td>
+      <td><a href="https://www.instagram.com/axzeltan/" style="color:black" target="_blank">Axzel Tan Aik Sian </a><br> <a href="#" style="color:black" target="_blank">Lee Pei Nee</a> </td>
     </tr>
     <tr>
       <th scope="row">ICT</th>
@@ -131,7 +143,7 @@
     </tr>
     <tr>
       <th scope="row">Designer</th>
-      <td><a href="#" style="color:black" target="_blank">Fong Jia Wei</a></td>
+      <td><a href="https://www.instagram.com/_fongjw_/" style="color:black" target="_blank">Fong Jia Wei</a></td>
     </tr>
     <tr>
       <th scope="row">Auditor</th>
