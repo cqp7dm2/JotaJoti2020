@@ -179,7 +179,6 @@
                           ●	Judges decision will be final and binding<br>
                           ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
                           ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
-                          ●	Kindly send the Google Drive link to the email Joinjota@scout.my and CC rachcytan@gmail.com .<br>
                           ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/rachel.tan.7796/ OR Email: rachcytan@gmail.com.<br><br>
                       </p>
                     </div>
@@ -318,7 +317,6 @@
                           ●	Judges decision will be final and binding.<br>
                           ●	Submissions should be done via Google Drive with file name "CREWNAME_DANCE".<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "CREW_PARTICIPANT_DETAILS.doc".<br>
-                          ●	Kindly send the Google Drive link to the email Joinjota@scout.my and CC nickjun2000@gmail.com .<br>
                       </p>
                     </div>
                   </div>
@@ -453,7 +451,6 @@
                           ●	Submissions should be done via Google Drive with file name "TROOPNAME_SONG".<br>
                           ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_INFO.doc".<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_PARTICIPANT_DETAILS.doc".<br>
-                          ●	Kindly send the Google Drive link to the email: joinjota@scout.my AND CC email: evateng0124@gmail.com.<br><br>
                       </p>
                     </div>
                   </div>
@@ -559,7 +556,6 @@
                           ●	Submissions that violate the competition rules will be disqualified.<br>
                           ●	Submissions should be done via Google Drive with file name "TEAMNAME-GPC-P1" for photo 1 and "TEAMNAME-GPC-P2" for photo 2.<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per submission and submit via Google Drive with file name "TROOPNAME_GPC_PARTICIPANT_DETAILS.doc".<br>
-                          ●	Kindly send the Google Drive link and the caption of the photos to Joinjota@scout.my and CC huishienchong@gmail.com<br><br>
                       </p>
                     </div>
                   </div>
