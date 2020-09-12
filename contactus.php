@@ -60,7 +60,7 @@
               </a>
             </li>
             <li class="list-inline-item social-facebook">
-              <a href="https://www.messenger.com/t/232000980145607" target="_blank" style="transition-duration: 0.6s;">
+              <a href="https://www.facebook.com/jotajoti.penang/" target="_blank" style="transition-duration: 0.6s;">
                 <i class="fab fa-facebook-f"></i>
               </a>
             </li>

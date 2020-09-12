@@ -51,7 +51,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="about.php">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="program.php">Program</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="challenges.php">Challenges</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="merchant.php">Merchandise</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="merchant.php">Donation</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="contactus.php">Contact Us</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="loginRegister/login.php">Login/Register</a></li>
 
