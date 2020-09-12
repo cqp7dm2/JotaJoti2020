@@ -10648,15 +10648,15 @@ section.contacts ul.list-social li.social-youtube a:hover {
 
 /*Move text*/
 .move-text1 {
-  animation: move 3s;
+  animation: move 1.5s;
   text-align: center;
-  -webkit-animation: move 3s;
+  -webkit-animation: move 1.5s;
 }
 
 .move-text2 {
-  animation: move 4s;
+  animation: move 2s;
   text-align: center;
-  -webkit-animation: move 4s;
+  -webkit-animation: move 2s;
 }
 
 @keyframes move {
