@@ -24,6 +24,12 @@ if (isset($_POST['login'])) {
     echo ('<script>alert("Field Empty : Please check your Field Input!");window.history.go(-1);</script>');
     exit();
   }
+  // else{
+  //   txtadEmail = getRequestString($email);
+  //   txtadPass = getRequestString($passW);
+  //   txtSQL - "SELECT * FROM admin where admin_email = @0";
+  //   db.Execute(txtSQL,txtadEmail,txtSQL);
+  // }
   else{
     $sql = "select * from user where user_email='$email'";
     $result = mysqli_query($conn , $sql);
@@ -52,7 +58,7 @@ if (isset($_POST['login'])) {
             $_SESSION["ad_Lname"] = $row2["admin_Lname"];
             $_SESSION["ad_email"] = $row2["admin_email"];
 
-            echo ('<script>alert("ADMIN = Log In Success!")</script>');
+            echo ('<script>alert("WELCOME ADMIN = Log In Success !")</script>');
             echo "<script>window.location.href='../adminPanel/examples/dahsboard.php';</script>";
 
             exit();
@@ -61,6 +67,14 @@ if (isset($_POST['login'])) {
       }
       exit();
     } else {
+      // else{
+      //
+      //   txtadEmail = getRequestString($email);
+      //   txtadPass = getRequestString($passW);
+      //   txtSQL - "SELECT * FROM admin where admin_email = @0";
+      //   db.Execute(txtSQL,txtadEmail,txtSQL);
+      //
+      // }
       if ($row = mysqli_fetch_assoc($result)) {
         //De-Hashing the password
         $hashedPwdCheck = password_verify($passW , $row['user_pass']);

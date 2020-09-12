@@ -12,7 +12,6 @@
   gtag('config', 'UA-177875132-1');
 </script>
 
-
     <meta charset="utf-8">
     <title>Jota-Joti 2020 | About</title>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -36,7 +35,7 @@
             <div class="icon-box hover-div" data-aos="fade-right">
               <i class="icofont-computer"></i>
               <h4><a>Jamboree on the Air</a></h4>
-              
+
               <p class="futura">
                   Jamboree on the Air, known by its acronym JOTA, is an international Scouting and Guiding activity held annually; it is on the third full weekend in October. First held in conjunction with the fiftieth anniversary of Scouting in 1957, it was devised by Leslie R. Mitchell, a radio amateur with the callsign G3BHK. It is now considered the largest event scheduled by the World Organization of the Scout Movement annually. <br> <br> </p>
             </div>

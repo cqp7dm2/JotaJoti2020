@@ -61,7 +61,9 @@ gtag('config', 'UA-177875132-1');
                                 </div>
 
                                 <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Phone Number" name="phone_number" required = "required"></div>
-                                <div class="form-group"><select class="form-control form-control-user" type="text" placeholder="Country" name="address" required = "required">
+                                <div class="form-group"><select class="form-control " type="text" name="address" required = "required">
+                                  <option value="#">Choose Your Country Here</option>
+                                  <option value="Malaysia">Malaysia</option>
                                   <option value="Afganistan">Afghanistan</option>
                                     <option value="Albania">Albania</option>
                                     <option value="Algeria">Algeria</option>
@@ -191,7 +193,7 @@ gtag('config', 'UA-177875132-1');
                                     <option value="Macau">Macau</option>
                                     <option value="Macedonia">Macedonia</option>
                                     <option value="Madagascar">Madagascar</option>
-                                    <option value="Malaysia">Malaysia</option>
+
                                     <option value="Malawi">Malawi</option>
                                     <option value="Maldives">Maldives</option>
                                     <option value="Mali">Mali</option>
@@ -308,18 +310,19 @@ gtag('config', 'UA-177875132-1');
                                     <option value="Zaire">Zaire</option>
                                     <option value="Zambia">Zambia</option>
                                     <option value="Zimbabwe">Zimbabwe</option>
-                                  <select></div>
+                                  </select>
+                                  </div>
                                 <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Scout Troop Names" name="postal_code" required = "required"></div>
 
                                 <label >Select Categories</label>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                                    <input class="form-check-input" type="radio" name="exampleRadios" id="junior1" value="1" checked>
                                     <label class="form-check-label" for="exampleRadios1">
                                       Junior Scout (7 Years Old - 12 Years Old )
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+                                  <input class="form-check-input" type="radio" name="exampleRadios" id="senior0" value="0">
                                   <label class="form-check-label" for="exampleRadios2">
                                       Senior Scout (13 Years Old - 18 Years Old)
                                   </label>

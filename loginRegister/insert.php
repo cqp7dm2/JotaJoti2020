@@ -35,7 +35,7 @@
       }else{
             //check if the input characters are Filer_validate_email
             if(!preg_match("/^[a-zA-Z]*$/",$Fname) || !preg_match("/^[a-zA-Z]*$/",$Lname)){
-              echo ('<script>alert("Invalid Name!")</script>');
+              echo ('<script>alert("Invalid Name !")</script>');
               echo "<script>window.location.href='register.php';</script>";
             exit();
             }
