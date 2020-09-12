@@ -179,7 +179,6 @@
                           ●	Judges decision will be final and binding<br>
                           ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
                           ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
-                          ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/rachel.tan.7796/ OR Email: rachcytan@gmail.com.<br><br>
                       </p>
                     </div>
                   </div>
