@@ -11037,6 +11037,7 @@ section {
 
 .bg-faded {
   background-color: rgba(255, 255, 255, 0.85);
+  opacity: 0.5;
 }
 
 .service-23 {
@@ -11078,21 +11079,21 @@ section {
 }
 
 .service-23 .btn-info-gradiant {
-		background: #188ef4;
-    background: -webkit-linear-gradient(legacy-direction(to right), #188ef4 0%, #316ce8 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#188ef4), to(#316ce8));
-    background: -webkit-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-    background: -o-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-    background: linear-gradient(to right, #188ef4 0%, #316ce8 100%);
+		background: #fad390;
+    background: -webkit-linear-gradient(legacy-direction(to right), #fad390 0%, #fed136 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#fad390), to(#fed136));
+    background: -webkit-linear-gradient(left, #fad390 0%, #fed136 100%);
+    background: -o-linear-gradient(left, #fad390 0%, #fed136 100%);
+    background: linear-gradient(to right, #fad390 0%, #fed136 100%);
 }
 
 .service-23 .btn-info-gradiant:hover {
-		background: #316ce8;
-    background: -webkit-linear-gradient(legacy-direction(to right), #316ce8 0%, #188ef4 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#316ce8), to(#188ef4));
-    background: -webkit-linear-gradient(left, #316ce8 0%, #188ef4 100%);
-    background: -o-linear-gradient(left, #316ce8 0%, #188ef4 100%);
-    background: linear-gradient(to right, #316ce8 0%, #188ef4 100%);
+		background: #fed136;
+    background: -webkit-linear-gradient(legacy-direction(to right), #fed136 0%, #fad390 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#fed136), to(#fad390));
+    background: -webkit-linear-gradient(left, #fed136 0%, #fad390 100%);
+    background: -o-linear-gradient(left, #fed136 0%, #fad390 100%);
+    background: linear-gradient(to right, #fed136 0%, #fad390 100%);
 }
 .c2a10 {
   font-family: "Montserrat", sans-serif;
@@ -11126,21 +11127,21 @@ section {
 }
 
 .c2a10 .btn-info-gradiant {
-  background: #188ef4;
-  background: -webkit-linear-gradient(legacy-direction(to right), #188ef4 0%, #316ce8 100%);
-  background: -webkit-gradient(linear, left top, right top, from(#188ef4), to(#316ce8));
-  background: -webkit-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-  background: -o-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-  background: linear-gradient(to right, #188ef4 0%, #316ce8 100%);
+  background: #fad390;
+  background: -webkit-linear-gradient(legacy-direction(to right), #fad390 0%, #fed136 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#fed330), to(#fed136));
+  background: -webkit-linear-gradient(left, #fad390 0%, #fed136 100%);
+  background: -o-linear-gradient(left, #fad390 0%, #fed136 100%);
+  background: linear-gradient(to right, #fad390 0%, #fed136 100%);
 }
 
 .c2a10 .btn-info-gradiant:hover {
-  background: #316ce8;
-  background: -webkit-linear-gradient(legacy-direction(to right), #316ce8 0%, #188ef4 100%);
-  background: -webkit-gradient(linear, left top, right top, from(#316ce8), to(#188ef4));
-  background: -webkit-linear-gradient(left, #316ce8 0%, #188ef4 100%);
-  background: -o-linear-gradient(left, #316ce8 0%, #188ef4 100%);
-  background: linear-gradient(to right, #316ce8 0%, #188ef4 100%);
+  background: #fed136;
+  background: -webkit-linear-gradient(legacy-direction(to right), #fed136 0%, #fad390 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#fed136), to(#fad390));
+  background: -webkit-linear-gradient(left, #fed136 0%, #fad390 100%);
+  background: -o-linear-gradient(left, #fed136 0%, #fad390 100%);
+  background: linear-gradient(to right, #fed136 0%, #fad390 100%);
 }
 
 .c2a10 .btn-md {

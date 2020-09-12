@@ -139,13 +139,13 @@
   <div class="container">
     <!-- Row -->
     <div class="row">
-      <div class="col-md-12 text-center both-space">
-        <div class="card">
+      <div class="col-md-5 text-center offset-md-7">
+        <div class="card" data-aos="fade-left" style="box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Check Out Our Programs! <br> </h3>
               <h6 class="subtitle font-weight-normal">There are various of programs/competition available, check them out! <br> <br> </h6>
-              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php" ><span>View Details</span></a>
+              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php"><span>View Details</span></a>
             </div>
           </div>
         </div>
@@ -159,8 +159,8 @@
       <div class="container">
     <!-- Row -->
     <div class="row">
-      <div class="col-md-12 text-center both-space">
-        <div class="card">
+      <div class="col-md-5 text-center both-space">
+        <div class="card" data-aos="fade-right" style="box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Challenges <br> </h3>
@@ -181,8 +181,8 @@
 <div class="container">
 <!-- Row -->
 <div class="row">
-  <div class="col-md-12 text-center both-space">
-    <div class="card">
+  <div class="col-md-5 text-center offset-md-7">
+    <div class="card" data-aos="fade-left" style="box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
       <div class="card-body">
         <div class="text-box">
           <h3 class="mb-3">Donations</h3>
@@ -207,12 +207,12 @@
         <section>
           <div class="container">
             <div class="row align-items-center">
-              <div class="col-lg-6">
+              <div class="col-lg-6" data-aos="flip-down">
                 <div class="p-5">
-                  <img class="img-fluid" src="assets/img/callsign.jpg" alt="" >
+                  <img class="img-fluid" src="assets/img/callsign.jpg" alt="" style="border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
                 </div>
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6" data-aos="fade-down">
                 <div class="p-5">
                   <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2>
                   <p></p>
