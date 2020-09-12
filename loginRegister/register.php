@@ -64,7 +64,7 @@ gtag('config', 'UA-177875132-1');
                             <!-- <div class="text-center"><a class="small" href="forgot-password.php">Forgot Password?</a></div> -->
                             <div class="text-center"><a class="small" href="login.php">Already have an account? Login!</a></div>
                             <br>
-                            <a class="btn btn-secondary btn-block text-white btn-user" href="../hello.php" role="button">Back To Home</a>
+                            <a class="btn btn-secondary btn-block text-white btn-user" href="../index.php" role="button">Back To Home</a>
                         </div>
                     </div>
                 </div>
