@@ -39,75 +39,80 @@
       </div>
     </header>
 
-    <section class="page-section">
+    <section>
       <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex ml-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Smart Move</span>
-                <span class="section-heading-lower">Chess Club</span>
-              </h2>
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="p-5">
+              <img class="img-fluid" src="assets/img/callsign.jpg" alt="" >
             </div>
           </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/001.jpg" alt="">
-          <div class="product-item-description d-flex mr-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">Are you a strong chess player or are you interested to become one? Unimas Indoor Games Club is right here for you. Majoring in the Unimas chess team. You'll learn a lot. Many upcoming activities, events and competition. Come and join us!</p>
-              <div class="product-button mx-auto">
-                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
-            </div>
+          <div class="col-lg-6">
+            <div class="p-5">
+              <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2>
+              <p></p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex mr-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Accuracy is essential to beauty</span>
-                <span class="section-heading-lower">Sniper Club</span>
-              </h2>
-            </div>
-          </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
-          <div class="product-item-description d-flex ml-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">For that purpose Sniping Club to build up a team of certified instructors on each shooting discipline. Each member of our team has permission to train shooting disciplines. Club instructors are former law-enforcement officers with experience in handling weapons of various types and configurations.</p>
-              <div class="product-button mx-auto">
-                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
+    <div class="py-5 c2a10" style="background-image:url(assets/img/001.jpg)">
+  <div class="container">
+    <!-- Row -->
+    <div class="row">
+      <div class="col-md-5 text-center both-space">
+        <div class="card">
+          <div class="card-body">
+            <div class="text-box">
+              <h3 class="mb-3">Check Out Our Programs! <br> </h3>
+              <h6 class="subtitle font-weight-normal">There are various of programs/competition available, check them out! <br> <br> </h6>
+              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php" target="_blank"><span>View Details</span></a>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </div>
+</div>
+    <div class="py-5 c2a10" style="background-image:url(assets/img/0001.jpg)">
+  <div class="container">
+    <!-- Row -->
+    <div class="row">
+      <div class="col-md-5 text-center both-space">
+        <div class="card">
+          <div class="card-body">
+            <div class="text-box">
+              <h3 class="mb-3">Challenges <br> </h3>
+              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week for senior challenges. Don't miss out! The challenges will last for a month <br> <br> </h6>
+              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" target="_blank"><span>View Details</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex ml-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Another way of thinking</span>
-                <span class="section-heading-lower">Science Club</span>
-              </h2>
-            </div>
-          </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
-          <div class="product-item-description d-flex mr-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">Science Club is an afterschool, mentor-based science program for middle school youth. This program brings graduate student mentors together with small groups of students to conduct fun and engaging scientific investigations. </p>
-              <div class="product-button mx-auto">
-                <a class="btn btn-primary btn-x2" href="kl.utm.my">Click to register!</a>
-            </div>
-          </div>
+
+<div class="py-5 c2a10" style="background-image:url(assets/img/003.jpg)">
+<div class="container">
+<!-- Row -->
+<div class="row">
+  <div class="col-md-5 text-center both-space">
+    <div class="card">
+      <div class="card-body">
+        <div class="text-box">
+          <h3 class="mb-3">Donations</h3>
+          <h6 class="subtitle font-weight-normal">Coming Soon......</h6>
+          <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="merchant.php" target="_blank"><span>View Details</span></a>
         </div>
       </div>
-    </section>
+    </div>
+  </div>
+</div>
+</div>
+</div>
 
   <section style="background-color:#fff;"> <!--#D9514EFF-->
     <div class="container">
@@ -293,7 +298,7 @@
           </div>
         </section>
 
-        <section class="page-section" id="about">
+        <!-- <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Logo History</h2>
@@ -304,7 +309,6 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2017.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <!-- <h4 class="subheading">2017</h4> -->
                             </div>
                         </div>
                     </li>
@@ -312,21 +316,18 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2018.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <!-- <h4>March 2011</h4> -->
                             </div>
                     </li>
                     <li data-aos="fade-right">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2019.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <!-- <h4>December 2012</h4> -->
                             </div>
                     </li>
                     <li class="timeline-inverted" data-aos="fade-left">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2020.png" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <!-- <h4>July 2014</h4> -->
                             </div>
                         </div>
                     </li>
@@ -343,7 +344,7 @@
                     </li>
                 </ul>
             </div>
-        </section>
+        </section> -->
 
         <?php include "footer.php"; ?>
 
