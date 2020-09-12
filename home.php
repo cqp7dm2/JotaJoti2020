@@ -135,7 +135,7 @@
 
           </section>
 
-    <div class="py-5 c2a10" style="background-image:url(assets/img/001.jpg)">
+    <div class="py-5 c2a10" style="background-image:url(assets/img/program.jpg)">
   <div class="container">
     <!-- Row -->
     <div class="row">
@@ -153,8 +153,10 @@
     </div>
   </div>
 </div>
-    <div class="py-5 c2a10" style="background-image:url(assets/img/0001.jpg)">
-  <div class="container">
+    <div class="py-5 c2a10" >
+      <div style="background-image:url(assets/img/challenge.jpg)">
+
+      <div class="container">
     <!-- Row -->
     <div class="row">
       <div class="col-md-12 text-center both-space">
@@ -167,13 +169,15 @@
             </div>
           </div>
         </div>
-      </div>
+        </div>
     </div>
+    </div>
+
   </div>
 </div>
 
 
-<div class="py-5 c2a10" style="background-image:url(assets/img/003.jpg)">
+<div class="py-5 c2a10" style="background-image:url(assets/img/donation.jpg)">
 <div class="container">
 <!-- Row -->
 <div class="row">
