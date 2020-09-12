@@ -514,7 +514,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="dap-8">
+                <div class="tab-pane" id="dab-8">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
