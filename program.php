@@ -98,27 +98,33 @@
             <div class="col-lg-3" id="services" >
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#tab-1" target="_blank">DURATION</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#tab-1" target="_blank">NUMBER OF PARTICIPANTS</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " data-toggle="tab" href="#tab-2" target="_blank">LANGUAGE</a>
+                  <a class="nav-link " data-toggle="tab" href="#tab-2" target="_blank">DURATION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-3" target="_blank">TOPIC SENSITIVITY</a>
+                  <a class="nav-link " data-toggle="tab" href="#tab-3" target="_blank">LANGUAGE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-4" target="_blank">COPYRIGHT</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-4" target="_blank">TOPIC SENSITIVITY</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#tab-5" target="_blank">DEADLINE</a>
+                  <a class="nav-link" data-toggle="tab" href="#tab-5" target="_blank">COPYRIGHT</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#tab-6" target="_blank">DEADLINE</a>
                 </li>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-6" target="_blank">SUBMISSION</a>
+                <a class="nav-link" data-toggle="tab" href="#tab-7" target="_blank">SUBMISSION</a>
               </li>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#tab-7" target="_blank">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#tab-8" target="_blank">PRIZES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#tab-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
               <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing" target="_blank">Register now </a>
@@ -128,12 +134,20 @@
                 <div class="tab-pane active show" id="tab-1">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>DURATION</h3>
-                      <p>The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
+                      <h3>NUMBER OF PARTICIPANTS</h3>
+                      <p>No limit. (13-18 years old)</p>
                     </div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-2">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>DURATION</h3>
+                      <p> The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-3">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>LANGUAGE</h3>
@@ -142,7 +156,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-3">
+                <div class="tab-pane" id="tab-4">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
@@ -150,7 +164,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-4">
+                <div class="tab-pane" id="tab-5">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
@@ -162,7 +176,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-5">
+                <div class="tab-pane" id="tab-6">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
@@ -171,7 +185,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-6">
+                <div class="tab-pane" id="tab-7">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
@@ -183,7 +197,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-7">
+                <div class="tab-pane" id="tab-8">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>PRIZES</h3>
@@ -192,6 +206,14 @@
                           ●	Best Film<br>
                           ●	People’s Choice Award
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-9">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>COMPETITION FEES</h3>
+                      <p> ● Each video submission will be charged at a fee of MYR 10. </p>
                     </div>
                   </div>
                 </div>
@@ -216,7 +238,7 @@
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active show" data-toggle="tab" href="#cap-1" target="_blank">NUMBER OF PARTICIPANTS (size of the crews)</a>
+                  <a class="nav-link active show" data-toggle="tab" href="#cap-1" target="_blank">NUMBER OF PARTICIPANTS <br> (size of the crews)</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link " data-toggle="tab" href="#cap-2" target="_blank">MUSIC LENGTH</a>
@@ -240,6 +262,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#cap-8" target="_blank">PRIZES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#cap-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
               <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php" target="_blank">Register Now</a>
@@ -333,6 +358,15 @@
                   </div>
                 </div>
               </div>
+              <div class="tab-pane" id="cap-9">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>COMPETITION FEES</h3>
+                    <p> ● Each video submission will be charged at a fee of MYR 10.
+                    </p>
+                  </div>
+                </div>
+              </div>
 
               </div>
             </div>
@@ -369,13 +403,14 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#dab-5" target="_blank">DEADLINE</a>
                 </li>
-              </li>
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#dab-6" target="_blank">SUBMISSION</a>
               </li>
-            </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#dab-7" target="_blank">PRIZES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#dab-8" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
               <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing" target="_blank">Register now</a>
@@ -467,6 +502,15 @@
                     </div>
                   </div>
                 </div>
+                <div class="tab-pane" id="dap-8">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>COMPETITION FEES</h3>
+                      <p> ● Each video submission will be charged at a fee of MYR 10.
+                      </p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -502,13 +546,8 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gab-5" target="_blank">PRIZES</a>
                 </li>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">SUBMISSION</a>
-              </li>
-            </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#gab-7" target="_blank">PRIZES</a>
+              <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
               <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php" target="_blank">Register now</a>
@@ -566,6 +605,15 @@
                       <p> ●	Grand Prize<br>
                           ●	Most Creative & Inspiring<br>
                           ●	People’s Choice Award<br><br>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gab-6">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>COMPETITION FEES</h3>
+                      <p> ● Each video submission will be charged at a fee of MYR 10.
+                      </p>
                     </div>
                   </div>
                 </div>
