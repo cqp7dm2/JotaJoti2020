@@ -73,13 +73,13 @@
   <div class="container">
     <!-- Row -->
     <div class="row">
-      <div class="col-md-5 text-center both-space">
+      <div class="col-md-12 text-center both-space">
         <div class="card">
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Check Out Our Programs! <br> </h3>
               <h6 class="subtitle font-weight-normal">There are various of programs/competition available, check them out! <br> <br> </h6>
-              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php" target="_blank"><span>View Details</span></a>
+              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php" ><span>View Details</span></a>
             </div>
           </div>
         </div>
@@ -91,13 +91,13 @@
   <div class="container">
     <!-- Row -->
     <div class="row">
-      <div class="col-md-5 text-center both-space">
+      <div class="col-md-12 text-center both-space">
         <div class="card">
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Challenges <br> </h3>
               <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week for senior challenges. Don't miss out! The challenges will last for a month <br> <br> </h6>
-              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" target="_blank"><span>View Details</span></a>
+              <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" ><span>View Details</span></a>
             </div>
           </div>
         </div>
@@ -111,13 +111,13 @@
 <div class="container">
 <!-- Row -->
 <div class="row">
-  <div class="col-md-5 text-center both-space">
+  <div class="col-md-12 text-center both-space">
     <div class="card">
       <div class="card-body">
         <div class="text-box">
           <h3 class="mb-3">Donations</h3>
           <h6 class="subtitle font-weight-normal">Coming Soon......</h6>
-          <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="merchant.php" target="_blank"><span>View Details</span></a>
+          <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="merchant.php" ><span>View Details</span></a>
         </div>
       </div>
     </div>
