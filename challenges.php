@@ -54,7 +54,7 @@
                 <div class="tab-pane active show" id="tab-1">
                   <div class="row">
 
-                      <h3>Basic Requirement</h3>
+                      <h3 data-aos="fade-right">Basic Requirement</h3>
                   </div>
                   <div class="row futura">
                       <p> 1)	Participants need to have an e-mail account to participants. <br>
@@ -62,7 +62,7 @@
                           3)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
                           4)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
                       </p>
-                      <h3>Method of Operations</h3>
+                      <h3 data-aos="fade-right">Method of Operations</h3>
                       <p> 1)	2 tasks OR games per week, total of 4 weeks. (8 tasks in total) <br>
                           2)	Tasks are to upload at the first day of the week.  <br>
                           3)	Completion card is to send to participants once they submit the tasks. <br>
@@ -123,7 +123,7 @@
 
           <div class="section-title" id = "week1">
             <br>
-            <h2>Week 1</h2>
+            <h2 data-aos="flip-up">Week 1</h2>
           </div>
 
           <div class="row">
@@ -159,7 +159,7 @@
 
             <div class="section-title" id = "week2">
               <br>
-              <h2>Week 2</h2>
+              <h2 data-aos="flip-up">Week 2</h2>
             </div>
 
             <div class="row">
@@ -190,7 +190,7 @@
 
           <div class="section-title" id = "week3">
             <br>
-            <h2>Week 3</h2>
+            <h2 data-aos="flip-up">Week 3</h2>
           </div>
 
           <div class="row">
@@ -219,7 +219,7 @@
 
           <div class="section-title" id = "week4">
             <br>
-            <h2>Week 4</h2>
+            <h2 data-aos="flip-up">Week 4</h2>
           </div>
 
           <div class="row">
