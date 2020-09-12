@@ -29,6 +29,28 @@
           </div>
     </header>
 
+    <section id="services" class="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="icon-box hover-div">
+              <i class="icofont-computer"></i>
+              <h4><a>Jamboree on the Air</a></h4>
+              <p class="futura">
+                  Jamboree on the Air, known by its acronym JOTA, is an international Scouting and Guiding activity held annually; it is on the third full weekend in October. First held in conjunction with the fiftieth anniversary of Scouting in 1957, it was devised by Leslie R. Mitchell, a radio amateur with the callsign G3BHK. It is now considered the largest event scheduled by the World Organization of the Scout Movement annually. <br> <br> </p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box hover-div">
+              <h4><a>Jamboree on the Internet</a></h4>
+              <p class="futura">
+                  Jamboree on the Internet, known by its acronym JOTI, is an international Scouting activity held annually. Participants, through the use of designated Chats from all over the world, can contact their fellow Scouts by means of the Internet. Common communication methods include ScoutLink (IRC), e-mail, and VOIP. This provides the Scouts with a means of learning about fellow Scouts from around the world. JOTI operates alongside Jamboree on the Air (JOTA) and is an official event of the World Organization of the Scout Movement.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="page-section cta">
       <div class="container">
         <div class="row">
@@ -57,6 +79,8 @@
         </div>
       </div>
     </section>
+
+
 
 
     <section class="page-section bg-light" id="team">
