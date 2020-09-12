@@ -1,17 +1,20 @@
-<!--
-=========================================================
-Material Dashboard - v2.1.2
-=========================================================
-
-Product Page: https://www.creative-tim.com/product/material-dashboard
-Copyright 2020 Creative Tim (https://www.creative-tim.com)
-Coded by Creative Tim
-
-=========================================================
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php
 include "connection.php";
- ?>
+$id=$_GET["id"];
+
+$firstname = "";
+$lastname = "";
+$email = "";
+$contact = "";
+
+$res=mysqli_query($link, "select * from table1 where id=$id");
+while($row=mysqli_fetch_array($res)){
+  $firstname = $row["firstName"];
+  $lastname = $row["lastName"];
+  $email = $row["email"];
+  $contact = $row["contact"];
+}
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -107,48 +110,38 @@ include "connection.php";
       <div class="content">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-10">
               <div class="card">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title ">Simple Table</h4>
-                  <p class="card-category"> Here is a subtitle for this table</p>
-                </div>
-                <div class="col-md-2">
-                  <a href="insert.php"><button type="submit" name="insert" class="btn btn-default">Add New Member</button></a>
+                  <h4 class="card-title "><?php echo $firstname;?> <?php echo $lastname; ?>'s Table</h4>
+                  <p class="card-category"> Here is the member's information</p>
                 </div>
                 <div class="card-body">
                   <div class="table-responsive">
-                    <table class="table table-bordered">
-                      <thead>
-                        <tr>
-                          <th>#</th>
-                          <th>Firstname</th>
-                          <th>Lastname</th>
-                          <th>Email</th>
-                          <th>Contact</th>
-                          <th>Edit</th>
-                          <th>Delete</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <?php
-                        $res = mysqli_query($link, "select * from table1");
-                        while($row=mysqli_fetch_array($res))
-                        {
-                          echo "<tr>";
-                            echo "<td>"; echo $row["id"]; echo "</td>";
-                            echo "<td>"; echo $row["firstName"]; echo "</td>";
-                            echo "<td>"; echo $row["lastName"]; echo "</td>";
-                            echo "<td>"; echo $row["email"]; echo "</td>";
-                            echo "<td>"; echo $row["contact"]; echo "</td>";
-                            echo "<td>";?> <a href="edit.php?id=<?php echo $row["id"]; ?>"><button type="button" class="btn btn-success">Edit</button></a> <?php echo "</td>";
-                            echo "<td>";?> <a href="delete.php?id=<?php echo $row["id"]; ?>"><button type="button" class="btn btn-danger">Delete</button></a> <?php echo "</td>";
+                    <form action="" name="form1" method="post">
 
-                          echo "</tr>";
-                        }
-                         ?>
-                      </tbody>
-                    </table>
+                      <div>
+                        <label for="email">First name:</label>
+                        <input type="text" class="form-control" id="firstname" placeholder="Enter firstname" name="firstName" value="<?php echo $firstname; ?>">
+                      </div>
+
+                      <div >
+                        <label for="pwd">Last name:</label>
+                        <input type="text" class="form-control" id="lastname" placeholder="Enter lastname" name="lastName"  value="<?php echo $lastname; ?>">
+                      </div>
+
+                      <div>
+                        <label for="pwd">Email:</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter email" name="email"  value="<?php echo $email; ?>">
+                      </div>
+
+                      <div >
+                        <label for="pwd">Contact:</label>
+                        <input type="text" class="form-control" id="contact" placeholder="Enter contact" name="contact"  value="<?php echo $contact; ?>">
+                      </div>
+
+                      <button type="submit" name="update" class="btn btn-success">Update</button>
+                    </form>
                   </div>
                 </div>
               </div>
@@ -477,5 +470,15 @@ include "connection.php";
     });
   </script>
 </body>
-
+    <?php
+    if(isset($_POST["update"]))
+    {
+      mysqli_query($link, "update table1 set firstname='$_POST[firstName]', lastname='$_POST[lastName]', email='$_POST[email]', contact='$_POST[contact]' where id=$id");
+      ?>
+      <script type="text/javascript">
+      window.location.href = "tables.php";
+      </script>
+      <?php
+    }
+     ?>
 </html>

@@ -19,12 +19,6 @@
       <li class="nav-item ">
         <a class="nav-link" href="./tables.php">
           <i class="material-icons">person</i>
-          <p>Admin Profile</p>
-        </a>
-      </li>
-      <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
-          <i class="material-icons">person</i>
           <p>Member Profile</p>
         </a>
       </li>
