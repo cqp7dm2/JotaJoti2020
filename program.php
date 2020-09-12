@@ -145,7 +145,7 @@
               <a class="nav-link" data-toggle="tab" href="#tab-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1M_HpgwwxUu-PxoRMXxki_bmZJ3k7Rf4Hz9NbGv3hHRw/edit?usp=sharing" target="_blank">Register now </a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1fllTzjUk2wn9y7i51QTSgPStUKenq4BEIKY3Gim58Dc/edit?usp=sharing" target="_blank">Register now </a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -285,7 +285,7 @@
               <a class="nav-link" data-toggle="tab" href="#cap-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1u6-MNqZu4N1opJSmxM7iYoISNqkeFqAdb2VaFSfJn8E/edit?usp=sharing.php" target="_blank">Register Now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1b4Vev6jUQg7oqTfj49KEgWIJ86QtiOBojchrFsoGp6I/edit?usp=sharing" target="_blank">Register Now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -431,7 +431,7 @@
               <a class="nav-link" data-toggle="tab" href="#dab-8" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1K7valeo76Qeexpth5yrZGD2Dwe1teAVKVRmbQVB2t4E/edit?usp=sharing" target="_blank">Register now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1BYfunZzFbEWk3jEXm5CgMwbm64BswbfFw6t1n8eTssg/edit?usp=sharing" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -568,7 +568,7 @@
               <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Ht0WHalVRVhWgicLcuklw7nA9tXZFBaJuec-FIIXe4E/edit?usp=sharing.php" target="_blank">Register now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/12F3qnNP-AloooRGWBTb6F1-Owi40Uujt_p5e27EF478/edit?usp=sharing" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
