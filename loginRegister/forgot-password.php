@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Forgotten Password - QP WDT</title>
+    <title>Jota-Joti 2020 | Forget Password</title>
+    <link rel="icon" href="../assets/img/2020.png">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
@@ -18,7 +19,7 @@
                     <div class="card-body p-0">
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-flex">
-                                <div class="flex-grow-1 bg-password-image" style="background-image: url(&quot;assets/img/angelfood/angelfoodfull.png&quot;);"></div>
+                                <div class="flex-grow-1 bg-password-image" style="background-image: url(&quot;assets/img/jotajoti/mainlogo.png&quot;);"></div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">
@@ -35,7 +36,7 @@
                                     <div class="text-center"><a class="small" href="login.php">Already have an account? Login!</a></div>
 
                                     <br>
-                                    <div class="text-center"><a class="small" href="index.php">BACK TO HOME</a></div>
+                                    <a class="btn btn-secondary btn-block text-white btn-user" href="../index.php" role="button">Back To Home</a>
                                 </div>
                             </div>
                         </div>
