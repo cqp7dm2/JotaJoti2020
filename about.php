@@ -72,67 +72,70 @@
     </tr>
     <tr>
       <th scope="row">Chairman</th>
-      <td>Mark Tan Weng Son</td>
+      <td><a href="https://www.instagram.com/wson21/" style="color:black" target="_blank">Mark Tan Weng Son</a></td>
     </tr>
     <tr>
       <th scope="row">Vice Chairman</th>
-      <td>Millie Tan Chia Hui (Senior) <br> Kung Sin Jin (Junior) </td>
+      <td> <a href="https://www.instagram.com/millieeetan/" style="color:black" target="_blank">Millie Tan Chia Hui</a> (Senior) <br> <a href="#" style="color:black" target="_blank">Kung Sin Jin (Junior)</a> </td>
     </tr>
     <tr>
       <th scope="row">Secretary</th>
-      <td>Thien Ruan Yuan (Senior) <br> Chin Lai Khoon (Junior) </td>
+      <td><a href="https://www.instagram.com/ruanyuan98/" style="color:black" target="_blank">Thien Ruan Yuan (Senior)</a> <br> <a href="#" style="color:black" target="_blank">Chin Lai Khoon (Junior)</a> </td>
     </tr>
     <tr>
       <th scope="row">Treasurer</th>
-      <td>Ooi Yeong Sheng</td>
+      <td> <a href="#" style="color:black" target="_blank">Ooi Yeong Sheng</a> </td>
     </tr>
     <tr>
       <th scope="row">Vice Treasurer</th>
-      <td> Koay Zi Jie <br>Tan Kai Wern</td>
+      <td> <a href="https://www.instagram.com/zi_jie99/" style="color:black" target="_blank">Koay Zi Jie</a> <br><a href="#" style="color:black" target="_blank">Tan Kai Wern</a></td>
     </tr>
     <tr>
       <th scope="row">Program Unit (Senior)</th>
-      <td>Ch'ng Zheng Yuen (Leader) <br> Chong Hui Shien <br> Eva Teng Ee Hwa <br> Poh Zi Jun <br> Rachel Tan Chia Yi </td>
+      <td><a href="https://www.instagram.com/chng.zhengyuen/" style="color:black" target="_blank">Ch'ng Zheng Yuen (Leader)</a> <br> <a href="#" style="color:black" target="_blank">Chong Hui Shien</a> <br> <a href="#" style="color:black" target="_blank">Eva Teng Ee Hwa</a>
+        <br> <a href="#" style="color:black" target="_blank"> Poh Zi Jun </a> <br><a href="#" style="color:black" target="_blank"> Rachel Tan Chia Yi</a> </td>
     </tr>
     <tr>
       <th scope="row">Program Unit (Junior)</th>
-      <td>Ng Kah Weng <br> Tee Sok Huan <br> Yeoh Kean Keong </td>
+      <td><a href="#" style="color:black" target="_blank">Ng Kah Weng</a> <br> <a href="#" style="color:black" target="_blank">Tee Sok Huan</a> <br> <a href="#" style="color:black" target="_blank">Yeoh Kean Keong</a> </td>
     </tr>
     <tr>
       <th scope="row">JOTA (Radio Station)</th>
-      <td>Charlie Teoh theam Chye <br> Leonard Khor Kean Jynn </td>
+      <td><a href="#" style="color:black" target="_blank">Charlie Teoh theam Chye</a> <br> <a href="https://www.instagram.com/keanjynn/" style="color:black" target="_blank">Leonard Khor Kean Jynn</a> </td>
     </tr>
     <tr>
       <th scope="row">Challenge Master</th>
-      <td>Chan Yaou Ming <br> Lim Wan Hao</td>
+      <td><a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a> <br> <a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a></td>
     </tr>
     <tr>
       <th scope="row">Media and Publicity</th>
-      <td>Ang Chern Xing <br> Eric Goh Thean Yu <br> Kyara Khaw Wen Qian <br> Rachel Tan Chia Yi </td>
+      <td><a href="https://www.instagram.com/cxaang/" style="color:black" target="_blank">Ang Chern Xing (Leader)</a><br> <a href="#" style="color:black" target="_blank">Eric Goh Thean Yu</a> <br> <a href="https://www.instagram.com/kyara_khaw/" style="color:black" target="_blank">Kyara Khaw Wen Qian</a>
+        <br><a href="" style="color:black" target="_blank"> Rachel Tan Chia Yi </a></td>
     </tr>
     <tr>
       <th scope="row">Sponsorship</th>
-      <td>Chong Wen Jun <br> Hoe Dong Liang</td>
+      <td><a href="https://www.instagram.com/im_wenjun/" style="color:black" target="_blank">Chong Wen Jun</a> <br> <a href="https://www.instagram.com/draco.musca/" style="color:black" target="_blank">Hoe Dong Liang</a></td>
     </tr>
     <tr>
       <th scope="row">Merchandising Donation and Distribution</th>
-      <td>Axzel Tan Aik Sian <br> Lee Pei Nee </td>
+      <td><a href="#" style="color:black" target="_blank">Axzel Tan Aik Sian </a><br> <a href="#" style="color:black" target="_blank">Lee Pei Nee</a> </td>
     </tr>
     <tr>
       <th scope="row">ICT</th>
-      <td>Chua Qin Peng (Leader) <br> Cheah Kah Xuan <br> Eva Teng Ee Hwa <br> Lim Chee Hoong <br> Nikkhesh Naiidu </td>
+      <td><a href="https://www.instagram.com/cqp_7dm2/" style="color:black" target="_blank">Chua Qin Peng (Leader)</a> <br> <a href="https://www.instagram.com/kahxuan19/" style="color:black" target="_blank">Cheah Kah Xuan</a> <br> <a href="https://www.instagram.com/darkchoceva/" style="color:black" target="_blank">Eva Teng Ee Hwa</a> <br>
+         <a href="https://www.instagram.com/kevinlim715/" style="color:black" target="_blank">Lim Chee Hoong</a> <br> <a href="https://www.instagram.com/nik_nikkhesh/" style="color:black" target="_blank">Nikkhesh Naiidu</a> </td>
     </tr>
     <tr>
       <th scope="row">Prize and Souvenir</th>
-      <td>Boon Yoong Theng</td>
+      <td><a href="#" style="color:black" target="_blank">Boon Yoong Theng</a></td>
     </tr>
     <tr>
       <th scope="row">Designer</th>
-      <td>Fong Jia Wei</td>
+      <td><a href="#" style="color:black" target="_blank">Fong Jia Wei</a></td>
     </tr>
     <tr>
       <th scope="row">Auditor</th>
-      <td>Loo Chin Choong</td>
+      <td><a href="https://www.instagram.com/pantherloo1/" style="color:black" target="_blank">Loo Chin Choong</a></td>
     </tr>
   </tbody>
   <!--Table body-->
@@ -140,6 +143,9 @@
 <!--Table-->
       </div>
     </section>
+
+
+<a href="#"></a>
 
     <!-- .....................................................
     If future need to put personal photo can use this template
