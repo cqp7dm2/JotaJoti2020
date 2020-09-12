@@ -51,23 +51,89 @@
       </div>
     </header>
 
-    <section>
+    <section style="background-color:#fff;"> <!--#D9514EFF-->
       <div class="container">
-        <div class="row align-items-center">
+        <script>
+          AOS.init();
+        </script>
+
+        <!--New Design-->
+        <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
           <div class="col-lg-6">
-            <div class="p-5">
-              <img class="img-fluid" src="assets/img/callsign.jpg" alt="" >
+            <div class="p-5" data-aos="slide-up">
+                <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
             </div>
           </div>
+
           <div class="col-lg-6">
-            <div class="p-5">
-              <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2>
-              <p></p>
+            <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
+              <div class="row pb-3">
+                <div class="col-6">
+                  <h2 class="section-heading" style="font-size: 50px;">Who?</h2>
+                </div>
+                <div class="col-6">
+                  <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
+                </div>
+              </div>
+              <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
+              <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
+              <p class="futura">Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
             </div>
           </div>
         </div>
-      </div>
-    </section>
+
+        <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+          <div class="col-lg-6">
+            <div class="p-5" data-aos="fade-left" style="color:#2A2B2DFF;">
+              <div class="row pb-3">
+                <div class="col-6">
+                  <h2 class="section-heading" style="font-size: 50px;">When?</h2>
+                </div>
+                <div class="col-6">
+                  <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
+                </div>
+              </div>
+              <p class="futura">JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="p-5" data-aos="slide-up">
+                <img class="img-fluid" style="border-radius: 50px;" src="assets/img/2.jpg" alt="">
+            </div>
+          </div>
+        </div>
+
+        <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+          <div class="col-lg-6">
+            <div class="p-5" data-aos="slide-up">
+                <img class="img-fluid" style="border-radius: 50px;" src="assets/img/header-bg.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
+              <div class="row pb-3">
+                <div class="col-6">
+                  <h2 class="section-heading" style="font-size: 50px;">Scouting Around The World</h2>
+                </div>
+                <div class="col-3 pt-6 pb-6">
+                  <br><br><br>
+                  <i class="display-4 flaticon-scout futura" style="font-size: 50px;"></i>
+                </div>
+              </div>
+              <p class="futura">The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
+                  an educational youth movement engaging young people from all over the world to
+                  promote unity, respect, friendship, under- standing and peace.
+                  World Scouting is brought together by the World Organization of the Scout Movement
+                  (WOSM), which is an independent, world-wide, non-profit, non-partisan organization.
+                  Scouting is the largest youth movement in the world and is a worldwide family of 161
+                  National Scout Organizations (NSOs) in a network of over 50 million members in more
+                  than 1 million local community Scout Groups.</p>
+            </div>
+          </div>
+        </div>
+
+
+          </section>
 
     <div class="py-5 c2a10" style="background-image:url(assets/img/001.jpg)">
   <div class="container">
@@ -126,187 +192,29 @@
 </div>
 </div>
 
-  <section style="background-color:#fff;"> <!--#D9514EFF-->
-    <div class="container">
-      <script>
-        AOS.init();
-      </script>
 
-      <!--New Design-->
-      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="slide-up">
-              <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
-          </div>
-        </div>
 
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
-            <div class="row pb-3">
-              <div class="col-6">
-                <h2 class="section-heading" style="font-size: 50px;">Who?</h2>
-              </div>
-              <div class="col-6">
-                <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
-              </div>
-            </div>
-            <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
-            <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
-            <p class="futura">Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="fade-left" style="color:#2A2B2DFF;">
-            <div class="row pb-3">
-              <div class="col-6">
-                <h2 class="section-heading" style="font-size: 50px;">When?</h2>
-              </div>
-              <div class="col-6">
-                <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
-              </div>
-            </div>
-            <p class="futura">JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="slide-up">
-              <img class="img-fluid" style="border-radius: 50px;" src="assets/img/2.jpg" alt="">
-          </div>
-        </div>
-      </div>
-
-      <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="slide-up">
-              <img class="img-fluid" style="border-radius: 50px;" src="assets/img/header-bg.jpg" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="fade-right" style="color:#5c2f87;">
-            <div class="row pb-3">
-              <div class="col-6">
-                <h2 class="section-heading" style="font-size: 50px;">Scouting Around The World</h2>
-              </div>
-              <div class="col-3 pt-6 pb-6">
-                <br><br><br>
-                <i class="display-4 flaticon-scout futura" style="font-size: 50px;"></i>
-              </div>
-            </div>
-            <p class="futura">The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
-                an educational youth movement engaging young people from all over the world to
-                promote unity, respect, friendship, under- standing and peace.
-                World Scouting is brought together by the World Organization of the Scout Movement
-                (WOSM), which is an independent, world-wide, non-profit, non-partisan organization.
-                Scouting is the largest youth movement in the world and is a worldwide family of 161
-                National Scout Organizations (NSOs) in a network of over 50 million members in more
-                than 1 million local community Scout Groups.</p>
-          </div>
-        </div>
-      </div>
-
-<!-- Another style -->
-      <!--
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5" data-aos="slide-up">
-              <img class="img-fluid" style="border-radius: 50px;" src="assets/img/1.jpg" alt="">
-          </div>
-          <script>
-            AOS.init();
-          </script>
-        </div>
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5" data-aos="fade-right" style="color:#2A2B2DFF;">
-            <div class="row">
-              <div class="col-6">
-                <h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
-              </div>
-              <div class="col-6">
-                <i class="flaticon-boy-scout" style="font-size: 50px;"></i>
-              </div>
-            </div>-->
-            <!--<h2 class="display-4 gradient-text1 font-weight-bold">Who?</h2>
-            <i class="flaticon-boy-scout" style="font-size: 50px;"></i>-->
-            <!--<p>Scouts (and Guides) of any age can participate in JOTA-JOTI. (The amateur radio stations normally need to be operated by licensed amateur radio operators.)</p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <section style="background-color:#2A2B2DFF;">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="fade-down-right">
-
-            <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/2.jpg" alt="">-->
-
-            <!--<img class="img-fluid " src="assets/img/02.jpg" alt="">-->
-
-          <!--</div>
-        </div>
-        <div class="col-lg-6">
-          <div class="p-5" data-aos="fade-left" style="color:#2DA8D8FF">
-            <div class="row">
-              <div class="col-6">
-                <h2 class="display-4 gradient-text2 font-weight-bold">When?</h2>
-              </div>
-              <div class="col-6">
-                <i class="flaticon-calendar" style="font-size: 50px;"></i>
-              </div>
-            </div>
-            <p>JOTA-JOTI is an annual event that takes place the third weekend of October.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-        <section style="background-color:#FFEFBA;">
+        <!-- <section>
           <div class="container">
-            <div class="row align-items-center">
-              <div class="col-lg-6 order-lg-2">
-                <div class="p-5" data-aos="fade-down">
-                  <img class="img-fluid threed-img" style="border-radius: 50px;" src="assets/img/header-bg.jpg" alt="">
-                </div>
-              </div>
-              <div class="col-lg-6 order-lg-1">
-                <div class="p-5" data-aos="fade-right" style="color:#D9514EFF">
-                  <div class="row">
-                    <div class="col-9">
-                      <h2 class="display-4 gradient-text3 font-weight-bold">Scouting Around The World</h2>
-                    </div>
-                    <div class="col-3 pt-6 pb-6">
-                      <br><br><br>
-                      <i class="flaticon-scout" style="font-size: 50px;"></i>
-                    </div>
-                  </div>
-                  <p>The Scout Movement was started in England by Lord Baden Powell in 1907. Scouting is
-                      an educational youth movement engaging young people from all over the world to
-                      promote unity, respect, friendship, under- standing and peace.
-                      World Scouting is brought together by the World Organization of the Scout Movement
-                      (WOSM), which is an independent, world-wide, non-profit, non-partisan organization.
-                      Scouting is the largest youth movement in the world and is a worldwide family of 161
-                      National Scout Organizations (NSOs) in a network of over 50 million members in more
-                      than 1 million local community Scout Groups.
-                    </p>
-                </div>
-              </div>
-            </div>
-          </div>-->
-<!-- Another style ends -->
-
-
-        </section>
+            <hr class="divider my-1" />
+          </div>
+        </section> -->
 
         <section>
           <div class="container">
-            <hr class="divider my-1" />
+            <div class="row align-items-center">
+              <div class="col-lg-6">
+                <div class="p-5">
+                  <img class="img-fluid" src="assets/img/callsign.jpg" alt="" >
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="p-5">
+                  <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2>
+                  <p></p>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
 
