@@ -11,7 +11,6 @@
 
      <?php
 
-
      if (Isset($_POST['submit'])) {
 
        include "../conn.php";
@@ -28,7 +27,7 @@
 
       //Error handlers
       //Check for emptyfields
-      if (empty($Fname) || empty($Lname) || empty($email) || empty($passW) || empty($dob) || empty($phone) || empty($address) || empty($postal) || empty($cat))
+      if (empty($Fname) || empty($Lname) || empty($email) || empty($passW) || empty($dob) || empty($phone) || empty($address) || empty($postal))
       {
         echo ('<script>alert("Empty Slot!")</script>');
         echo "<script>window.location.href='register.php';</script>";
@@ -74,7 +73,6 @@
                     exit();
                 }
                   }
-
                   else{
 
                   //hasting password

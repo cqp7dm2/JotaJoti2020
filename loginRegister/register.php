@@ -316,15 +316,21 @@ gtag('config', 'UA-177875132-1');
 
                                 <label >Select Categories</label>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="cat" value="1" required = "required">
+                                    <input class="form-check-input" type="radio" name="cat" value="1" >
                                     <label class="form-check-label">
                                       Junior Scout (7 Years Old - 12 Years Old )
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                  <input class="form-check-input" type="radio" name="cat" value="0" required = "required">
+                                  <input class="form-check-input" type="radio" name="cat" value="0" >
                                   <label class="form-check-label">
                                       Senior Scout (13 Years Old - 18 Years Old)
+                                  </label>
+                                </div>
+                                <div class="form-check">
+                                  <input class="form-check-input" type="radio" name="cat" value="2" >
+                                  <label class="form-check-label">
+                                      Adult(Above 18 Years Old)
                                   </label>
                                 </div>
                                 <hr>
