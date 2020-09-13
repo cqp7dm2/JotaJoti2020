@@ -16,6 +16,9 @@
 
        include "../conn.php";
 
+       date_default_timezone_set("America/New_York");
+       $timemou = date("Y-m-d h:i:s");
+
        $Fname = mysqli_real_escape_string($conn,$_POST['first_name']);
        $Lname = mysqli_real_escape_string($conn,$_POST['last_name']);
        $email = mysqli_real_escape_string($conn,$_POST['email']);
@@ -56,31 +59,31 @@
                 echo "<script>window.location.href='register.php';</script>";
                 exit();
               }
-              else{
-                // reCAPTCHA verification code
-                if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response']))
-                  {
-                    $secret = '6LcBcssZAAAAADGcWch83rrHeiYaJlsZB-rcZIIS';
-                    $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-                    $responseData = json_decode($verifyResponse);
-                if($responseData->success)
-                  {
-                    $succMsg = 'Your contact request have submitted successfully.';
-                  }
-                  else
-                  {
-                    $errMsg = 'Robot verification failed, please try again.';
-                    echo ('<script>alert("Please Verify On Google reCAPTCHA , Thanks")</script>');
-                    exit();
-                }
-                  }
+              // else{
+              //   // reCAPTCHA verification code
+              //   if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response']))
+              //     {
+              //       $secret = '6LcBcssZAAAAADGcWch83rrHeiYaJlsZB-rcZIIS';
+              //       $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+              //       $responseData = json_decode($verifyResponse);
+              //   if($responseData->success)
+              //     {
+              //       $succMsg = 'Your contact request have submitted successfully.';
+              //     }
+              //     else
+              //     {
+              //       $errMsg = 'Robot verification failed, please try again.';
+              //       echo ('<script>alert("Please Verify On Google reCAPTCHA , Thanks")</script>');
+              //       exit();
+              //   }
+              //     }
                   else{
 
                   //hasting password
                   $hashedPwd = password_hash($passW, PASSWORD_DEFAULT);
                   //insert the user into the databased
-                  $sql = "Insert into user (user_Fname, user_Lname, user_email, user_pass, user_dob, user_pnumber, user_address, user_postalcode, user_cat, user_W1G1, user_W1G2, user_W2G1, user_W2G2, user_W3G1, user_W3G2, user_W4G1, user_W4G2)
-                  VALUES ('$Fname', '$Lname', '$email', '$hashedPwd', '$dob', '$phone', '$address','$postal', '$cat', '0', '0', '0', '0','0', '0', '0', '0');";
+                  $sql = "Insert into user (user_createT, user_Fname, user_Lname, user_email, user_pass, user_dob, user_pnumber, user_address, user_postalcode, user_cat, user_W1G1, user_W1G2, user_W2G1, user_W2G2, user_W3G1, user_W3G2, user_W4G1, user_W4G2)
+                  VALUES ('$timemou', '$Fname', '$Lname', '$email', '$hashedPwd', '$dob', '$phone', '$address','$postal', '$cat', '0', '0', '0', '0','0', '0', '0', '0');";
 
                   mysqli_query($conn, $sql);
 
@@ -89,7 +92,7 @@
                   echo "<script>window.location.href='login.php';</script>";
                   exit();
           }
-        }
+        // }
        }
       }
      }

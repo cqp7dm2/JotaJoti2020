@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Sep 13, 2020 at 02:39 AM
+-- Generation Time: Sep 13, 2020 at 02:24 PM
 -- Server version: 5.7.31
 -- PHP Version: 7.3.21
 
@@ -55,6 +55,7 @@ INSERT INTO `admin` (`admin_id`, `admin_Fname`, `admin_Lname`, `admin_email`, `a
 
 DROP TABLE IF EXISTS `user`;
 CREATE TABLE IF NOT EXISTS `user` (
+  `user_createT` timestamp(6) NOT NULL,
   `user_id` int(11) NOT NULL AUTO_INCREMENT,
   `user_Fname` varchar(225) NOT NULL,
   `user_Lname` varchar(225) NOT NULL,
@@ -74,17 +75,18 @@ CREATE TABLE IF NOT EXISTS `user` (
   `user_W4G1` int(11) DEFAULT NULL,
   `user_W4G2` int(11) DEFAULT NULL,
   PRIMARY KEY (`user_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=26 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=28 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`user_id`, `user_Fname`, `user_Lname`, `user_email`, `user_pass`, `user_address`, `user_postalcode`, `user_Pnumber`, `user_dob`, `user_cat`, `user_W1G1`, `user_W1G2`, `user_W2G1`, `user_W2G2`, `user_W3G1`, `user_W3G2`, `user_W4G1`, `user_W4G2`) VALUES
-(23, 'test', 'one', 'cqp@gmail.com', '$2y$10$8blaSKjWfqxObDMS3UCWneIV3V.7ffGIMtdo2g5o6XU6MhHocNfD2', '8b-12-4', '25740', '0164594311', '2020-09-03', 0, 0, 0, 0, 0, 0, 0, 0, 0),
-(19, 'user', 'first', 'user1@gmail.com', '$2y$10$gGk41Ou8OVTrJ0tLl7grGuxmKYzuu0oypPBYBOPz.wpBnKWj23mE.', 'C2-3-5 , Jalan Barat , Vista Komanwel Hill Block 3c2 (Parcel C), Bukit Jalil 57000 , Kuala Lumpur , Wilayah Persekutuan', '57000', '0164594631', '2019-11-02', 0, 0, 0, 0, 0, 0, 0, 0, 0),
-(24, 'Chua ', 'Qin Peng', 'chuaqp@gmail.com', '$2y$10$5TyzTKn057qT4sPgHt8z1e3JyPylWyl8gRB9Yx7.hUuw1di5B82gW', 'Malaysia', '21 GeorgeTown (South)', '+60164594631', '2000-02-07', 0, 0, 0, 0, 0, 0, 0, 0, 0),
-(25, 'Chua ', 'Qin Peng', 'chuaqp@gmail.com', '$2y$10$5TyzTKn057qT4sPgHt8z1e3JyPylWyl8gRB9Yx7.hUuw1di5B82gW', 'Malaysia', '21 GeorgeTown (South)', '+60164594631', '2000-02-07', 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `user` (`user_createT`, `user_id`, `user_Fname`, `user_Lname`, `user_email`, `user_pass`, `user_address`, `user_postalcode`, `user_Pnumber`, `user_dob`, `user_cat`, `user_W1G1`, `user_W1G2`, `user_W2G1`, `user_W2G2`, `user_W3G1`, `user_W3G2`, `user_W4G1`, `user_W4G2`) VALUES
+('0000-00-00 00:00:00.000000', 23, 'test', 'one', 'cqp@gmail.com', '$2y$10$8blaSKjWfqxObDMS3UCWneIV3V.7ffGIMtdo2g5o6XU6MhHocNfD2', '8b-12-4', '25740', '0164594311', '2020-09-03', 0, 0, 0, 0, 0, 0, 0, 0, 0),
+('0000-00-00 00:00:00.000000', 19, 'user', 'first', 'user1@gmail.com', '$2y$10$gGk41Ou8OVTrJ0tLl7grGuxmKYzuu0oypPBYBOPz.wpBnKWj23mE.', 'C2-3-5 , Jalan Barat , Vista Komanwel Hill Block 3c2 (Parcel C), Bukit Jalil 57000 , Kuala Lumpur , Wilayah Persekutuan', '57000', '0164594631', '2019-11-02', 0, 0, 0, 0, 0, 0, 0, 0, 0),
+('0000-00-00 00:00:00.000000', 24, 'Chua ', 'Qin Peng', 'chuaqp@gmail.com', '$2y$10$5TyzTKn057qT4sPgHt8z1e3JyPylWyl8gRB9Yx7.hUuw1di5B82gW', 'Malaysia', '21 GeorgeTown (South)', '+60164594631', '2000-02-07', 0, 0, 0, 0, 0, 0, 0, 0, 0),
+('0000-00-00 00:00:00.000000', 25, 'Chua ', 'Qin Peng', 'chuaqp@gmail.com', '$2y$10$5TyzTKn057qT4sPgHt8z1e3JyPylWyl8gRB9Yx7.hUuw1di5B82gW', 'Malaysia', '21 GeorgeTown (South)', '+60164594631', '2000-02-07', 0, 0, 0, 0, 0, 0, 0, 0, 0),
+('2020-09-13 02:11:41.000000', 27, 'test', 'timestamp', 'yy@gmail.com', '$2y$10$5qVymFPLrwVEJs82klNP3OB3zgIpNDY7MCk70SECh7VQhcqsLqKVi', 'Malaysia', '21frs', '0164594631', '2020-09-12', 0, 0, 0, 0, 0, 0, 0, 0, 0);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
