@@ -55,28 +55,9 @@
                 echo ('<script>alert("Email Taken!")</script>');
                 echo "<script>window.location.href='register.php';</script>";
                 exit();
-              }
-              else{
-                // reCAPTCHA verification code
-                if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response']))
-                  {
-                    $secret = '6LcBcssZAAAAADGcWch83rrHeiYaJlsZB-rcZIIS';
-                    $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-                    $responseData = json_decode($verifyResponse);
-                if($responseData->success)
-                  {
-                    $succMsg = 'Your contact request have submitted successfully.';
-                  }
-                  else
-                  {
-                    $errMsg = 'Robot verification failed, please try again.';
-                    echo ('<script>alert("Please Verify On Google reCAPTCHA , Thanks")</script>');
-                    exit();
+              }          
                 }
-                  }
-
                   else{
-
                   //hasting password
                   $hashedPwd = password_hash($passW, PASSWORD_DEFAULT);
                   //insert the user into the databased
