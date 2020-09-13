@@ -6,6 +6,9 @@
     <link rel="icon" href="../assets/img/2020.png">
     <link href="../css/styles.css" rel="stylesheet" />
 
+    <?php
+    SESSION_start()
+     ?>
 
   </head>
   <body id= "page-top">

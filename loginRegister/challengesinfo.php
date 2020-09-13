@@ -16,7 +16,12 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="../css/styles.css" rel="stylesheet" />
 
-    <title>Challenges Information</title>
+    <?php
+    SESSION_start()
+     ?>
+
+    <title>Jota-Joti 2020|Challenges Information</title>
+    <link rel="icon" href="../assets/img/2020.png">
   </head>
   <body id= "page-top">
 

@@ -37,7 +37,7 @@ gtag('config', 'UA-177875132-1');
             <div class="card-body p-10">
                 <div class="row">
                     <div class="col-lg-5 d-none d-lg-flex">
-                        <div class="flex-grow-1 bg-login-image" style="background-image: url(&quot;assets/img/jotajoti/mainlogo.png&quot;);"></div>
+                        <div class="flex-grow-1 bg-login-image" style="background:#221f20;"><img src="../loginRegister/assets/img/mainlogo.png" alt="jota joti 2020" class="img-fluid"></div>
                     </div>
                     <div class="col-lg-7">
                         <div class="p-5">
@@ -52,7 +52,9 @@ gtag('config', 'UA-177875132-1');
                                 </div>
 
                                 <!--Full length , Email& Address-->
+                                <small id="JustHelp" class="form-text text-muted">Enter an Valid Email Address</small>
                                 <div class="form-group"><input class="form-control form-control-user" type="email" aria-describedby="emailHelp" placeholder="Email Address" name="email" required = "required"></div>
+
 
                                 <!--Half length , Password & Repeat-->
                                 <div class="form-group row">
@@ -60,6 +62,7 @@ gtag('config', 'UA-177875132-1');
                                     <div class="col-sm-6"><input class="form-control form-control-user" type="date" placeholder="Date of Birth" name="dob" required = "required"></div>
                                 </div>
 
+                                <small id="JustHelp" class="form-text text-muted">Enter Phone Number with Country Code(Whatapps Used)</small>
                                 <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Phone Number" name="phone_number" required = "required"></div>
                                 <div class="form-group"><select class="form-control " type="text" name="address" required = "required">
                                   <option value="#">Choose Your Country Here</option>
@@ -312,6 +315,8 @@ gtag('config', 'UA-177875132-1');
                                     <option value="Zimbabwe">Zimbabwe</option>
                                   </select>
                                   </div>
+
+                                  <small id="JustHelp" class="form-text text-muted">Enter Full Length Scout Troop Name</small>
                                 <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Scout Troop Names" name="postal_code" required = "required"></div>
 
                                 <label >Select Categories</label>

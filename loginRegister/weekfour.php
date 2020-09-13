@@ -5,6 +5,10 @@
     <title>Jota-Joti 2020 | Week Four</title>
     <link rel="icon" href="../assets/img/2020.png">
 
+    <?php
+    SESSION_start()
+     ?>
+
   </head>
   <body id= "page-top">
 

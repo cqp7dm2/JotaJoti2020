@@ -4,7 +4,8 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <title>Insert</title>
+     <title>Jota -Joti 2020 | Insert </title>
+     <link rel="icon" href="../assets/img/2020.png">
  </head>
 
  <body>

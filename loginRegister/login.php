@@ -15,6 +15,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 gtag('config', 'UA-177875132-1');
+
 </script>
 
     <meta charset="utf-8">
@@ -44,7 +45,7 @@ gtag('config', 'UA-177875132-1');
 
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-flex">
-                                <div class="flex-grow-1 bg-login-image" style="background-image: url(assets/img/jotajoti/mainlogo.png);"></div>
+                                <div class="flex-grow-1 bg-login-image" style="background:#221f20;"><img src="../loginRegister/assets/img/mainlogo.png" alt="jota joti 2020" class="img-fluid"></div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">
@@ -61,7 +62,7 @@ gtag('config', 'UA-177875132-1');
 
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox small">
- <div class="form-check"><input class="form-check-input custom-control-input" type="checkbox" id="formCheck-1"><label class="form-check-label custom-control-label" for="formCheck-1">Remember Me</label></div>
+                                            <div class="form-check"><input class="form-check-input custom-control-input" type="checkbox" id="formCheck-1"><label class="form-check-label custom-control-label" for="formCheck-1">Remember Me</label></div>
                                             </div>
                                         </div><button class="btn btn-primary btn-block text-white btn-user" type="submit" id="btn" value="login"name="login">Login</button>
 

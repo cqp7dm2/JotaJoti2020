@@ -5,7 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>User SideBar</title>
+    <title>Jota -Joti 2020 | User SideBar </title>
+    <link rel="icon" href="../assets/img/2020.png">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
@@ -28,7 +29,9 @@
             <li class="nav-item" role="presentation"><a class="nav-link" href="weekthree.php"><i class="far fa-user-circle"></i><span>Week 3</span></a></li>
             <li class="nav-item" role="presentation"><a class="nav-link" href="weekfour.php"><i class="far fa-user-circle"></i><span>Week 4</span></a></li>
             <li class="nav-item" role="presentation"><a class="nav-link" href="final.php"><i class="far fa-user-circle"></i><span>Final </span></a></li>
-            <li class="nav-item" role="presentation"><a class="nav-link" href="logout.php"><i class="far fa-user-circle"></i><span>Login Out</span></a></li>
+            <li class="nav-item" role="presentation"><a class="nav-link" href="logout.php"><i class="far fa-user-circle"></i><span>Login Out
+              
+             </span></a></li>
         </ul>
         <div class="text-center d-none d-md-inline"><button class="btn rounded-circle border-0" id="sidebarToggle" type="button"></button></div>
     </div>

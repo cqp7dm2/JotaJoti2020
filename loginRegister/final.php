@@ -5,6 +5,11 @@
     <title>Jota-Joti 2020 | Final</title>
     <link rel="icon" href="../assets/img/2020.png">
   </head>
+
+  <?php
+  SESSION_start()
+   ?>
+
   <body id= "page-top">
 
         <div id="wrapper">
