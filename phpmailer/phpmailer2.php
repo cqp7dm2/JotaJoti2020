@@ -40,6 +40,13 @@ $message = "Thank You for Contact with us.";
 */
 ?>
 
+
+
+
+
+
+
+
 <?php
 try {
 
@@ -70,6 +77,18 @@ catch (\Exception $e)
    echo $e->getMessage();
 }
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <?php
 include("connection.php");

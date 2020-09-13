@@ -48,7 +48,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -62,7 +62,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -76,7 +76,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -90,7 +90,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -118,7 +118,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -132,7 +132,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -146,7 +146,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
@@ -160,7 +160,7 @@
                                      <div class="portfolio-item">
                                          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                              <div class="portfolio-hover">
-                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                 <div class="portfolio-hover-content"><i class="fas fa-crown fa-6x"></i></div>
                                              </div>
                                              <img class="img-fluid" src="../assets/img/2020.png" alt="" />
                                          </a>
