@@ -54,7 +54,7 @@
                                          </a>
                                          <div class="portfolio-caption">
                                              <div class="portfolio-caption-heading">Week 1</div>
-                                             <div class="portfolio-caption-subheading text-muted">Poster Challenge</div>
+                                             <div class="portfolio-caption-subheading text-muted">Poster Design</div>
                                          </div>
                                      </div>
                                  </div>
