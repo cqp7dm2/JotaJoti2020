@@ -316,14 +316,14 @@ gtag('config', 'UA-177875132-1');
 
                                 <label >Select Categories</label>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exampleRadios" id="junior1" value="1" checked>
-                                    <label class="form-check-label" for="exampleRadios1">
+                                    <input class="form-check-input" type="radio" name="cat" value="1" required = "required">
+                                    <label class="form-check-label">
                                       Junior Scout (7 Years Old - 12 Years Old )
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                  <input class="form-check-input" type="radio" name="exampleRadios" id="senior0" value="0">
-                                  <label class="form-check-label" for="exampleRadios2">
+                                  <input class="form-check-input" type="radio" name="cat" value="0" required = "required">
+                                  <label class="form-check-label">
                                       Senior Scout (13 Years Old - 18 Years Old)
                                   </label>
                                 </div>
@@ -337,7 +337,7 @@ gtag('config', 'UA-177875132-1');
                                 <div class="g-recaptcha" data-sitekey="6LcBcssZAAAAAMQ1-hFLN8pPu5KLZQNKiilymHMt"></div>
                                 <br>
                                 <!--full Length , Register Button-->
-                                <button class="btn btn-primary btn-block text-white btn-user" type="submit" name="submit" data-toggle="tooltip" data-placement="top" title="Kindly Check On Your Details Before Clicking on this Button">Register Account</button>
+                                <button class="btn btn-primary btn-block text-white btn-user" type="submit" name="submit" value ="submit">Register Account</button>
 
                             </form>
                             <!-- <label for="formGroupExampleInput">Example label</label> -->

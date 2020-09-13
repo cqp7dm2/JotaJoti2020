@@ -25,12 +25,8 @@
                      <main id="main">
                      <section id="features" class="features">
                        <div class="container">
-                         <h3>Short Film Competition, THEME: Year 2020</h3>
-                         <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
-                           thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
-                           How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
-                           the year, or a reenactment of this year itself. As long as it is according to the theme,
-                           let your ideas roam freely!
+                         <h3>Jota Joti 2020 | Quiz Challenger</h3>
+                         <p class="futura"> Wan Hao Mou
 
                          <div class="row">
                            <div class="col-lg-3">
@@ -59,6 +55,7 @@
                              <a class="nav-link" data-toggle="tab" href="#tab-7">PRIZES</a>
                            </li>
                              </ul>
+                               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Start Quiz Now</a>
                            </div>
                            <div class="col-lg-9 mt-4 mt-lg-0">
                              <div class="tab-content">

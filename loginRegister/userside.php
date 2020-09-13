@@ -7,10 +7,13 @@ SESSION_start();
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Angel Food - Ordering</title>
+    <title>Jota Joti 2020 | User Panel</title>
+    <link rel="icon" href="../assets/img/2020.png">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+
+
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -38,7 +41,42 @@ SESSION_start();
               include ('usernav.php');
               ?>
 
-              <h2 >Welcome Back !</h2>
+
+
+              <section class="page-section" id="services">
+                <div class="container">
+                  <h2 class="text-center mt-0" data-aos="fade-down">Information for participating in this event</h2>
+                  <hr class="divider my-4" />
+
+                    <div class="col-lg-11 mt-4 mt-lg-0">
+                      <div class="tab-content">
+                        <div class="tab-pane active show" id="tab-1">
+                          <div class="row">
+
+                              <h3 data-aos="fade-right">Basic Requirement</h3>
+                          </div>
+                          <div class="row futura">
+                              <p> 1)	Participants need to have an e-mail account to participants. <br>
+                                  2)	All the games and challenges are published in our Jota-Joti website. <br>
+                                  3)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
+                                  4)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
+                              </p>
+                              <h3 data-aos="fade-right">Method of Operations</h3>
+                              <p> 1)	2 tasks OR games per week, total of 4 weeks. (8 tasks in total) <br>
+                                  2)	Tasks are to upload at the first day of the week.  <br>
+                                  3)	Completion card is to send to participants once they submit the tasks. <br>
+                                  4)	1<sup>st</sup> week starts on the registration date. (15<sup>th</sup> Sept) <br>
+                                  5)	Requirement of tasks included social media uploading and answering through online. <br>
+                                  6)	The tasks must be completed within two weeks once they are uploaded. (eg. The 1<sup>st</sup> week’s tasks are removed at the 3<sup>rd</sup> week)
+                              </p>
+
+                          </div>
+                        </div>
+                          </div>
+                        </div>
+                </div>
+
+              </section>
 
 
                     </div>
@@ -59,6 +97,7 @@ SESSION_start();
               	<script src="vendors/counter-up/jquery.waypoints.min.js"></script>
               	<script src="vendors/counter-up/jquery.counterup.js"></script>
               	<script src="js/theme.js"></script>
+
 
             </div>
         </div>
