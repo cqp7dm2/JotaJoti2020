@@ -28,7 +28,7 @@ SESSION_start()
 
 
             <div class="container-fluid">
-                <h3 class="text-dark mb-4 text-center">Profile</h3>
+                <h3 class="text-dark mb-4 text-center">User&nbsp;Profile</h3>
                 <div class="row mb-3">
 
                     <div class="col-lg-2">
@@ -70,37 +70,46 @@ SESSION_start()
                             <div class="col">
                                 <div class="card shadow mb-3">
                                     <div class="card-header py-3">
-                                        <p class="text-primary m-0 font-weight-bold">User Settings</p>
+                                        <p class="text-primary m-0 font-weight-bold">User Details</p>
                                     </div>
                                     <div class="card-body">
                                         <form method = "POST">
                                             <div class="form-row">
 
                                                 <div class="col">
-                                                    <div class="form-group"><label for="address"><strong>Email Address</strong></label><input class="form-control" type="text" , 38" name="email"></div>
+                                                    <div class="form-group"><label for="address"><strong>Email Address</strong></label><input class="form-control" type="text" , "38" name="email"></div>
 
                                                 </div>
                                             </div>
                                             <div class="form-row">
                                                 <div class="col">
-                                                    <div class="form-group"><label for="first_name"><strong>First Name</strong></label><input class="form-control" type="text" name="first_name" "></div>
+                                                    <div class="form-group"><label for="first_name"><strong>First Name</strong></label><input class="form-control" type="text" name="first_name"></div>
                                                 </div>
                                                 <div class="col">
                                                     <div class="form-group"><label for="last_name"><strong>Last Name</strong></label><input class="form-control" type="text"  name="last_name"></div>
                                                 </div>
 
                                             </div>
-                                            <div class="form-group"><label for="address"><strong>Address</strong></label><input class= "form-control" type="text" , "38" name="address"></div>
+                                            <div class="form-group"><label for="address"><strong>Password</strong></label><input class= "form-control" type="text" , "38" name="pass_word"></div>
                                             <div class="form-row">
                                               <div class="col">
-                                                  <div class="form-group"><label for="city"><strong>Phone</strong></label><input class="form-control" type="text" name="Pnumber"></div>
+                                                  <div class="form-group"><label for="city"><strong>Phone Number</strong></label><input class="form-control" type="text" name="Pnumber"></div>
                                               </div>
                                               <div class="col">
-                                                  <div class="form-group"><label for="country"><strong>Postal Code</strong></label><input class="form-control" type="text" name="postal_code"></div>
+                                                  <div class="form-group"><label for="country"><strong>Category</strong></label><input class="form-control" type="text" name="cate"></div>
                                               </div>
-
                                             </div>
-                                            <div class="form-group update"><button class="btn btn-primary btn-sm" type="submit" name="update">Save&nbsp;Settings</button></div>
+
+                                            <div class="form-row">
+                                              <div class="col">
+                                                  <div class="form-group"><label for="city"><strong>Country</strong></label><input class="form-control" type="text" name="country"></div>
+                                              </div>
+                                              <div class="col">
+                                                  <div class="form-group"><label for="country"><strong>Scout Troop Names</strong></label><input class="form-control" type="text" name="postal_code"></div>
+                                              </div>
+                                            </div>
+
+                                            <div class="form-group update"><button class="btn btn-primary btn-sm" type="submit" name="update">Update&nbsp;User&nbsp;Profile</button></div>
                                         </form>
                                     </div>
                                 </div>

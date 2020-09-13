@@ -44,7 +44,7 @@
                                  <a class="nav-link" data-toggle="tab" href="#tab-3">RULES AND RUGULATIONS</a>
                                </li>
                              </ul>
-                               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Submit Poster Now</a>
+                               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1QyaZtYNtrh86qZzjZrODOHJZz5eOQXQzndn6Toynkk8/edit?usp=sharing" target="_blank">Submit Poster Now</a>
                            </div>
                            <div class="col-lg-9 mt-4 mt-lg-0">
                              <div class="tab-content">
@@ -122,7 +122,7 @@
                                   <a class="nav-link" data-toggle="tab" href="#cab-2">RULES AND RUGULATIONS</a>
                                 </li>
                               </ul>
-                                <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Start Quiz Now</a>
+                                <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1y_EIbxJXoFefJ6GkIMzqR6gTWCxeWOWElR8sfcvcMk4/edit?usp=sharing" target="_blank">Start Quiz Now</a>
                             </div>
                             <div class="col-lg-9 mt-4 mt-lg-0">
                               <div class="tab-content">
