@@ -664,15 +664,15 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura">  ● All face mask submissions must be in png or jpg format below 3Mb <br>
-                                            (Follow the template that we provide) <br>
+                                          (Follow the template that we provide) <br>
                                           ● Photo with creator wearing the mask design (Print out the template with design) <br>
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Need to submit the prove of the payment <br>
                                           ● Judges decision will be final and binding <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_MASKDESIGN" <br>
+                                          <TROOPNAME_MASKDESIGN> <br>
                                           ● Provide a participants’ details which contains their names, age, country, email address & facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc".. <br>
+                                          <TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc>.. <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning.
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com <br>
                       </p>
@@ -786,9 +786,9 @@
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Judges decision will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_HANDICRAFT". <br>
+                                          <TROOPNAME_HANDICRAFT>. <br>
                                           ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc". <br>
+                                          <TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc>. <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning. <br>
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com
                       </p>
