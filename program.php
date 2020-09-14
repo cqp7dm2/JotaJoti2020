@@ -93,7 +93,7 @@
       <section id="features" class="features">
         <div class="container">
           <br>
-          <h2 class="text-center mt-0" data-aos="fade-down">Senior Program</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program</h2>
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
@@ -188,7 +188,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020.<br>
                           ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
                     </div>
                   </div>
@@ -209,7 +209,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10. </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10. </p>
                     </div>
                   </div>
                 </div>
@@ -264,7 +264,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the crews)</h3>
-                      <p class="futura"> ●	5-10 members.</p>
+                      <p class="futura">5-10 members.</p>
                     </div>
                   </div>
                 </div>
@@ -272,7 +272,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>MUSIC LENGTH</h3>
-                      <p class="futura"> ●	Maximum 5:00 min.</p>
+                      <p class="futura">Maximum 5:00 min.</p>
                     </div>
                   </div>
                 </div>
@@ -308,8 +308,8 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
-                          ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
+                      <p class="futura"> ●	The video submitted must not contain any copyrighted work(s) belonging to any third parties unless, (1) Participants have a license to use such works in the Video; or (2) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
+                          ●	 However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.</p>
                     </div>
                   </div>
                 </div>
@@ -317,7 +317,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9th, October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020.<br>
                           ●	Videos received after this deadline will not be viewed or rated by the judging panel.<br><br></p>
                     </div>
                   </div>
@@ -340,7 +340,7 @@
                 <div class="row">
                   <div class="col-lg-11 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
-                    <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
+                    <p class="futura">Each video submission will be charged at a fee of MYR 10.
                     </p>
                   </div>
                 </div>
@@ -393,7 +393,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (for secondary school students)</h3>
-                      <p class="futura"> ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). </p>
+                      <p class="futura">1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). </p>
                     </div>
                   </div>
                 </div>
@@ -401,7 +401,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DURATION</h3>
-                      <p class="futura"> ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.</p>
+                      <p class="futura">The length of the song should not be less than 4 minutes and should not be more than 5 minutes.</p>
                     </div>
                   </div>
                 </div>
@@ -442,7 +442,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+                      <p class="futura">The deadline for submission of songs is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
                       </div>
                   </div>
@@ -465,7 +465,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
                       </p>
                     </div>
                   </div>
@@ -509,7 +509,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the teams)</h3>
-                      <p class="futura"> ●	5-20 members</p>
+                      <p class="futura">5-20 members</p>
                     </div>
                   </div>
                 </div>
@@ -531,7 +531,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+                      <p class="futura">The deadline for submission of songs is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
                     </div>
                   </div>
@@ -553,7 +553,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
                       </p>
                     </div>
                   </div>
@@ -572,7 +572,7 @@
 
       <section id="features" class="features">
         <div class="container">
-          <h2 class="text-center mt-0" data-aos="fade-down">Junior Program (Age below 12)</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Cub Scout Program (Age below 12)</h2>
           <hr class="divider my-4">
           <h3 data-aos="fade-down">KIDS DESIGN FACE MASK COMPETITION </h3>
           <div class="row col-lg-12">
@@ -637,7 +637,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
-                      <p class="futura"> ●	All design cannot contain any sensitive subjects such as religion, race and politics and vulgarities are not allowed. </p>
+                      <p class="futura">All design cannot contain any sensitive subjects such as religion, race and politics and vulgarities are not allowed. </p>
                     </div>
                   </div>
                 </div>
@@ -645,7 +645,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p class="futura"> ●	Create your own mask design. Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered.</p>
+                      <p class="futura">Create your own mask design. Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered.</p>
                     </div>
                   </div>
                 </div>
@@ -741,7 +741,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SIZE OF THE DESIGN</h3>
-                      <p class="futura"> ●	Your design must smaller than 2 feet x 2 feet.
+                      <p class="futura">Your design must smaller than 2 feet x 2 feet.
                       </p>
                     </div>
                   </div>
