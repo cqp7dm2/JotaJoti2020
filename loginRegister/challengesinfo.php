@@ -37,9 +37,13 @@ SESSION_start();
 
     <title>Jota-Joti 2020|Challenges Information</title>
     <link rel="icon" href="../assets/img/2020.png">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body id= "page-top">
-
+    <script>
+      AOS.init();
+    </script>
         <div id="wrapper">
             <?php
             include ('usersidebar.php');
@@ -54,7 +58,7 @@ SESSION_start();
                      <section class="page-section bg-light" id="portfolio">
                          <div class="container">
                              <div class="text-center">
-                                 <h2 class="section-heading text-uppercase">Challenges Progression Bar</h2>
+                                 <h2 class="section-heading text-uppercase" data-aos="fade-down">Challenges Progression Bar</h2>
                                  <br>
                                  <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                              </div>
@@ -69,7 +73,7 @@ SESSION_start();
                                          </a>
                                          <div class="portfolio-caption">
                                              <div class="portfolio-caption-heading">Week 1</div>
-                                             <div class="portfolio-caption-subheading text-muted">Poster Design</div>
+                                             <div class="portfolio-caption-subheading text-muted">Poster Challenge</div>
                                          </div>
                                      </div>
                                  </div>
@@ -181,7 +185,7 @@ SESSION_start();
                                          </a>
                                          <div class="portfolio-caption">
                                              <div class="portfolio-caption-heading">Week 4</div>
-                                             <div class="portfolio-caption-subheading text-muted">Online Class</div>
+                                             <div class="portfolio-caption-subheading text-muted">Online Chess</div>
                                          </div>
                                      </div>
                                  </div>
