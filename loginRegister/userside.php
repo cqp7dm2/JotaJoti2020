@@ -59,8 +59,6 @@ SESSION_start();
               include ('usernav.php');
               ?>
 
-
-
               <section class="page-section" id="services">
                 <div class="container">
                   <h2 class="text-center mt-0" data-aos="fade-down">Information for participating in this event</h2>

@@ -16,9 +16,9 @@
   gtag('config', 'UA-177875132-1');
 </script>
 
-    <?php
-    SESSION_start()
-     ?>
+<?php
+SESSION_start();
+ ?>
 
 
     <?php

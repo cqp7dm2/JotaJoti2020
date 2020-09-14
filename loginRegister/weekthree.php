@@ -16,7 +16,7 @@
 </script>
 
     <?php
-    SESSION_start()
+    SESSION_start();
      ?>
 
      <?php
