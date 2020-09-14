@@ -14,13 +14,8 @@ $ConMes = $_POST['messageLa'];
   echo ('<script>alert("Got Error Liao Leh , Damn GG Wor")</script>');
 }
 
-?>
-<?php
-$message = "Hi , I am  $ConFname "?> <br><br> <?php" $Conemail," ?> <br><br> <?php" $ConMes ,"?> <br><br> <?php " Contact Me At $Conphone ";
- ?>
 
-<?PHP
-
+$message = "Hi , I am  $ConFname , $ConMes , Contact Me At $Conphone ";
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -69,4 +64,6 @@ catch (\Exception $e)
 {
    echo $e->getMessage();
 }
+
+// echo "<script>window.location.href='contactus.php;</script>";
 ?>
