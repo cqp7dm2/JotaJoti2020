@@ -38,12 +38,9 @@
 
 <?php
 SESSION_start();
- ?>
-
-<?php
 // FOR USERS TO VALIDATION ON THE LOGIN
 //AVOID USER COME INTO PAGE WITHOUT LOGIN
-  if(empty($_SESSION['user_id'])) {
+  if(empty($_SESSION['u_id'])) {
   header("Location:login.php");
   }
  ?>
@@ -58,6 +55,8 @@ SESSION_start();
               <?php
               include ('usernav.php');
               ?>
+
+
 
               <section class="page-section" id="services">
                 <div class="container">
@@ -113,7 +112,6 @@ SESSION_start();
               	<script src="vendors/counter-up/jquery.waypoints.min.js"></script>
               	<script src="vendors/counter-up/jquery.counterup.js"></script>
               	<script src="js/theme.js"></script>
-
 
             </div>
         </div>

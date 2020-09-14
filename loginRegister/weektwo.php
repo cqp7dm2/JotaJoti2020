@@ -15,17 +15,14 @@
   gtag('config', 'UA-177875132-1');
 </script>
 
-    <?php
-    SESSION_start();
-     ?>
-
-     <?php
-     // FOR USERS TO VALIDATION ON THE LOGIN
-     //AVOID USER COME INTO PAGE WITHOUT LOGIN
-       if(empty($_SESSION['user_id'])) {
-       header("Location:login.php");
-       }
-      ?>
+<?php
+SESSION_start();
+// FOR USERS TO VALIDATION ON THE LOGIN
+//AVOID USER COME INTO PAGE WITHOUT LOGIN
+  if(empty($_SESSION['u_id'])) {
+  header("Location:login.php");
+  }
+ ?>
 
   </head>
   <body id= "page-top">

@@ -17,15 +17,12 @@
 
 <?php
 SESSION_start();
+// FOR USERS TO VALIDATION ON THE LOGIN
+//AVOID USER COME INTO PAGE WITHOUT LOGIN
+  if(empty($_SESSION['u_id'])) {
+  header("Location:login.php");
+  }
  ?>
- 
-     <?php
-     // FOR USERS TO VALIDATION ON THE LOGIN
-     //AVOID USER COME INTO PAGE WITHOUT LOGIN
-       if(empty($_SESSION['user_id'])) {
-       header("Location:login.php");
-       }
-      ?>
 
   </head>
   <body id= "page-top">
