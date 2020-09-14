@@ -78,7 +78,7 @@
                 <div class="col-12">
                   Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:white" target="_blank">GTS Penang</a>
                   <hr>
-                  Design and Develop by <a href="#" style="color:white" target="_blank">IT Team @ Jota Joti 2020</a>
+                  Designed and Developed by <a href="#" style="color:white" target="_blank">IT Team @ Jota Joti 2020</a>
                 </div>
               </div>
 
