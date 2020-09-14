@@ -37,12 +37,12 @@ gtag('config', 'UA-177875132-1');
             <div class="card-body p-10">
                 <div class="row">
                     <div class="col-lg-5 d-none d-lg-flex">
-                        <div class="flex-grow-1 bg-login-image" style="background:#221f20;"><img src="../loginRegister/assets/img/mainlogo.png" alt="jota joti 2020" class="img-fluid"></div>
+                        <div class="flex-grow-1 bg-login-image" style="background:#221f20;"><br><br><br><br><br><br><br><br><br><br><br><img src="../loginRegister/assets/img/mainlogo.png" alt="jota joti 2020" class="img-fluid"></div>
                     </div>
                     <div class="col-lg-7">
                         <div class="p-5">
                             <div class="text-center">
-                                <h4 class="text-dark mb-4">Create an Account & Join the Challengers Now !</h4>
+                                <h4 class="text-dark mb-4">Create an Account & Join the Challenges Now !</h4>
                             </div>
                             <form class="user" action=insert.php method="post">
                               <!--Half length , Fname and Lname-->
@@ -62,7 +62,7 @@ gtag('config', 'UA-177875132-1');
                                     <div class="col-sm-6"><input class="form-control form-control-user" type="date" placeholder="Date of Birth" name="dob" required = "required"></div>
                                 </div>
 
-                                <small id="JustHelp" class="form-text text-muted">Enter Phone Number with Country Code(Whatapps Used)</small>
+                                <small id="JustHelp" class="form-text text-muted">Enter Phone Number with Country Code (WhatsApp Used)</small>
                                 <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Phone Number" name="phone_number" required = "required"></div>
                                 <div class="form-group"><select class="form-control " type="text" name="address" required = "required">
                                   <option value="#">Choose Your Country Here</option>
@@ -335,7 +335,7 @@ gtag('config', 'UA-177875132-1');
                                 <div class="form-check">
                                   <input class="form-check-input" type="radio" name="cat" value="2" >
                                   <label class="form-check-label">
-                                      Adult(Above 18 Years Old)
+                                      Adult (Above 18 Years Old)
                                   </label>
                                 </div>
                                 <hr>
@@ -363,7 +363,7 @@ gtag('config', 'UA-177875132-1');
     </div>
 
     <!-- <script src="https://www.google.com/recaptcha/api.js"></script> -->
-    <script src='https://www.google.com/recaptcha/api.js' async defer >
+    <script src='https://www.google.com/recaptcha/api.js' async defer ></script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/chart.min.js"></script>
