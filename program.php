@@ -93,16 +93,13 @@
 
       <main id="main">
 
-        <section class="page-section" id="services">
-          <div class="container" id="features-1">
-            <hr class="divider my-4">
-          </div>
-        </section>
-
-
 
       <section id="features" class="features">
         <div class="container">
+          <br>
+          <h2 class="text-center mt-0" data-aos="fade-down">Senior Program</h2>
+          <hr class="divider my-4">
+          <br>
           <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
           <div class="row col-lg-12">
             <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
@@ -137,15 +134,12 @@
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#tab-7" target="_blank">SUBMISSION</a>
               </li>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#tab-8" target="_blank">PRIZES</a>
-            </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#tab-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1fllTzjUk2wn9y7i51QTSgPStUKenq4BEIKY3Gim58Dc/edit?usp=sharing" target="_blank">Register now </a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+               href="https://docs.google.com/forms/d/1fllTzjUk2wn9y7i51QTSgPStUKenq4BEIKY3Gim58Dc/edit?usp=sharing" target="_blank">Register now </a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -215,18 +209,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="tab-8">
-                  <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>PRIZES</h3>
-                      <p class="futura"> ●	Best Actor<br>
-                          ●	Best Actress<br>
-                          ●	Best Film<br>
-                          ●	People’s Choice Award
-                      </p>
-                    </div>
-                  </div>
-                </div>
                 <div class="tab-pane" id="tab-9">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -240,16 +222,11 @@
           </div>
 
         </div>
-      </section>
 
-      <section class="page-section" id="services">
         <div class="container" id="features-2">
+          <br>
           <hr class="divider my-4">
-        </div>
-      </section>
-
-      <section id="features" class="features">
-        <div class="container">
+          <br>
           <h3 data-aos="fade-down">Dance Competition</h3>
 
           <div class="row pt-3">
@@ -279,13 +256,11 @@
               <a class="nav-link" data-toggle="tab" href="#cap-7" target="_blank">SUBMISSION</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#cap-8" target="_blank">PRIZES</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#cap-9" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1b4Vev6jUQg7oqTfj49KEgWIJ86QtiOBojchrFsoGp6I/edit?usp=sharing" target="_blank">Register Now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+              href="https://docs.google.com/forms/d/1b4Vev6jUQg7oqTfj49KEgWIJ86QtiOBojchrFsoGp6I/edit?usp=sharing" target="_blank">Register Now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -309,7 +284,8 @@
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
+                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning.
+                        Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
                           ●	All registered participants must appear in video throughout the dance.<br>
                           ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, etc.).<br>
                           ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
@@ -364,18 +340,6 @@
                   </div>
                 </div>
 
-              <div class="tab-pane" id="cap-8">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>PRIZES</h3>
-                    <p class="futura"> ●	Best dance crew award<br>
-                        ●	Rising star award<br>
-                        ●	Most creative dance crew<br>
-                        ●	People’s choices award<br><br>
-                    </p>
-                  </div>
-                </div>
-              </div>
               <div class="tab-pane" id="cap-9">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
@@ -391,16 +355,12 @@
           </div>
           </div>
         </div>
-      </section>
 
-      <section class="page-section" id="services">
-        <div class="container" id="features-3">
-          <hr class="divider my-4">
-        </div>
-      </section>
 
-      <section id="features" class="features">
         <div class="container">
+          <br>
+          <hr class="divider my-4">
+          <br>
           <h3 data-aos="fade-down">Singing Competition</h3>
 
           <div class="row pt-3">
@@ -425,13 +385,11 @@
                 <a class="nav-link" data-toggle="tab" href="#dab-6" target="_blank">SUBMISSION</a>
               </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#dab-7" target="_blank">PRIZES</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#dab-8" target="_blank">COMPETITION FEES</a>
             </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1BYfunZzFbEWk3jEXm5CgMwbm64BswbfFw6t1n8eTssg/edit?usp=sharing" target="_blank">Register now</a>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+              href="https://docs.google.com/forms/d/1BYfunZzFbEWk3jEXm5CgMwbm64BswbfFw6t1n8eTssg/edit?usp=sharing" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -507,19 +465,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="dab-7">
-                  <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>PRIZES</h3>
-                      <p class="futura"> ●	Champion<br>
-                          ●	1st Runner Up<br>
-                          ●	Best Singer<br>
-                          ●	Best Band<br>
-                          ●	People’s Choice Award<br><br>
-                      </p>
-                    </div>
-                  </div>
-                </div>
                 <div class="tab-pane" id="dab-8">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -534,16 +479,11 @@
           </div>
 
         </div>
-      </section>
 
-      <section class="page-section" id="services">
-        <div class="container" id="features-4">
-          <hr class="divider my-4">
-        </div>
-      </section>
-
-      <section id="features" class="features">
         <div class="container">
+          <br>
+          <hr class="divider my-4">
+          <br>
           <h3 data-aos="fade-down">Group Photo Competition, THEME: WHO AM I??</h3>
 
           <div class="row pt-3">
@@ -560,9 +500,6 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gab-4" target="_blank">SUBMISSION</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gab-5" target="_blank">PRIZES</a>
                 </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">COMPETITION FEES</a>
@@ -616,16 +553,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="gab-5">
-                  <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>PRIZES</h3>
-                      <p class="futura"> ●	Grand Prize<br>
-                          ●	Most Creative & Inspiring<br>
-                          ●	People’s Choice Award<br><br>
-                    </div>
-                  </div>
-                </div>
                 <div class="tab-pane" id="gab-6">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -649,9 +576,9 @@
 
       <section id="features" class="features">
         <div class="container">
-          <h2 class="text-center mt-0" data-aos="fade-down">Junior Program</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Junior Program (Age below 12)</h2>
           <hr class="divider my-4">
-          <h3 data-aos="fade-down">KIDS DESIGN FACE MASK COMPETITION (Age below 12)</h3>
+          <h3 data-aos="fade-down">KIDS DESIGN FACE MASK COMPETITION</h3>
           <div class="row col-lg-12">
             <p class="futura"> The contest is open to scouts and guides age below 12 <br>
                                 The registration fees is RM5 <br>
@@ -680,9 +607,6 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">COMPETITION FEES</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gbb-7" target="_blank">PRIZES</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
@@ -759,18 +683,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="gbb-7">
-                  <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>RIZES: (TO BE CONFIRMED) </h3>
-                      <p class="futura"> ● The Champion <br>
-                                         ● The 1st Runner Up <br>
-                                         ● The 2nd Runner Up <br>
-                                         ● All the participant will get a E- Certificate <br>
-                      </p>
-                    </div>
-                  </div>
-                </div>
                 </div>
             </div>
           </div>
@@ -782,7 +694,7 @@
           <br> <br>
           <hr class="divider my-4">
           <br> <br>
-          <h3 data-aos="fade-down">KIDS RECYCLE HANDICRAFT COMPETITION (Age below 12)</h3>
+          <h3 data-aos="fade-down">KIDS RECYCLE HANDICRAFT COMPETITION</h3>
           <div class="row col-lg-12">
             <p class="futura">  The contest is open to scouts and guides age below 12 <br>
                                 The registration fees is RM5 <br>
@@ -810,9 +722,6 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">COMPETITION FEES</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gcb-7" target="_blank">PRIZES</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
@@ -886,18 +795,6 @@
                                           <TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc>. <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning. <br>
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="tab-pane" id="gcb-7">
-                  <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
-                      <h3>RIZES: (TO BE CONFIRMED) </h3>
-                      <p class="futura"> ● The Champion <br>
-                                         ● The 1st Runner Up <br>
-                                         ● The 2nd Runner Up <br>
-                                         ● All the participant will get a E- Certificate <br>
                       </p>
                     </div>
                   </div>
