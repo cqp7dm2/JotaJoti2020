@@ -1,5 +1,6 @@
 <?php
 
+
 include "conn.php";
 
 if (Isset($_POST['submit'])){
@@ -13,7 +14,8 @@ $ConMes = $_POST['messageLa'];
   echo ('<script>alert("Got Error Liao Leh , Damn GG Wor")</script>');
 }
 
-$message = "Hi , I am  $ConFname , $ConMes , Contact Me At $Conphone ";
+
+$message = "Hi  and Greetings , I am $ConFname , Contact Me At $Conphone ,Email me at $Conemail, $ConMes";
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -21,36 +23,34 @@ use PHPMailer\PHPMailer\Exception;
 require 'C:\xampp\composer\vendor\autoload.php'; */
 
 /* If you installed PHPMailer without Composer do this instead: */
+
 require 'PHPMailer-master\src\Exception.php';
 require 'PHPMailer-master\src\PHPMailer.php';
 require 'PHPMailer-master\src\SMTP.php';
 
 /* Create a new PHPMailer object. Passing TRUE to the constructor enables exceptions. */
 $mail = new PHPMailer(TRUE);
-/*$mailid = $email;
-$subject = "Test";
-$text_message = "Hello";
-$message = "Thank You for Contact with us.";
-*/
+
 ?>
-
-
 <?php
 try {
-
+$mail->SMTPDebug = 2;
 $mail->isSMTP();                            // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com';             // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                     // Enable SMTP authentication
-$mail->Username = 'joinjota@scout.my';   // SMTP username
-$mail->Password = 'JotaJoti@1958';           // SMTP password
+$mail->Username = 'mysendingmachine21@gmail.com';   // SMTP username
+$mail->Password = 'SMTPfuck21';           // SMTP password
 $mail->SMTPSecure = 'tls';                  // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 25;                          // TCP port to connect to
+$mail->Port =587;                          // TCP port to connect to
 
-   $mail->setFrom(  'qinpengchua@gmail.com' );
+
+    $mail->isHTML(true);
+
+   $mail->setFrom('mysendingmachine21@gmail.com', 'ContactUs_Machine');
 
    $mail->addAddress('jota@scout.my', 'Receipient');
 
-   $mail->Subject = 'Contact Us Support Email';
+   $mail->Subject = 'Contact Us Support Email ';
 
    $mail->Body = $message;
 
@@ -64,4 +64,6 @@ catch (\Exception $e)
 {
    echo $e->getMessage();
 }
+
+// echo "<script>window.location.href='contactus.php;</script>";
 ?>

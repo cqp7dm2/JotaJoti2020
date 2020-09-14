@@ -33,7 +33,7 @@
                   <h2 class="section-heading text-uppercase" data-aos="fade-up">Contact Us</h2>
                   <h3 class="section-subheading text-muted" data-aos="fade-right">Have any questions? We'd love to hear from you.</h3>
               </div>
-              <form id="contactForm" name="sentMessage" action=contactusback2.php method="post">
+              <form id="contactForm" name="sentMessage" action=contactusbackend.php method="post">
                   <div class="row align-items-stretch mb-5">
                       <div class="col-md-6">
                           <div class="form-group">
