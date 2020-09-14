@@ -200,7 +200,7 @@
                 <h4><a>Find the location</a></h4>
                 <p class="futura">
                     1)	Participants required Google Map to complete the challenge. <br>
-                    2)	The challenge is to find locations in google map by following the instruction OR directions given. <br> <br> <br>
+                    2)	The challenge is to find locations in google map by following the instruction OR directions given. <br> <br>
                 </p>
               </div>
             </div>
@@ -240,7 +240,7 @@
                 <p class="futura">
                     1)	Computer is the opponent of the participants. <br>
                     2)	Defeat the computer to complete the challenge. <br>
-                    3)	Participants are allowed to play as many times as they desire. <br> <br> <br>
+                    3)	Participants are allowed to play as many times as they desire. <br> <br> 
                 </p>
               </div>
             </div>
