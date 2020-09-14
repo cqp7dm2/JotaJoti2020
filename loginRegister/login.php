@@ -68,7 +68,7 @@ gtag('config', 'UA-177875132-1');
 
                                     </form>
 
-                                    <div class="text-center"><a class="small" href="forgot-password.php">Forgot Password?</a></div>
+                                    <!-- <div class="text-center"><a class="small" href="forgot-password.php">Forgot Password?</a></div> -->
                                     <div class="text-center"><a class="small" href="register.php">Create an Account!</a></div>
 
                                   <a class="btn btn-secondary btn-block text-white btn-user" href="../index.php" role="button">Back To Home</a>

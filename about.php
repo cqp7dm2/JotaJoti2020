@@ -63,17 +63,17 @@
               <script>
                 AOS.init();
               </script>
-              <p class="mb-0">JOTA-JOTI (Jamboree-on-the-Air-Jamboree-on-the-Internet) is the world’s largest digital Scout event taking place on the Internet and over the airwaves. Held ever year in October, the event connects millions of young people around the world for a full weekend of online activities that promote friendship and global citizenship. </p>
+              <p class="mb-0 futura">JOTA-JOTI (Jamboree-on-the-Air-Jamboree-on-the-Internet) is the world’s largest digital Scout event taking place on the Internet and over the airwaves. Held ever year in October, the event connects millions of young people around the world for a full weekend of online activities that promote friendship and global citizenship. </p>
                 <br>
-                <p>JOTA-JOTI enables young people and volunteers to participate in fun and engaging group activities over the Internet and amateur radio focused on developing 21st century skills through Scouting.</p>
+                <p class="futura">JOTA-JOTI enables young people and volunteers to participate in fun and engaging group activities over the Internet and amateur radio focused on developing 21<sup>st</sup> century skills through Scouting.</p>
                 <br>
-                <p>This year JOTA-JOTI 2020 will take place from 16 to 18 October. The dynamic programme features a variety of non-formal education activities, including webinars, global campfires, talent shows, live shows, and much more. World Scouting’s global partners are actively involved in the event, offering their expertise and fun activities to engage participants.</P>
+                <p class="futura">This year JOTA-JOTI 2020 will take place from 16<sup>th</sup> to 18<sup>th</sup> October. The dynamic programme features a variety of non-formal education activities, including webinars, global campfires, talent shows, live shows, and much more. World Scouting’s global partners are actively involved in the event, offering their expertise and fun activities to engage participants.</P>
               <br>
-              <p>The JOTA-JOTI programme aims to support Scouts and non-Scouts of all ages to learn about communications technology, the values of global citizenship, and how together we can solve the most pressing challenges facing our planet.</p>
+              <p class="futura">The JOTA-JOTI programme aims to support Scouts and non-Scouts of all ages to learn about communications technology, the values of global citizenship, and how together we can solve the most pressing challenges facing our planet.</p>
               <br>
-              <p>Keeping young people Safe from Harm online is an important aspect of this event. Through chat moderation, “listening ears”, e-learning courses and a number of sessions about how to be safe online, we make sure that all participants have a positive and inclusive JOTA-JOTI experience.</p>
+              <p class="futura">Keeping young people Safe from Harm online is an important aspect of this event. Through chat moderation, “listening ears”, e-learning courses and a number of sessions about how to be safe online, we make sure that all participants have a positive and inclusive JOTA-JOTI experience.</p>
               <br>
-              <p>JOTA-JOTI is one of World Scouting’s longest-running global events dating back more than 60 years to 1958. The digital educational event has seen steady annual growth in participation over the years and with a focus on the future aims to reach millions of more participants in the years to come.</p>
+              <p class="futura">JOTA-JOTI is one of World Scouting’s longest-running global events dating back more than 60 years to 1958. The digital educational event has seen steady annual growth in participation over the years and with a focus on the future aims to reach millions of more participants in the years to come.</p>
             </div>
           </div>
         </div>
@@ -124,12 +124,12 @@
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Vice Treasurer</th>
-      <td> <a href="https://www.instagram.com/zi_jie99/" style="color:black" target="_blank">Koay Zi Jie</a> <br><a href="#" style="color:black" target="_blank">Tan Kai Wern</a></td>
+      <td> <a href="https://www.instagram.com/zi_jie99/" style="color:black" target="_blank">Koay Zi Jie</a> <br><a href="https://www.instagram.com/kai_wern_0209/" style="color:black" target="_blank">Tan Kai Wern</a></td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Program Unit (Senior)</th>
-      <td><a href="https://www.instagram.com/chng.zhengyuen/" style="color:black" target="_blank">Ch'ng Zheng Yuen (Leader)</a> <br> <a href="#" style="color:black" target="_blank">Chong Hui Shien</a> <br> <a href="https://www.instagram.com/darkchoceva/" style="color:black" target="_blank">Eva Teng Ee Hwa</a>
-        <br> <a href="#" style="color:black" target="_blank"> Poh Zi Jun </a> <br><a href="#" style="color:black" target="_blank"> Rachel Tan Chia Yi</a> </td>
+      <td><a href="https://www.instagram.com/chng.zhengyuen/" style="color:black" target="_blank">Ch'ng Zheng Yuen (Leader)</a> <br> <a href="https://www.instagram.com/huishien________/" style="color:black" target="_blank">Chong Hui Shien</a> <br> <a href="https://www.instagram.com/darkchoceva/" style="color:black" target="_blank">Eva Teng Ee Hwa</a>
+        <br> <a href="https://www.instagram.com/nickjun00/" style="color:black" target="_blank"> Poh Zi Jun </a> <br><a href="#" style="color:black" target="_blank"> Rachel Tan Chia Yi</a> </td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Program Unit (Junior)</th>
@@ -141,12 +141,12 @@
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Challenge Master</th>
-      <td><a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a> <br> <a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a></td>
+      <td><a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a> <br> <a href="https://www.instagram.com/khaiming1018/" style="color:black" target="_blank">Lee Khai Ming </a> <br> <a href="https://www.instagram.com/khai_onn/" style="color:black" target="_blank">Lee Khai Onn </a> <br> <a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a></td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Media and Publicity</th>
       <td><a href="https://www.instagram.com/cxaang/" style="color:black" target="_blank">Ang Chern Xing (Leader)</a><br> <a href="#" style="color:black" target="_blank">Eric Goh Thean Yu</a> <br> <a href="https://www.instagram.com/kyara_khaw/" style="color:black" target="_blank">Kyara Khaw Wen Qian</a>
-        <br><a href="" style="color:black" target="_blank"> Rachel Tan Chia Yi </a></td>
+        <br><a href="" style="color:black" target="_blank">Rachel Tan Chia Yi</a></td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Sponsorship</th>

@@ -50,6 +50,21 @@
       </div>
     </header>
 
+    <section style="background-color: #fff;">
+      <div class="container">
+        <div class="row py-4 align-items-center">
+          <div class="col-lg-12 text-center" data-aos="fade-down">
+            <img class="img-fluid" src="assets/img/scout-logo.png" alt="">
+          </div>
+        </div>
+        <div class="row pt-4">
+          <div class="col-lg-12 text-center" data-aos="zoom-in">
+            <h2 class="section-heading" style="font-size: 45px;">Jota Joti 2020<br>By Georgetown (South)</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section style="background-color:#fff;"> <!--#D9514EFF-->
       <div class="container">
         <script>
@@ -174,7 +189,7 @@
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Challenges <br> </h3>
-              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week for senior challenges. Don't miss out! The challenges will last for a month <br> <br> </h6>
+              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week. Don't miss out! The challenges will last for a month <br> <br> </h6>
               <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" ><span>View Details</span></a>
             </div>
           </div>

@@ -23,12 +23,12 @@
         <ul class="nav navbar-nav text-light" id="accordionSidebar">
 
             <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="profile.php"><i class="far fa-user-circle"></i><span>My Profile</span></a></li> -->
-            <li class="nav-item" role="presentation"><a class="nav-link" href="challengesinfo.php"><i class="far fa-user-circle"></i><span>Challengers</span></a></li>
+            <li class="nav-item" role="presentation"><a class="nav-link" href="challengesinfo.php"><i class="far fa-user-circle"></i><span>Challenges</span></a></li>
             <li class="nav-item" role="presentation"><a class="nav-link" href="weekone.php"><i class="far fa-user-circle"></i><span>Week 1</span></a></li>
-            <li class="nav-item" role="presentation"><a class="nav-link" href="weektwo.php"><i class="far fa-user-circle"></i><span>Week 2</span></a></li>
+            <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="Weektwo.php"><i class="far fa-user-circle"></i><span>Week 2</span></a></li>
             <li class="nav-item" role="presentation"><a class="nav-link" href="weekthree.php"><i class="far fa-user-circle"></i><span>Week 3</span></a></li>
-            <li class="nav-item" role="presentation"><a class="nav-link" href="weekfour.php"><i class="far fa-user-circle"></i><span>Week 4</span></a></li>
-            <li class="nav-item" role="presentation"><a class="nav-link" href="final.php"><i class="far fa-user-circle"></i><span>Final Submission</span></a></li>
+            <li class="nav-item" role="presentation"><a class="nav-link" href="weekfour.php"><i class="far fa-user-circle"></i><span>Week 4</span></a></li> -->
+            <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="final.php"><i class="far fa-user-circle"></i><span>Final Submission</span></a></li> -->
             <li class="nav-item" role="presentation"><a class="nav-link" href="logout.php"><i class="far fa-user-circle"></i><span>Login Out</span></a></li>
 
         </ul>

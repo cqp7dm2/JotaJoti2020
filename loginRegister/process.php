@@ -12,7 +12,7 @@
 <?php
 
 if (isset($_POST['login'])) {
-
+  session_start();
   include "../conn.php";
 
   $email = mysqli_real_escape_string($conn, $_POST['email']);
@@ -52,8 +52,6 @@ if (isset($_POST['login'])) {
           }elseif($hashedPwdCheck2 == true){
             //log in the user here
 
-            SESSION_start();
-
             $_SESSION["ad_id"] = $row2["admin_id"];
             $_SESSION["ad_Fname"] = $row2["admin_Fname"];
             $_SESSION["ad_Lname"] = $row2["admin_Lname"];
@@ -84,8 +82,6 @@ if (isset($_POST['login'])) {
           exit();
         }elseif($hashedPwdCheck == true){
           //log in the user here
-
-          SESSION_start();
 
           $_SESSION['u_id'] = $row["user_id"];
           $_SESSION['u_Fname'] = $row["user_Fname"];
