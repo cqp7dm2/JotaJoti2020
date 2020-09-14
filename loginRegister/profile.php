@@ -36,14 +36,16 @@ SESSION_start()
 
 <body id="page-top">
     <div id="wrapper">
-        <?php
-        include ('usersidebar.php');
-         ?>
+
+<?php
+include ('usersidebar.php');
+?>
         <div class="d-flex flex-column" id="content-wrapper">
             <div id="content">
-                <?php
-                include ('usernav.php');
-                 ?>
+
+<?php
+include ('usernav.php');
+?>
 
 
             <div class="container-fluid">
@@ -92,7 +94,10 @@ SESSION_start()
                                         <p class="text-primary m-0 font-weight-bold">User Details</p>
                                     </div>
                                     <div class="card-body">
-                                        <form method = "POST">
+
+                                      //Section Forms
+                                      //Direct to update.php
+                                        <form method = "POST" action= "update.php">
                                             <div class="form-row">
 
                                                 <div class="col">
@@ -130,6 +135,9 @@ SESSION_start()
 
                                             <div class="form-group update"><button class="btn btn-primary btn-sm" type="submit" name="update">Update&nbsp;User&nbsp;Profile</button></div>
                                         </form>
+
+
+
                                     </div>
                                 </div>
 
@@ -141,29 +149,8 @@ SESSION_start()
             </div>
         </div>
 
-<?php
 
-include('../conn.php');
-
-if (isset($_POST['update'])){
-
-$mail = $_POST['email'];
-
-$sql = "Update user set user_Fname ='$_POST[first_name]',user_Lname ='$_POST[last_name]',user_address ='$_POST[address]',user_Pnumber ='$_POST[Pnumber]',user_postalcode ='$_POST[postal_code]' WHERE user_email = '$_POST[email]'";
-$result = mysqli_query($conn , $sql);
-
-
-  if($result)
-  {
-    echo '<script>alert("Data Updated")</script>';
-  }else{
-    // echo '<script type="text/javascript">alert("Data Not Updated")</script>';
-    echo $sql;
-  }
-}
-
-?>
-        <!-- footer -->
+<!-- footer -->
 <!--
     </div><a class="border rounded d-inline scroll-to-top" href="#page-top"><i class="fas fa-angle-up"></i></a></div>
     <script src="assets/js/jquery.min.js"></script>
