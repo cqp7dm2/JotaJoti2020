@@ -1,6 +1,4 @@
 <?php
-
-
 include "conn.php";
 
 if (Isset($_POST['submit'])){
@@ -43,7 +41,6 @@ $mail->Username = 'mysendingmachine21@gmail.com';   // SMTP username
 $mail->Password = 'SMTPfuck21';           // SMTP password
 $mail->SMTPSecure = 'tls';                  // Enable TLS encryption, `ssl` also accepted
 $mail->Port =587;                          // TCP port to connect to
-
 
     $mail->isHTML(true);
 
