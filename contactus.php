@@ -17,17 +17,21 @@
     <title>Jota-Joti 2020 | Contact Us</title>
     <link rel="icon" href="assets/img/2020.png">
     <link href="css/styles.css" rel="stylesheet" />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body>
       <?php include "header.php"; ?>
-
+      <script>
+        AOS.init();
+      </script>
       <section class="page-section" id="contact">
           <div class="container">
               <div class="text-center">
                 <br>
                 <br>
-                  <h2 class="section-heading text-uppercase">Contact Us</h2>
-                  <h3 class="section-subheading text-muted">Have any questions? We'd love to hear from you.</h3>
+                  <h2 class="section-heading text-uppercase" data-aos="fade-up">Contact Us</h2>
+                  <h3 class="section-subheading text-muted" data-aos="fade-right">Have any questions? We'd love to hear from you.</h3>
               </div>
               <form id="contactForm" name="sentMessage" action=contactusbackend.php method="post">
                   <div class="row align-items-stretch mb-5">
@@ -62,10 +66,10 @@
 
       <section class="contacts bg-primary" id="contacts">
         <div class="container">
-          <h2>We
+          <h2 data-aos="zoom-out">We
             <i class="fas fa-heart"></i>
             new friends!</h2>
-          <ul class="list-inline list-social">
+          <ul class="list-inline list-social" data-aos="slide-up">
             <li class="list-inline-item social-instagram">
               <a href="https://www.instagram.com/georgetown_south_scout/?hl=en" target="_blank" style="transition-duration: 0.6s;">
                 <i class="fab fa-instagram"></i>

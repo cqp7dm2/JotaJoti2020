@@ -10817,6 +10817,7 @@ section {
   color: #d9232d;
 } */
 
+/*Wobble effect*/
 @-webkit-keyframes wobble {
 	0% {
 		-webkit-transform: translateX(0%);
@@ -10883,6 +10884,7 @@ section {
   -webkit-animation: wobble 3s infinite linear;
   animation: wobble 3s infinite linear;
 }
+/*wobble effect ends*/
 
 /* program */
 .portfolioo-item {
