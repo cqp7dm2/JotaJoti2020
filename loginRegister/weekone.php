@@ -5,6 +5,11 @@
     <title>Jota-Joti 2020 | Week One</title>
     <link rel="icon" href="../assets/img/2020.png">
     <link href="../css/styles.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
@@ -28,6 +33,10 @@ SESSION_start();
   </head>
   <body id= "page-top">
 
+    <script>
+      AOS.init();
+    </script>
+
         <div id="wrapper">
             <?php
             include ('usersidebar.php');
@@ -43,8 +52,8 @@ SESSION_start();
                      <main id="main">
                      <section id="features" class="features">
                        <div class="container">
-                         <h3>Challenge 1 | Poster Challenge</h3>
-                         <p class="futura"> Theme		: Environmental Awareness
+                         <h3 data-aos="fade-right" style="color: #fab800;">Challenge 1 | Poster Challenge</h3>
+                         <p class="futura" data-aos="flip-down"> Theme		: Environmental Awareness
 
                          <div class="row">
                            <div class="col-lg-3">
@@ -124,8 +133,8 @@ SESSION_start();
 <!-- 2nd Competition  -->
                       <section id="features" class="features">
                         <div class="container">
-                          <h3>Challenge 2 | Jota Joti Quiz</h3>
-                          <p class="futura">Lets start the Quiz Challenge !!
+                          <h3 data-aos="fade-right" style="color: #fab800;">Challenge 2 | Jota Joti Quiz</h3>
+                          <p class="futura" data-aos="flip-down">Lets start the Quiz Challenge !!
 
                           <div class="row">
                             <div class="col-lg-3">
