@@ -169,7 +169,7 @@
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Check Out Our Programs! <br> </h3>
-              <h6 class="subtitle font-weight-normal">There are various of programs/competition available, check them out! <br> <br> </h6>
+              <h6 class="subtitle font-weight-normal">There are various of senior,junior and cub programs available, check them out!<br> <br> </h6>
               <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="program.php"><span>View Details</span></a>
             </div>
           </div>
@@ -189,7 +189,7 @@
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Challenges <br> </h3>
-              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week. Don't miss out! The challenges will last for a month <br> <br> </h6>
+              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week. Don't miss out! The challenges will only last for a month <br> <br> </h6>
               <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" ><span>View Details</span></a>
             </div>
           </div>
