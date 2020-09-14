@@ -1,14 +1,36 @@
-<!--
-=========================================================
-Material Dashboard - v2.1.2
-=========================================================
+<?php
+  include "connection.php";
+  $id = $_GET["admin_id"];
 
-Product Page: https://www.creative-tim.com/product/material-dashboard
-Copyright 2020 Creative Tim (https://www.creative-tim.com)
-Coded by Creative Tim
+  $firstname = "";
+  $lastname = "";
+  $email = "";
+  $address = "";
+  $contact = "";
+  $dob = "";
 
-=========================================================
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
+  $sql = "select * from user where user_id = $id";
+  $res = mysqli_query($link, $sql);
+    while($row =  mysqli_fetch_array($res))
+    {
+      $firstname = $row["user_Fname"];
+      $lastname = $row["user_Lname"];
+      $email = $row["user_email"];
+      $address = $row["user_address"];
+      $postal = $row["user_postalcode"];
+      $contact = $row["user_Pnumber"];
+      $CAT = $row["user_cat"];
+      $W1G1 = $row["user_W1G1"];
+      $W1G2 = $row["user_W1G2"];
+      $W2G1 = $row["user_W2G1"];
+      $W2G2 = $row["user_W2G2"];
+      $W3G1 = $row["user_W3G1"];
+      $W3G2 = $row["user_W3G2"];
+      $W4G1 = $row["user_W4G1"];
+      $W4G2 = $row["user_W4G2"];
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,13 +54,13 @@ The above copyright notice and this permission notice shall be included in all c
 
 <body class="">
   <div class="wrapper ">
-  <?php include 'sideNav.php';?>
+      <?php include 'sideNav.php';?>
     <div class="main-panel">
       <!-- Navbar -->
       <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
         <div class="container-fluid">
           <div class="navbar-wrapper">
-            <a class="navbar-brand" href="javascript:;">Icons</a>
+            <a class="navbar-brand" href="javascript:;">Table List</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -102,31 +124,99 @@ The above copyright notice and this permission notice shall be included in all c
       <!-- End Navbar -->
       <div class="content">
         <div class="container-fluid">
-          <div class="container-fluid">
-            <div class="card card-plain">
-              <div class="card-header card-header-primary">
-                <h4 class="card-title">Material Design Icons</h4>
-                <p class="card-category">Handcrafted by our friends from
-                  <a target="_blank" href="https://design.google.com/icons/">Google</a>
-                </p>
-              </div>
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="card-body">
-                    <div class="iframe-container d-none d-lg-block">
-                      <iframe src="https://design.google.com/icons/">
-                        <p>Your browser does not support iframes.</p>
-                      </iframe>
-                    </div>
-                    <div class="col-md-12 d-none d-sm-block d-md-block d-lg-none d-block d-sm-none text-center ml-auto mr-auto">
-                      <h5>The icons are visible on Desktop mode inside an iframe. Since the iframe is not working on Mobile and Tablets please visit the icons on their original page on Google. Check the
-                        <a href="https://design.google.com/icons/" target="_blank">Material Icons</a>
-                      </h5>
-                    </div>
+          <div class="row">
+            <div class="col-md-10">
+              <div class="card">
+                <div class="card-header card-header-primary">
+                  <h4 class="card-title "><?php echo $firstname;?> <?php echo $lastname; ?>'s Table</h4>
+                  <p class="card-category"> Here is the member's information</p>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <form action="" name="form1" method="post">
+
+                      <div class="form-group">
+                        <label for="pwd">First Name</label>
+                        <input type="text" class="form-control" id="firstname" placeholder="Enter firstname" name="firstname"  value="<?php echo $firstname; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">Last Name</label>
+                        <input type="text" class="form-control" id="lastname" placeholder="Enter lastname" name="lastname"  value="<?php echo $lastname; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" value="<?php echo $email; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">Address</label>
+                        <input type="text" class="form-control" id="address" placeholder="Enter address" name="address"  value="<?php echo $address; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">Postal Code</label>
+                        <input type="text" class="form-control" id="postal" placeholder="Enter postal code" name="postal"  value="<?php echo $postal; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">Contact</label>
+                        <input type="text" class="form-control" id="contact" placeholder="Enter contact" name="contact"  value="<?php echo $contact; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">CAT</label>
+                        <input type="text" class="form-control" id="cat" placeholder="Enter CAT" name="cat"  value="<?php echo $CAT; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W1G1</label>
+                        <input type="text" class="form-control" id="W1G1" placeholder="Enter W1G1 result" name="W1G1"  value="<?php echo $W1G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W1G2</label>
+                        <input type="text" class="form-control" id="W1G2" placeholder="Enter W1G2 resuslt" name="W1G2"  value="<?php echo $W1G2; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W2G1</label>
+                        <input type="text" class="form-control" id="W2G1" placeholder="Enter W2 G1 resuslt" name="W2G1"  value="<?php echo $W2G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="email">W2G2</label>
+                        <input type="text" class="form-control" id="W2G2" placeholder="Enter W2G2 resuslt" name="W2G2" value="<?php echo $W2G2; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W3G1</label>
+                        <input type="text" class="form-control" id="W3G1" placeholder="Enter W3G1 resuslt" name="W3G1"  value="<?php echo $W3G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W3G2</label>
+                        <input type="text" class="form-control" id="W3G2" placeholder="Enter W3G2 resuslt" name="W3G2"  value="<?php echo $W3G2; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W4G1</label>
+                        <input type="text" class="form-control" id="W4G1" placeholder="Enter W4G1 resuslt" name="W4G1"  value="<?php echo $W4G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W4G2</label>
+                        <input type="text" class="form-control" id="W4G2" placeholder="Enter W4G2 resuslt" name="W4G2"  value="<?php echo $W4G2; ?>">
+                      </div>
+
+                      <button type="submit" name="update" class="btn btn-success">Update</button>
+                    </form>
                   </div>
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
@@ -450,5 +540,21 @@ The above copyright notice and this permission notice shall be included in all c
     });
   </script>
 </body>
-
+    <?php
+    if(isset($_POST["update"]))
+    {
+      mysqli_query($link, "update user set firstname='$_POST[user_Fname]', lastname='$_POST[user_Lname]',
+      email='$_POST[user_email]', address='$_POST[user_address]', postal='$_POST[user_postal]',
+      contact='$_POST[user_Pnumber]', cat='$_POST[user_cat]',
+      W1G1='$_POST[user_W1G1]', W1G2='$_POST[user_W1G2]',
+      W2G1='$_POST[user_W2G1]', W2G2='$_POST[user_W2G2]',
+      W3G1='$_POST[user_W1G1]', W3G2='$_POST[user_W3G2]',
+      W4G1='$_POST[user_W4G1]', W4G2='$_POST[user_W4G2]' where user_id=$id");
+      ?>
+      <script type="text/javascript">
+      window.location.href = "tables.php";
+      </script>
+      <?php
+    }
+     ?>
 </html>

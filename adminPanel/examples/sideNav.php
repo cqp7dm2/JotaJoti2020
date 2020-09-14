@@ -17,9 +17,17 @@
       </li>
       <br>
       <li class="nav-item ">
+        <a class="nav-link" href="./tables2.php">
+          <i class="material-icons">person</i>
+          <p>Edit Admin Profile</p>
+        </a>
+      </li>
+      <br>
+
+      <li class="nav-item ">
         <a class="nav-link" href="./tables.php">
           <i class="material-icons">person</i>
-          <p>Member Profile</p>
+          <p>Edit Member Profile</p>
         </a>
       </li>
       <li class="nav-item ">
@@ -49,25 +57,7 @@
         </a>
       </li>
       <br><br>
-      <li class="nav-item ">
-        <a class="nav-link" href="./typography.php">
-          <i class="material-icons">library_books</i>
-          <p>Typography</p>
-        </a>
-      </li>
-      <li class="nav-item ">
-        <a class="nav-link" href="./icons.php">
-          <i class="material-icons">bubble_chart</i>
-          <p>Icons</p>
-        </a>
-      </li>
 
-      <li class="nav-item ">
-        <a class="nav-link" href="./notifications.php">
-          <i class="material-icons">notifications</i>
-          <p>Notifications</p>
-        </a>
-      </li>
     </ul>
   </div>
 </div>

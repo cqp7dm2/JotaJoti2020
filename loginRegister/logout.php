@@ -5,4 +5,3 @@
   header("Location: /JotaJoti2020/loginRegister/login.php");
   exit();
  ?>
-s
