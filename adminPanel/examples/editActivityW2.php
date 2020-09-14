@@ -1,6 +1,22 @@
-<?php
-include "connection.php";
- ?>
+ <?php
+  include "connection.php";
+
+  $id = $_GET["id"];
+
+  $firstname = "";
+  $lastname = "";
+
+  $W2G1 = "";
+  $W2G2 = "";
+
+  $res=mysqli_query($link, "select * from user where user_id=$id");
+  while($row=mysqli_fetch_array($res)){
+      $firstname = $row["user_Fname"];
+      $lastname = $row["user_Lname"];
+      $W2G1 = $row["user_W2G1"];
+      $W2G2 = $row["user_W2G2"];
+    }
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,7 +27,7 @@ include "connection.php";
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    JOTA JOTI 2020: Admin
+    Material Dashboard by Creative Tim
   </title>
   <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -25,101 +41,47 @@ include "connection.php";
 
 <body class="">
   <div class="wrapper ">
-    <!-- Side Navigation Bar -->
-    <?php include 'sideNav.php';?>
+      <?php include 'sideNav.php';?>
     <div class="main-panel">
-      <!-- Top Navigation Bar -->
+      <!-- Navbar -->
       <?php include 'topNav.php';?>
       <!-- End Navbar -->
       <div class="content">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-lg-12">
+            <div class="col-md-10">
               <div class="card">
-                <div class="card-header card-header-warning">
-                  <h4 class="card-title">Admin List</h4>
-                  <p class="card-category">below are the list of admin for JOTA JOTI 2020</p>
+                <div class="card-header card-header-primary">
+                  <h4 class="card-title "><?php echo $firstname;?> <?php echo $lastname; ?>'s Week 2 Progression Table</h4>
+                  <p class="card-category"> Here is the member's information</p>
                 </div>
-                <div class="card-body table-responsive">
-                  <table class="table table-bordered">
-                    <thead>
-                      <tr>
-                        <th>ID</th>
-                        <th>Firstname</th>
-                        <th>Lastname</th>
-                        <th>Email</th>
-                        <th>Password</th>
-                        <th>Address</th>
-                        <th>Contact</th>
-                        <th>DOB</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <?php
-                      $res = mysqli_query($link, "select * from admin");
-                      while($row=mysqli_fetch_array($res))
-                      {
-                        echo "<tr>";
-                          echo "<td>"; echo $row["admin_id"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Fname"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Lname"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_email"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_pass"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_address"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Pnumber"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_dob"]; echo "</td>";
-                        echo "</tr>";
-                      }
-                       ?>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <form action="" name="form1" method="post">
 
-            <div class="col-lg-12">
-              <div class="card">
-                <div class="card-header card-header-success">
-                  <h4 class="card-title">Member List</h4>
-                  <p class="card-category">below are the list of member for JOTA JOTI 2020</p>
-                </div>
-                <div class="card-body table-responsive">
-                  <table class="table table-bordered">
-                    <thead>
-                      <tr>
-                        <th>Time Joined</th>
-                        <th>ID</th>
-                        <th>Firstname</th>
-                        <th>Lastname</th>
-                        <th>Email</th>
-                        <th>Address</th>
-                        <th>Postal Code</th>
-                        <th>Contact</th>
-                        <th>DOB</th>
-                        <th>Category</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <?php
-                        $res = mysqli_query($link, "select * from user");
-                          while($row=mysqli_fetch_array($res))
-                          {
-                            echo "<tr>";
-                              echo "<td>"; echo $row["user_createT"]; echo "</td>";
-                              echo "<td>"; echo $row["user_id"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Fname"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Lname"]; echo "</td>";
-                              echo "<td>"; echo $row["user_email"]; echo "</td>";
-                              echo "<td>"; echo $row["user_address"]; echo "</td>";
-                              echo "<td>"; echo $row["user_postalcode"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Pnumber"]; echo "</td>";
-                              echo "<td>"; echo $row["user_dob"]; echo "</td>";
-                              echo "<td>"; echo $row["user_cat"]; echo "</td>";
-                            echo "</tr>";
-                          }
-                      ?>
-                    </tbody>
-                  </table>
+                      <div class="form-group">
+                        <label for="pwd">First Name</label>
+                        <input type="text" class="form-control" placeholder="Enter firstname" name="user_Fname"  value="<?php echo $firstname; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">Last Name</label>
+                        <input type="text" class="form-control" placeholder="Enter lastname" name="user_Lname"  value="<?php echo $lastname; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W2G1</label>
+                        <input type="text" class="form-control" placeholder="Enter W2 G1 resuslt" name="user_W2G1"  value="<?php echo $W2G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="email">W2G2</label>
+                        <input type="text" class="form-control" placeholder="Enter W2G2 resuslt" name="user_W2G2" value="<?php echo $W2G2; ?>">
+                      </div>
+
+                      <button type="submit" name="update" class="btn btn-success">Update</button>
+                    </form>
+                  </div>
                 </div>
               </div>
             </div>
@@ -128,7 +90,6 @@ include "connection.php";
       </div>
     </div>
   </div>
-
   <!--   Core JS Files   -->
   <script src="../assets/js/core/jquery.min.js"></script>
   <script src="../assets/js/core/popper.min.js"></script>
@@ -172,6 +133,7 @@ include "connection.php";
   <script src="../assets/js/material-dashboard.js?v=2.1.2" type="text/javascript"></script>
   <!-- Material Dashboard DEMO methods, don't include it in your project! -->
   <script src="../assets/demo/demo.js"></script>
+
   <script>
     $(document).ready(function() {
       $().ready(function() {
@@ -343,13 +305,19 @@ include "connection.php";
       });
     });
   </script>
-  <script>
-    $(document).ready(function() {
-      // Javascript method's body can be found in assets/js/demos.js
-      md.initDashboardPageCharts();
-
-    });
-  </script>
 </body>
 
+    <?php
+    if(isset($_POST["update"]))
+    {
+      mysqli_query($link,
+      "update user set user_Fname='$_POST[user_Fname]', user_Lname='$_POST[user_Lname]',
+      user_W2G1='$_POST[user_W2G1]', user_W2G2='$_POST[user_W2G2]' where user_id=$id");
+      ?>
+      <script type="text/javascript">
+      window.location.href = "tableActivityW2.php";
+      </script>
+      <?php
+    }
+     ?>
 </html>

@@ -1,7 +1,7 @@
 <?php
   include "connection.php";
 
-  $id = $_GET["user_id"];
+  $id = $_GET["id"];
 
   $firstname = "";
   $lastname = "";
@@ -10,20 +10,9 @@
   $postal = "";
   $contact = "";
   $dob = "";
-  $CAT = "";
-  $W1G1 = "";
-  $W1G2 = "";
-  $W2G1 = "";
-  $W2G2 = "";
-  $W3G1 = "";
-  $W3G2 = "";
-  $W4G1 = "";
-  $W4G2 = "";
 
-  $sql = "select * from user where user_id = $id";
-  $res = mysqli_query($link, $sql);
-    while($row =  mysqli_fetch_array($res))
-    {
+  $res=mysqli_query($link, "select * from user where user_id=$id");
+  while($row=mysqli_fetch_array($res)){
       $firstname = $row["user_Fname"];
       $lastname = $row["user_Lname"];
       $email = $row["user_email"];
@@ -31,15 +20,6 @@
       $postal = $row["user_postalcode"];
       $contact = $row["user_Pnumber"];
       $dob = $row["user_dob"];
-      $CAT = $row["user_cat"];
-      $W1G1 = $row["user_W1G1"];
-      $W1G2 = $row["user_W1G2"];
-      $W2G1 = $row["user_W2G1"];
-      $W2G2 = $row["user_W2G2"];
-      $W3G1 = $row["user_W3G1"];
-      $W3G2 = $row["user_W3G2"];
-      $W4G1 = $row["user_W4G1"];
-      $W4G2 = $row["user_W4G2"];
     }
 ?>
 
@@ -69,70 +49,7 @@
       <?php include 'sideNav.php';?>
     <div class="main-panel">
       <!-- Navbar -->
-      <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
-        <div class="container-fluid">
-          <div class="navbar-wrapper">
-            <a class="navbar-brand" href="javascript:;">Table List</a>
-          </div>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="navbar-toggler-icon icon-bar"></span>
-            <span class="navbar-toggler-icon icon-bar"></span>
-            <span class="navbar-toggler-icon icon-bar"></span>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end">
-            <form class="navbar-form">
-              <div class="input-group no-border">
-                <input type="text" value="" class="form-control" placeholder="Search...">
-                <button type="submit" class="btn btn-white btn-round btn-just-icon">
-                  <i class="material-icons">search</i>
-                  <div class="ripple-container"></div>
-                </button>
-              </div>
-            </form>
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="javascript:;">
-                  <i class="material-icons">dashboard</i>
-                  <p class="d-lg-none d-md-block">
-                    Stats
-                  </p>
-                </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <i class="material-icons">notifications</i>
-                  <span class="notification">5</span>
-                  <p class="d-lg-none d-md-block">
-                    Some Actions
-                  </p>
-                </a>
-                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="#">Mike John responded to your email</a>
-                  <a class="dropdown-item" href="#">You have 5 new tasks</a>
-                  <a class="dropdown-item" href="#">You're now friend with Andrew</a>
-                  <a class="dropdown-item" href="#">Another Notification</a>
-                  <a class="dropdown-item" href="#">Another One</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link" href="javascript:;" id="navbarDropdownProfile" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <i class="material-icons">person</i>
-                  <p class="d-lg-none d-md-block">
-                    Account
-                  </p>
-                </a>
-                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownProfile">
-                  <a class="dropdown-item" href="#">Profile</a>
-                  <a class="dropdown-item" href="#">Settings</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Log out</a>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
+      <?php include 'topNav.php';?>
       <!-- End Navbar -->
       <div class="content">
         <div class="container-fluid">
@@ -149,82 +66,37 @@
 
                       <div class="form-group">
                         <label for="pwd">First Name</label>
-                        <input type="text" class="form-control" id="firstname" placeholder="Enter firstname" name="firstname"  value="<?php echo $firstname; ?>">
+                        <input type="text" class="form-control" placeholder="Enter firstname" name="user_Fname"  value="<?php echo $firstname; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="pwd">Last Name</label>
-                        <input type="text" class="form-control" id="lastname" placeholder="Enter lastname" name="lastname"  value="<?php echo $lastname; ?>">
+                        <input type="text" class="form-control" placeholder="Enter lastname" name="user_Lname"  value="<?php echo $lastname; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="email">Email</label>
-                        <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" value="<?php echo $email; ?>">
+                        <input type="email" class="form-control" placeholder="Enter email" name="user_email" value="<?php echo $email; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="pwd">Address</label>
-                        <input type="text" class="form-control" id="address" placeholder="Enter address" name="address"  value="<?php echo $address; ?>">
+                        <input type="text" class="form-control" placeholder="Enter address" name="user_address"  value="<?php echo $address; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="pwd">Postal Code</label>
-                        <input type="text" class="form-control" id="postal" placeholder="Enter postal code" name="postal"  value="<?php echo $postal; ?>">
+                        <input type="text" class="form-control" placeholder="Enter postal code" name="user_postalcode"  value="<?php echo $postal; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="pwd">Contact</label>
-                        <input type="text" class="form-control" id="contact" placeholder="Enter contact" name="contact"  value="<?php echo $contact; ?>">
+                        <input type="text" class="form-control" placeholder="Enter contact" name="user_Pnumber"  value="<?php echo $contact; ?>">
                       </div>
 
                       <div class="form-group">
                         <label for="pwd">DOB</label>
-                        <input type="text" class="form-control" id="dob" placeholder="Enter date of birth" name="dob"  value="<?php echo $dob; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">CAT</label>
-                        <input type="text" class="form-control" id="cat" placeholder="Enter CAT" name="cat"  value="<?php echo $CAT; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W1G1</label>
-                        <input type="text" class="form-control" id="W1G1" placeholder="Enter W1G1 result" name="W1G1"  value="<?php echo $W1G1; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W1G2</label>
-                        <input type="text" class="form-control" id="W1G2" placeholder="Enter W1G2 resuslt" name="W1G2"  value="<?php echo $W1G2; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W2G1</label>
-                        <input type="text" class="form-control" id="W2G1" placeholder="Enter W2 G1 resuslt" name="W2G1"  value="<?php echo $W2G1; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="email">W2G2</label>
-                        <input type="text" class="form-control" id="W2G2" placeholder="Enter W2G2 resuslt" name="W2G2" value="<?php echo $W2G2; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W3G1</label>
-                        <input type="text" class="form-control" id="W3G1" placeholder="Enter W3G1 resuslt" name="W3G1"  value="<?php echo $W3G1; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W3G2</label>
-                        <input type="text" class="form-control" id="W3G2" placeholder="Enter W3G2 resuslt" name="W3G2"  value="<?php echo $W3G2; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W4G1</label>
-                        <input type="text" class="form-control" id="W4G1" placeholder="Enter W4G1 resuslt" name="W4G1"  value="<?php echo $W4G1; ?>">
-                      </div>
-
-                      <div class="form-group">
-                        <label for="pwd">W4G2</label>
-                        <input type="text" class="form-control" id="W4G2" placeholder="Enter W4G2 resuslt" name="W4G2"  value="<?php echo $W4G2; ?>">
+                        <input type="date" class="form-control" placeholder="Enter date of birth" name="user_dob"  value="<?php echo $dob; ?>">
                       </div>
 
                       <button type="submit" name="update" class="btn btn-success">Update</button>
@@ -233,113 +105,9 @@
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>
-      <footer class="footer">
-        <div class="container-fluid">
-          <nav class="float-left">
-            <ul>
-              <li>
-                <a href="https://www.creative-tim.com">
-                  Creative Tim
-                </a>
-              </li>
-              <li>
-                <a href="https://creative-tim.com/presentation">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="http://blog.creative-tim.com">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="https://www.creative-tim.com/license">
-                  Licenses
-                </a>
-              </li>
-            </ul>
-          </nav>
-          <div class="copyright float-right">
-            &copy;
-            <script>
-              document.write(new Date().getFullYear())
-            </script>, made with <i class="material-icons">favorite</i> by
-            <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> for a better web.
-          </div>
-        </div>
-      </footer>
-    </div>
-  </div>
-  <div class="fixed-plugin">
-    <div class="dropdown show-dropdown">
-      <a href="#" data-toggle="dropdown">
-        <i class="fa fa-cog fa-2x"> </i>
-      </a>
-      <ul class="dropdown-menu">
-        <li class="header-title"> Sidebar Filters</li>
-        <li class="adjustments-line">
-          <a href="javascript:void(0)" class="switch-trigger active-color">
-            <div class="badge-colors ml-auto mr-auto">
-              <span class="badge filter badge-purple" data-color="purple"></span>
-              <span class="badge filter badge-azure" data-color="azure"></span>
-              <span class="badge filter badge-green" data-color="green"></span>
-              <span class="badge filter badge-warning" data-color="orange"></span>
-              <span class="badge filter badge-danger" data-color="danger"></span>
-              <span class="badge filter badge-rose active" data-color="rose"></span>
-            </div>
-            <div class="clearfix"></div>
-          </a>
-        </li>
-        <li class="header-title">Images</li>
-        <li class="active">
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-1.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-2.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-3.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-4.jpg" alt="">
-          </a>
-        </li>
-        <li class="button-container">
-          <a href="https://www.creative-tim.com/product/material-dashboard" target="_blank" class="btn btn-primary btn-block">Free Download</a>
-        </li>
-        <!-- <li class="header-title">Want more components?</li>
-            <li class="button-container">
-                <a href="https://www.creative-tim.com/product/material-dashboard-pro" target="_blank" class="btn btn-warning btn-block">
-                  Get the pro version
-                </a>
-            </li> -->
-        <li class="button-container">
-          <a href="https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html" target="_blank" class="btn btn-default btn-block">
-            View Documentation
-          </a>
-        </li>
-        <li class="button-container github-star">
-          <a class="github-button" href="https://github.com/creativetimofficial/material-dashboard" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
-        </li>
-        <li class="header-title">Thank you for 95 shares!</li>
-        <li class="button-container text-center">
-          <button id="twitter" class="btn btn-round btn-twitter"><i class="fa fa-twitter"></i> &middot; 45</button>
-          <button id="facebook" class="btn btn-round btn-facebook"><i class="fa fa-facebook-f"></i> &middot; 50</button>
-          <br>
-          <br>
-        </li>
-      </ul>
     </div>
   </div>
   <!--   Core JS Files   -->
@@ -562,16 +330,13 @@
     <?php
     if(isset($_POST["update"]))
     {
-      mysqli_query($link, "update user set firstname='$_POST[user_Fname]', lastname='$_POST[user_Lname]',
-      email='$_POST[user_email]', address='$_POST[user_address]', postal='$_POST[user_postal]',
-      contact='$_POST[user_Pnumber]', cat='$_POST[user_cat]',
-      W1G1='$_POST[user_W1G1]', W1G2='$_POST[user_W1G2]',
-      W2G1='$_POST[user_W2G1]', W2G2='$_POST[user_W2G2]',
-      W3G1='$_POST[user_W1G1]', W3G2='$_POST[user_W3G2]',
-      W4G1='$_POST[user_W4G1]', W4G2='$_POST[user_W4G2]' where user_id=$id");
+      mysqli_query($link,
+      "update user set user_Fname='$_POST[user_Fname]', user_Lname='$_POST[user_Lname]',
+      user_email='$_POST[user_email]', user_address='$_POST[user_address]', user_postalcode='$_POST[user_postalcode]',
+      user_Pnumber='$_POST[user_Pnumber]', user_dob='$_POST[user_dob]' where user_id=$id");
       ?>
       <script type="text/javascript">
-      window.location.href = "tables.php";
+      window.location.href = "tableMember.php";
       </script>
       <?php
     }

@@ -1,17 +1,21 @@
-<!--
-=========================================================
-Material Dashboard - v2.1.2
-=========================================================
+ <?php
+  include "connection.php";
 
-Product Page: https://www.creative-tim.com/product/material-dashboard
-Copyright 2020 Creative Tim (https://www.creative-tim.com)
-Coded by Creative Tim
+  $id = $_GET["id"];
 
-=========================================================
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-<?php
-include "connection.php";
- ?>
+  $firstname = "";
+  $lastname = "";
+  $W1G1 = "";
+  $W1G2 = "";
+
+  $res=mysqli_query($link, "select * from user where user_id=$id");
+  while($row=mysqli_fetch_array($res)){
+      $firstname = $row["user_Fname"];
+      $lastname = $row["user_Lname"];
+      $W1G1 = $row["user_W1G1"];
+      $W1G2 = $row["user_W1G2"];
+    }
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -44,169 +48,45 @@ include "connection.php";
       <div class="content">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-10">
               <div class="card">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title ">Simple Table</h4>
-                  <p class="card-category"> Here is a subtitle for this table</p>
-                </div>
-                <div class="col-md-2">
-                  <a href="insert.php"><button type="submit" name="insert" class="btn btn-default">Add New Admin</button></a>
+                  <h4 class="card-title "><?php echo $firstname;?> <?php echo $lastname; ?>'s Week 1 Progression Table</h4>
+                  <p class="card-category"> Here is the member's information</p>
                 </div>
                 <div class="card-body">
                   <div class="table-responsive">
-                    <table class="table table-bordered">
-                      <thead>
-                        <tr>
-                          <th>Delete</th>
-                          <th>Edit</th>
-                          <th>ID</th>
-                          <th>Firstname</th>
-                          <th>Lastname</th>
-                          <th>Email</th>
-                          <th>Address</th>
-                          <th>Contact</th>
-                          <th>DOB</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <?php
-                        $res = mysqli_query($link, "select * from admin");
-                        while($row=mysqli_fetch_array($res))
-                        {
-                          echo "<tr>";
+                    <form action="" name="form1" method="post">
 
-                          echo "<td>";?>
-                          <a href='deleteAdmin.php?id=<?php echo $row["admin_id"]; ?>'><button type='button' class='btn btn-danger'>Delete</button></a>
-                          <?php echo "</td>";
+                      <div class="form-group">
+                        <label for="pwd">First Name</label>
+                        <input type="text" class="form-control" placeholder="Enter firstname" name="user_Fname"  value="<?php echo $firstname; ?>">
+                      </div>
 
-                            echo "<td>";?>
-                            <a href='editAdmin.php?id=<?php echo $row["admin_id"]; ?>'><button type='button' class='btn btn-success'>Edit</button></a>
-                            <?php echo "</td>";
+                      <div class="form-group">
+                        <label for="pwd">Last Name</label>
+                        <input type="text" class="form-control" placeholder="Enter lastname" name="user_Lname"  value="<?php echo $lastname; ?>">
+                      </div>
 
-                            echo "<td>"; echo $row["admin_id"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_Fname"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_Lname"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_email"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_address"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_Pnumber"]; echo "</td>";
-                            echo "<td>"; echo $row["admin_dob"]; echo "</td>";
-                          echo "</tr>";
-                        }
-                         ?>
-                      </tbody>
-                    </table>
+                      <div class="form-group">
+                        <label for="pwd">W1G1</label>
+                        <input type="text" class="form-control" placeholder="Enter W1G1 result" name="user_W1G1"  value="<?php echo $W1G1; ?>">
+                      </div>
+
+                      <div class="form-group">
+                        <label for="pwd">W1G2</label>
+                        <input type="text" class="form-control" placeholder="Enter W1G2 resuslt" name="user_W1G2"  value="<?php echo $W1G2; ?>">
+                      </div>
+
+                      <button type="submit" name="update" class="btn btn-success">Update</button>
+                    </form>
                   </div>
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>
-      <footer class="footer">
-        <div class="container-fluid">
-          <nav class="float-left">
-            <ul>
-              <li>
-                <a href="https://www.creative-tim.com">
-                  Creative Tim
-                </a>
-              </li>
-              <li>
-                <a href="https://creative-tim.com/presentation">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="http://blog.creative-tim.com">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="https://www.creative-tim.com/license">
-                  Licenses
-                </a>
-              </li>
-            </ul>
-          </nav>
-          <div class="copyright float-right">
-            &copy;
-            <script>
-              document.write(new Date().getFullYear())
-            </script>, made with <i class="material-icons">favorite</i> by
-            <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> for a better web.
-          </div>
-        </div>
-      </footer>
-    </div>
-  </div>
-  <div class="fixed-plugin">
-    <div class="dropdown show-dropdown">
-      <a href="#" data-toggle="dropdown">
-        <i class="fa fa-cog fa-2x"> </i>
-      </a>
-      <ul class="dropdown-menu">
-        <li class="header-title"> Sidebar Filters</li>
-        <li class="adjustments-line">
-          <a href="javascript:void(0)" class="switch-trigger active-color">
-            <div class="badge-colors ml-auto mr-auto">
-              <span class="badge filter badge-purple" data-color="purple"></span>
-              <span class="badge filter badge-azure" data-color="azure"></span>
-              <span class="badge filter badge-green" data-color="green"></span>
-              <span class="badge filter badge-warning" data-color="orange"></span>
-              <span class="badge filter badge-danger" data-color="danger"></span>
-              <span class="badge filter badge-rose active" data-color="rose"></span>
-            </div>
-            <div class="clearfix"></div>
-          </a>
-        </li>
-        <li class="header-title">Images</li>
-        <li class="active">
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-1.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-2.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-3.jpg" alt="">
-          </a>
-        </li>
-        <li>
-          <a class="img-holder switch-trigger" href="javascript:void(0)">
-            <img src="../assets/img/sidebar-4.jpg" alt="">
-          </a>
-        </li>
-        <li class="button-container">
-          <a href="https://www.creative-tim.com/product/material-dashboard" target="_blank" class="btn btn-primary btn-block">Free Download</a>
-        </li>
-        <!-- <li class="header-title">Want more components?</li>
-            <li class="button-container">
-                <a href="https://www.creative-tim.com/product/material-dashboard-pro" target="_blank" class="btn btn-warning btn-block">
-                  Get the pro version
-                </a>
-            </li> -->
-        <li class="button-container">
-          <a href="https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html" target="_blank" class="btn btn-default btn-block">
-            View Documentation
-          </a>
-        </li>
-        <li class="button-container github-star">
-          <a class="github-button" href="https://github.com/creativetimofficial/material-dashboard" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
-        </li>
-        <li class="header-title">Thank you for 95 shares!</li>
-        <li class="button-container text-center">
-          <button id="twitter" class="btn btn-round btn-twitter"><i class="fa fa-twitter"></i> &middot; 45</button>
-          <button id="facebook" class="btn btn-round btn-facebook"><i class="fa fa-facebook-f"></i> &middot; 50</button>
-          <br>
-          <br>
-        </li>
-      </ul>
     </div>
   </div>
   <!--   Core JS Files   -->
@@ -252,6 +132,7 @@ include "connection.php";
   <script src="../assets/js/material-dashboard.js?v=2.1.2" type="text/javascript"></script>
   <!-- Material Dashboard DEMO methods, don't include it in your project! -->
   <script src="../assets/demo/demo.js"></script>
+
   <script>
     $(document).ready(function() {
       $().ready(function() {
@@ -425,4 +306,17 @@ include "connection.php";
   </script>
 </body>
 
+    <?php
+    if(isset($_POST["update"]))
+    {
+      mysqli_query($link,
+      "update user set user_Fname='$_POST[user_Fname]', user_Lname='$_POST[user_Lname]',
+      user_W1G1='$_POST[user_W1G1]', user_W1G2='$_POST[user_W1G2]' where user_id=$id");
+      ?>
+      <script type="text/javascript">
+      window.location.href = "tableActivityW1.php";
+      </script>
+      <?php
+    }
+     ?>
 </html>

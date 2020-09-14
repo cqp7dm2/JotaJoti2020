@@ -9,6 +9,7 @@
     </a></div>
   <div class="sidebar-wrapper">
     <ul class="nav">
+
       <li class="nav-item active  ">
         <a class="nav-link" href="./dashboard.php">
           <i class="material-icons">dashboard</i>
@@ -16,44 +17,47 @@
         </a>
       </li>
       <br>
+
       <li class="nav-item ">
-        <a class="nav-link" href="./tables2.php">
+        <a class="nav-link" href="./tableAdmin.php">
           <i class="material-icons">person</i>
           <p>Edit Admin Profile</p>
         </a>
       </li>
-      <br>
 
       <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
+        <a class="nav-link" href="./tableMember.php">
           <i class="material-icons">person</i>
           <p>Edit Member Profile</p>
         </a>
       </li>
-      <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
-          <i class="material-icons">person</i>
-          <p>Activity Profile</p>
-        </a>
-      </li>
-      <br>
+      <br><br>
 
       <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
+        <a class="nav-link" href="./tableActivityW1.php">
           <i class="material-icons">content_paste</i>
-          <p>Game Progress</p>
+          <p>Game Progress Week 1</p>
         </a>
       </li>
+
       <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
+        <a class="nav-link" href="./tableActivityW2.php">
           <i class="material-icons">content_paste</i>
-          <p>Game Progress</p>
+          <p>Game Progress Week 2</p>
         </a>
       </li>
+
       <li class="nav-item ">
-        <a class="nav-link" href="./tables.php">
+        <a class="nav-link" href="./tableActivityW3.php">
           <i class="material-icons">content_paste</i>
-          <p>Game Progress</p>
+          <p>Game Progress Week 3</p>
+        </a>
+      </li>
+
+      <li class="nav-item ">
+        <a class="nav-link" href="./tableActivityW4.php">
+          <i class="material-icons">content_paste</i>
+          <p>Game Progress Week 4</p>
         </a>
       </li>
       <br><br>

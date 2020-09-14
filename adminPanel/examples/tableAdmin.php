@@ -11,7 +11,7 @@ include "connection.php";
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    JOTA JOTI 2020: Admin
+    Admin Table
   </title>
   <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -25,101 +25,69 @@ include "connection.php";
 
 <body class="">
   <div class="wrapper ">
-    <!-- Side Navigation Bar -->
-    <?php include 'sideNav.php';?>
+      <?php include 'sideNav.php';?>
     <div class="main-panel">
-      <!-- Top Navigation Bar -->
+      <!-- Navbar -->
       <?php include 'topNav.php';?>
       <!-- End Navbar -->
       <div class="content">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-lg-12">
+            <div class="col-md-12">
               <div class="card">
-                <div class="card-header card-header-warning">
-                  <h4 class="card-title">Admin List</h4>
-                  <p class="card-category">below are the list of admin for JOTA JOTI 2020</p>
+                <div class="card-header card-header-primary">
+                  <h4 class="card-title ">Edit Admin Table List</h4>
+                  <p class="card-category"> Here is a subtitle for admin table</p>
                 </div>
-                <div class="card-body table-responsive">
-                  <table class="table table-bordered">
-                    <thead>
-                      <tr>
-                        <th>ID</th>
-                        <th>Firstname</th>
-                        <th>Lastname</th>
-                        <th>Email</th>
-                        <th>Password</th>
-                        <th>Address</th>
-                        <th>Contact</th>
-                        <th>DOB</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <?php
-                      $res = mysqli_query($link, "select * from admin");
-                      while($row=mysqli_fetch_array($res))
-                      {
-                        echo "<tr>";
-                          echo "<td>"; echo $row["admin_id"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Fname"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Lname"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_email"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_pass"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_address"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_Pnumber"]; echo "</td>";
-                          echo "<td>"; echo $row["admin_dob"]; echo "</td>";
-                        echo "</tr>";
-                      }
-                       ?>
-                    </tbody>
-                  </table>
+                <div class="col-md-2">
+                  <a href="insertAdmin.php"><button type="submit" name="insertAdmin" class="btn btn-default">Add New Admin</button></a>
                 </div>
-              </div>
-            </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                          <th>Delete</th>
+                          <th>Edit</th>
+                          <th>ID</th>
+                          <th>Firstname</th>
+                          <th>Lastname</th>
+                          <th>Email</th>
+                          <th>Password</th>
+                          <th>Address</th>
+                          <th>Contact</th>
+                          <th>DOB</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <?php
+                        $res = mysqli_query($link, "select * from admin");
+                        while($row=mysqli_fetch_array($res))
+                        {
+                          echo "<tr>";
 
-            <div class="col-lg-12">
-              <div class="card">
-                <div class="card-header card-header-success">
-                  <h4 class="card-title">Member List</h4>
-                  <p class="card-category">below are the list of member for JOTA JOTI 2020</p>
-                </div>
-                <div class="card-body table-responsive">
-                  <table class="table table-bordered">
-                    <thead>
-                      <tr>
-                        <th>Time Joined</th>
-                        <th>ID</th>
-                        <th>Firstname</th>
-                        <th>Lastname</th>
-                        <th>Email</th>
-                        <th>Address</th>
-                        <th>Postal Code</th>
-                        <th>Contact</th>
-                        <th>DOB</th>
-                        <th>Category</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <?php
-                        $res = mysqli_query($link, "select * from user");
-                          while($row=mysqli_fetch_array($res))
-                          {
-                            echo "<tr>";
-                              echo "<td>"; echo $row["user_createT"]; echo "</td>";
-                              echo "<td>"; echo $row["user_id"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Fname"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Lname"]; echo "</td>";
-                              echo "<td>"; echo $row["user_email"]; echo "</td>";
-                              echo "<td>"; echo $row["user_address"]; echo "</td>";
-                              echo "<td>"; echo $row["user_postalcode"]; echo "</td>";
-                              echo "<td>"; echo $row["user_Pnumber"]; echo "</td>";
-                              echo "<td>"; echo $row["user_dob"]; echo "</td>";
-                              echo "<td>"; echo $row["user_cat"]; echo "</td>";
-                            echo "</tr>";
-                          }
-                      ?>
-                    </tbody>
-                  </table>
+                          echo "<td>";?>
+                          <a href='deleteAdmin.php?id=<?php echo $row["admin_id"]; ?>'><button type='button' class='btn btn-danger'>Delete</button></a>
+                          <?php echo "</td>";
+
+                            echo "<td>";?>
+                            <a href='editAdmin.php?id=<?php echo $row["admin_id"]; ?>'><button type='button' class='btn btn-success'>Edit</button></a>
+                            <?php echo "</td>";
+
+                            echo "<td>"; echo $row["admin_id"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_Fname"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_Lname"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_email"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_pass"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_address"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_Pnumber"]; echo "</td>";
+                            echo "<td>"; echo $row["admin_dob"]; echo "</td>";
+                          echo "</tr>";
+                        }
+                         ?>
+                      </tbody>
+                    </table>
+                  </div>
                 </div>
               </div>
             </div>
@@ -128,7 +96,6 @@ include "connection.php";
       </div>
     </div>
   </div>
-
   <!--   Core JS Files   -->
   <script src="../assets/js/core/jquery.min.js"></script>
   <script src="../assets/js/core/popper.min.js"></script>
@@ -341,13 +308,6 @@ include "connection.php";
 
         });
       });
-    });
-  </script>
-  <script>
-    $(document).ready(function() {
-      // Javascript method's body can be found in assets/js/demos.js
-      md.initDashboardPageCharts();
-
     });
   </script>
 </body>
