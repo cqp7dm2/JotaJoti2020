@@ -1,5 +1,6 @@
 <?php
   include "connection.php";
+
   $id = $_GET["user_id"];
 
   $firstname = "";
@@ -384,6 +385,7 @@
   <script src="../assets/js/material-dashboard.js?v=2.1.2" type="text/javascript"></script>
   <!-- Material Dashboard DEMO methods, don't include it in your project! -->
   <script src="../assets/demo/demo.js"></script>
+
   <script>
     $(document).ready(function() {
       $().ready(function() {
@@ -556,6 +558,7 @@
     });
   </script>
 </body>
+
     <?php
     if(isset($_POST["update"]))
     {

@@ -89,11 +89,13 @@ include "connection.php";
 
 
                             echo "<td>";?>
-                            <a href='delete.php?id=<?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-danger'>Delete</button></a>
+                            <a href='delete.php?id=
+                            <?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-danger'>Delete</button></a>
                             <?php echo "</td>";
 
                             echo "<td>";?>
-                            <a href='edit.php?id=<?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-success'>Edit</button></a>
+                            <a href='edit.php?id=
+                            <?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-success'>Edit</button></a>
                             <?php echo "</td>";
 
                             echo "<td>"; echo $row["user_createT"]; echo "</td>";
