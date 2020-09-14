@@ -53,7 +53,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="challenges.php">Challenges</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="merchant.php">Donation</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="contactus.php">Contact Us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="/JotaJoti2020/loginRegister/login.php" target="_blank">Login/Register</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" style="transition-duration: 0.6s" href="/loginRegister/login.php" target="_blank">Login/Register</a></li>
 
                 </ul>
             </div>
