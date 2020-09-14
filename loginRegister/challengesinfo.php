@@ -30,6 +30,14 @@
     SESSION_start()
      ?>
 
+     <?php
+     // FOR USERS TO VALIDATION ON THE LOGIN
+     //AVOID USER COME INTO PAGE WITHOUT LOGIN
+       if(empty($_SESSION['user_id'])) {
+       header("Location:login.php");
+       }
+      ?>
+
     <title>Jota-Joti 2020|Challenges Information</title>
     <link rel="icon" href="../assets/img/2020.png">
   </head>

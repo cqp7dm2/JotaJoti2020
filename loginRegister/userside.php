@@ -1,6 +1,3 @@
-<?php
-SESSION_start();
- ?>
 <!DOCTYPE html>
 <html>
 
@@ -38,6 +35,18 @@ SESSION_start();
 </script>
 
 </head>
+
+<?php
+SESSION_start();
+ ?>
+
+<?php
+// FOR USERS TO VALIDATION ON THE LOGIN
+//AVOID USER COME INTO PAGE WITHOUT LOGIN
+  if(empty($_SESSION['user_id'])) {
+  header("Location:login.php");
+  }
+ ?>
 
 <body id="page-top">
     <div id="wrapper">
