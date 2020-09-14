@@ -11,7 +11,7 @@ include "connection.php";
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Material Dashboard by Creative Tim
+    Add Admin
   </title>
   <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -305,10 +305,12 @@ include "connection.php";
   </script>
 </body>
     <?php
+      $hashedPwd = password_hash($pass, PASSWORD_DEFAULT);
+
     if(isset($_POST["insertAdmin"]))
     {
       mysqli_query($link, "insert into admin values(NULL, '$_POST[admin_Fname]', '$_POST[admin_Lname]', '$_POST[admin_email]'
-      , '$_POST[admin_pass]', '$_POST[admin_address]', '$_POST[admin_Pnumber]', '$_POST[admin_dob]')");
+      , '$hashedPwd', '$_POST[admin_address]', '$_POST[admin_Pnumber]', '$_POST[admin_dob]')");
       ?>
       <script type="text/javascript">
       window.location.href = "tableAdmin.php";
