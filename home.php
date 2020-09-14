@@ -174,7 +174,7 @@
           <div class="card-body">
             <div class="text-box">
               <h3 class="mb-3">Challenges <br> </h3>
-              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week for senior challenges. Don't miss out! The challenges will last for a month <br> <br> </h6>
+              <h6 class="subtitle font-weight-normal">We have a total of 2 challenges each week. Don't miss out! The challenges will last for a month <br> <br> </h6>
               <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="challenges.php" ><span>View Details</span></a>
             </div>
           </div>
