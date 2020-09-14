@@ -90,7 +90,7 @@ include "connection.php";
 
                             echo "<td>";?>
                             <a href='delete.php?id=
-                            <?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-danger'>Delete</button></a>
+                            <?php echo $row["user_id"]; ?>'><button type='button' class='btn btn-danger' name = 'delete'>Delete</button></a>
                             <?php echo "</td>";
 
                             echo "<td>";?>
