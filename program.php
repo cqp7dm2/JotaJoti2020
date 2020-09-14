@@ -643,6 +643,273 @@
       </section>
 
 
+
+
+      <!-- Junior Program -->
+
+      <section id="features" class="features">
+        <div class="container">
+          <h2 class="text-center mt-0" data-aos="fade-down">Junior Program</h2>
+          <hr class="divider my-4">
+          <h3 data-aos="fade-down">KIDS DESIGN FACE MASK COMPETITION (Age below 12)</h3>
+          <div class="row col-lg-12">
+            <p class="futura"> The contest is open to scouts and guides age below 12 <br>
+                                The registration fees is RM5 <br>
+                                We will post the design to vote at our Facebook Pages from 10/10/2020 to 15/10/2020 <br>
+
+            </p>
+          </div>
+
+          <div class="row pt-3">
+            <div class="col-lg-3">
+              <ul class="nav nav-tabs flex-column">
+                <li class="nav-item">
+                  <a class="nav-link active show" data-toggle="tab" href="#gbb-1" target="_blank">YOUR DESIGN MUST INCLUDE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " data-toggle="tab" href="#gbb-2" target="_blank">SIZE OF THE DESIGN</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-3" target="_blank">TOPIC SENSITIVITY</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-4" target="_blank">COPYRIGHT</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-5" target="_blank">DEADLINE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">COMPETITION FEES</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-7" target="_blank">PRIZES</a>
+                </li>
+              </ul>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
+            </div>
+            <div class="col-lg-9 mt-4 mt-lg-0">
+              <div class="tab-content">
+                <div class="tab-pane active show" id="gbb-1">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>YOUR DESIGN MUST INCLUDE</h3>
+                      <p class="futura"> ●The official title : 63rd JOTA – 24nd JOTI <br>
+                                         ●Year: 2020 <br>
+                                         ●Jota Joti 2020 Logo <br>
+                                         ●“Fighting with COVID 19” <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-2">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>SIZE OF THE DESIGN</h3>
+                      <p class="futura"> ●	Your design must follow the PDF file we provide
+                                        (we will provide the link for download the design template)
+                        <img class="img-fluid" style="border-radius: 50px;" src="assets/img/mask.jpg" alt=""> <br>
+                                         ●  The size of your file (.png or .jpg) should be below 3Mb
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-3">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>TOPIC SENSITIVITY</h3>
+                      <p class="futura"> ●	All design cannot contain any sensitive subjects such as religion, race and politics and vulgarities are not allowed. </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-4">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>COPYRIGHT</h3>
+                      <p class="futura"> ●	Create your own mask design.  Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered..</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-5">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>DEADLINE</h3>
+                      <p class="futura"> ● The deadline for submission of mask design is 1159 hours (+8 GMT) 8, October 2020. <br>
+                                         ● Face mask design received after this deadline will not be viewed or rated by the judging panel. <br>
+
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-6">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>SUBMISSION</h3>
+                      <p class="futura">  ● All face mask submissions must be in png or jpg format below 3Mb <br>
+                                          (Follow the template that we provide) <br>
+                                          ● Photo with creator wearing the mask design (Print out the template with design) <br>
+                                          ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
+                                          ● Need to submit the prove of the payment <br>
+                                          ● Judges decision will be final and binding <br>
+                                          ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
+                                          <TROOPNAME_MASKDESIGN> <br>
+                                          ● Provide a participants’ details which contains their names, age, country, email address & facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
+                                          <TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc>.. <br>
+                                          ● Kindly contact the in-charge person of particular competition for questioning.
+                                          Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-7">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>RIZES: (TO BE CONFIRMED) </h3>
+                      <p class="futura"> ● The Champion <br>
+                                         ● The 1st Runner Up <br>
+                                         ● The 2nd Runner Up <br>
+                                         ● All the participant will get a E- Certificate <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- second -->
+        <div class="container">
+          <br> <br>
+          <hr class="divider my-4">
+          <br> <br>
+          <h3 data-aos="fade-down">KIDS RECYCLE HANDICRAFT COMPETITION (Age below 12)</h3>
+          <div class="row col-lg-12">
+            <p class="futura">  The contest is open to scouts and guides age below 12 <br>
+                                The registration fees is RM5 <br>
+                                We will post the design to vote at our Facebook Pages from 10/10/2020 to 15/10/2020 <br>
+            </p>
+          </div>
+
+          <div class="row pt-3">
+            <div class="col-lg-3">
+              <ul class="nav nav-tabs flex-column">
+                <li class="nav-item">
+                  <a class="nav-link active show" data-toggle="tab" href="#gcb-1" target="_blank">YOU MUST PREPARE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " data-toggle="tab" href="#gcb-2" target="_blank">SIZE OF THE DESIGN</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-3" target="_blank">MUSIC ON THE VIDEO</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-4" target="_blank">COPYRIGHT</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-5" target="_blank">DEADLINE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">COMPETITION FEES</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-7" target="_blank">PRIZES</a>
+                </li>
+              </ul>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
+            </div>
+            <div class="col-lg-9 mt-4 mt-lg-0">
+              <div class="tab-content">
+                <div class="tab-pane active show" id="gcb-1">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>YOU MUST PREPARE</h3>
+                      <p class="futura">  ● The Title of the Recycle Handicraft <br>
+                                          ● The Materials that you use ( Recycle) <br>
+                                          ● The Photo of the item ( Top view, Site view, Front view, Back view, creator with the item ) <br>
+                                          ● The Video to explain the item (less than 1 minutes) <br>
+
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-2">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>SIZE OF THE DESIGN</h3>
+                      <p class="futura"> ●	Your design must smaller than 2 feet x 2 feet
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-3">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>MUSIC ON THE VIDEO</h3>
+                      <p class="futura"> ● Music must be pre-cut and prepared. <br>
+                                         ● Please ensure the video uploaded is with music. <br>
+                                         ● Please make sure the version is CLEAN/family friendly otherwise the video will be not accepted. <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-4">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>COPYRIGHT</h3>
+                      <p class="futura"> ● The short video submitted must not contain any copyrighted work(s) belonging to any third parties unless, (1) Participants have a license to use such works in the video; or (2) the use participants’ video makes of such works is a fair one under the copyright laws. <br>
+                      ● However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason. <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-5">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>DEADLINE</h3>
+                      <p class="futura"> ● The deadline for submission of mask design is 1159 hours (+8 GMT) 8, October 2020. <br>
+                                         ● Photo & video of the Recycle Handicraft received after this deadline will not be viewed or rated by the judging panel. <br>
+
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-6">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>SUBMISSION</h3>
+                      <p class="futura">  ● All video submissions must be in MP4 format, minimum 720p, fps 24hz. <br>
+                                          ● All Photo submissions must be in png or jpg format total space below 3Mb <br>
+                                          ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
+                                          ● Judges decision will be final and binding. <br>
+                                          ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
+                                          <TROOPNAME_HANDICRAFT>. <br>
+                                          ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via	Google	Drive	with	file	name <br>
+                                          <TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc>. <br>
+                                          ● Kindly contact the in-charge person of particular competition for questioning. <br>
+                                          Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-7">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>RIZES: (TO BE CONFIRMED) </h3>
+                      <p class="futura"> ● The Champion <br>
+                                         ● The 1st Runner Up <br>
+                                         ● The 2nd Runner Up <br>
+                                         ● All the participant will get a E- Certificate <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
       <!-- <section class="page-section" id="services">
         <div class="container">
           <h2 class="text-center mt-0">Information for participating in this event</h2>
