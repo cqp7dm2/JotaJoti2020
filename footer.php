@@ -32,8 +32,8 @@
                     <div class="row font-weight-bold pb-3" style="font-size: 30px"><a href="home.php" style="color:white">
                       Jota Joti 2020
                     </a></div>
-                    <div class="row">
-
+                    <div class="row" style="font-size: 15px;">
+                      BY GEORGETOWN (SOUTH)
                     </div>
                     <div class="row pb-3">
 

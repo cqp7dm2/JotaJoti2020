@@ -50,6 +50,21 @@
       </div>
     </header>
 
+    <section style="background-color: #fff;">
+      <div class="container">
+        <div class="row py-4 align-items-center">
+          <div class="col-lg-12 text-center" data-aos="fade-down">
+            <img class="img-fluid" src="assets/img/scout-logo.png" alt="">
+          </div>
+        </div>
+        <div class="row pt-4">
+          <div class="col-lg-12 text-center" data-aos="zoom-in">
+            <h2 class="section-heading" style="font-size: 45px;">Jota Joti 2020<br>By Georgetown (South)</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section style="background-color:#fff;"> <!--#D9514EFF-->
       <div class="container">
         <script>
