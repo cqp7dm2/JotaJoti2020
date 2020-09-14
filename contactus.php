@@ -58,7 +58,7 @@
                   </div>
                   <div class="text-center">
                       <div id="success"></div>
-                      <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit" name="submit">Send Message</button>
+                      <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit" name="submit" disabled>Send Message</button>
                   </div>
               </form>
           </div>

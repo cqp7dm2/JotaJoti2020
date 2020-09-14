@@ -146,7 +146,7 @@
     <tr data-aos="fade-up">
       <th scope="row">Media and Publicity</th>
       <td><a href="https://www.instagram.com/cxaang/" style="color:black" target="_blank">Ang Chern Xing (Leader)</a><br> <a href="#" style="color:black" target="_blank">Eric Goh Thean Yu</a> <br> <a href="https://www.instagram.com/kyara_khaw/" style="color:black" target="_blank">Kyara Khaw Wen Qian</a>
-        <br><a href="" style="color:black" target="_blank"> Rachel Tan Chia Yi </a></td>
+        <br><a href="" style="color:black" target="_blank">Rachel Tan Chia Yi</a></td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Sponsorship</th>
