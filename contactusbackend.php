@@ -33,6 +33,7 @@ $mail = new PHPMailer(TRUE);
 
 ?>
 <?php
+
 try {
 // $mail->SMTPDebug = 2;
 $mail->isSMTP();                            // Set mailer to use SMTP
