@@ -47,7 +47,6 @@
               <a class="portfolioo-item"  href="#features-1" >
                 <div class="caption">
                   <div class="caption-content">
-                    <!-- <div class="h2">Short Film Competition,THEME: YEAR 2020 </div> -->
                   </div>
                 </div>
                 <img class="img-fluid" src="assets/img/video.jpg" alt="" target="_blank">
@@ -58,7 +57,6 @@
               <a class="portfolioo-item" href="#features-2">
                 <div class="caption">
                   <div class="caption-content">
-                    <!-- <div class="h2">Dance Competition</div> -->
                   </div>
                 </div>
                 <img class="img-fluid" src="assets/img/dance.jpg" alt="" target="_blank">
@@ -69,7 +67,6 @@
               <a class="portfolioo-item" href="#features-3">
                 <div class="caption">
                   <div class="caption-content">
-                    <!-- <div class="h2">Singing Competition</div> -->
                   </div>
                 </div>
                 <img class="img-fluid" src="assets/img/sing.jpg" alt="" target="_blank">
@@ -80,7 +77,6 @@
               <a class="portfolioo-item" href="#features-4">
                 <div class="caption">
                   <div class="caption-content">
-                    <!-- <div class="h2">Group Photo Competition,THEME: WHO AM I ?</div> -->
                   </div>
                 </div>
                 <img class="img-fluid" src="assets/img/photo.jpg" alt="" target="_blank">
@@ -145,7 +141,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="tab-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS</h3>
                       <p class="futura">No limit. (13-18 years old)</p>
                     </div>
@@ -153,7 +149,7 @@
                 </div>
                 <div class="tab-pane" id="tab-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DURATION</h3>
                       <p class="futura"> The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
                     </div>
@@ -161,7 +157,7 @@
                 </div>
                 <div class="tab-pane" id="tab-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>LANGUAGE</h3>
                       <p class="futura">   ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
                             ●	Subtitles in English are compulsory. <br><br></p>
@@ -170,7 +166,7 @@
                 </div>
                 <div class="tab-pane" id="tab-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
                       <p class="futura">All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed.</p>
                     </div>
@@ -178,7 +174,7 @@
                 </div>
                 <div class="tab-pane" id="tab-5">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
                           (a) Participants have a license to use such works in the Film; or <br>
@@ -190,7 +186,7 @@
                 </div>
                 <div class="tab-pane" id="tab-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
                           ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
@@ -199,7 +195,7 @@
                 </div>
                 <div class="tab-pane" id="tab-7">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Judges decision will be final and binding<br>
@@ -211,7 +207,7 @@
                 </div>
                 <div class="tab-pane" id="tab-9">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura"> ● Each video submission will be charged at a fee of MYR 10. </p>
                     </div>
@@ -266,7 +262,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="cap-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the crews)</h3>
                       <p class="futura"> ●	5-10 members.</p>
                     </div>
@@ -274,7 +270,7 @@
                 </div>
                 <div class="tab-pane" id="cap-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>MUSIC LENGTH</h3>
                       <p class="futura"> ●	Maximum 5:00 min.</p>
                     </div>
@@ -282,7 +278,7 @@
                 </div>
                 <div class="tab-pane" id="cap-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>RULES</h3>
                       <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning.
                         Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
@@ -299,7 +295,7 @@
                 </div>
                 <div class="tab-pane" id="cap-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>MUSIC</h3>
                       <p class="futura"> ●	Music must be pre-cut and prepared.<br>
                           ●	Please ensure the video uploaded is with music.<br>
@@ -310,7 +306,7 @@
                 </div>
                 <div class="tab-pane" id="cap-5">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9 October 2020.<br>
                           ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
@@ -319,7 +315,7 @@
                 </div>
                 <div class="tab-pane" id="cap-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9th, October 2020.<br>
                           ●	Videos received after this deadline will not be viewed or rated by the judging panel.<br><br></p>
@@ -328,7 +324,7 @@
                 </div>
                 <div class="tab-pane" id="cap-7">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
@@ -342,7 +338,7 @@
 
               <div class="tab-pane" id="cap-9">
                 <div class="row">
-                  <div class="col-lg-12 details order-2 order-lg-1">
+                  <div class="col-lg-11 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
                     <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                     </p>
@@ -395,7 +391,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="dab-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (for secondary school students)</h3>
                       <p class="futura"> ●	1 person OR 1 group (minimum of 2 participants to maximum of 5 participants). </p>
                     </div>
@@ -403,7 +399,7 @@
                 </div>
                 <div class="tab-pane" id="dab-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DURATION</h3>
                       <p class="futura"> ●	The length of the song should not be less than 4 minutes and should not be more than 5 minutes.</p>
                     </div>
@@ -411,7 +407,7 @@
                 </div>
                 <div class="tab-pane" id="dab-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>RULES</h3>
                       <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
                           ●	All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old.<br>
@@ -432,7 +428,7 @@
                 </div>
                 <div class="tab-pane" id="dab-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ●	The song(s) submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
                           (a) Participants have a license to use such works in the song(s); or <br>
@@ -444,7 +440,7 @@
                 </div>
                 <div class="tab-pane" id="dab-5">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Songs received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
@@ -453,7 +449,7 @@
                 </div>
                 <div class="tab-pane" id="dab-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
@@ -467,7 +463,7 @@
                 </div>
                 <div class="tab-pane" id="dab-8">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                       </p>
@@ -511,7 +507,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="gab-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the teams)</h3>
                       <p class="futura"> ●	5-20 members</p>
                     </div>
@@ -519,7 +515,7 @@
                 </div>
                 <div class="tab-pane" id="gab-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>RULES</h3>
                       <p class="futura"> ●	Kindly contact the in-charge person of particular competition for any enquiries. Facebook URL: www.facebook.com/huishien99/ |  Email: huishienchong@gmail.com.<br>
                           ●	Each team has to submit 2 FUNNY & CREATIVE group photos of the team related to the theme “MY CULTURAL IDENTITY” along with one CREATIVE photo caption for each photo submitted.<br>
@@ -533,7 +529,7 @@
                 </div>
                 <div class="tab-pane" id="gab-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ●	The deadline for submission of songs is 1159 hours (+8 GMT) 9th, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
@@ -542,7 +538,7 @@
                 </div>
                 <div class="tab-pane" id="gab-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges’ decisions will be final and binding.<br>
@@ -555,7 +551,7 @@
                 </div>
                 <div class="tab-pane" id="gab-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura"> ● Each video submission will be charged at a fee of MYR 10.
                       </p>
@@ -606,7 +602,7 @@
                   <a class="nav-link" data-toggle="tab" href="#gbb-5" target="_blank">DEADLINE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">COMPETITION FEES</a>
+                  <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">SUBMISSION</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
@@ -615,7 +611,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="gbb-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>YOUR DESIGN MUST INCLUDE</h3>
                       <p class="futura"> ●The official title : 63rd JOTA – 24nd JOTI <br>
                                          ●Year: 2020 <br>
@@ -627,7 +623,7 @@
                 </div>
                 <div class="tab-pane" id="gbb-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SIZE OF THE DESIGN</h3>
                       <p class="futura"> ●	Your design must follow the PDF file we provide
                                         (we will provide the link for download the design template)
@@ -639,7 +635,7 @@
                 </div>
                 <div class="tab-pane" id="gbb-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>TOPIC SENSITIVITY</h3>
                       <p class="futura"> ●	All design cannot contain any sensitive subjects such as religion, race and politics and vulgarities are not allowed. </p>
                     </div>
@@ -647,7 +643,7 @@
                 </div>
                 <div class="tab-pane" id="gbb-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ●	Create your own mask design.  Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered..</p>
                     </div>
@@ -655,7 +651,7 @@
                 </div>
                 <div class="tab-pane" id="gbb-5">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ● The deadline for submission of mask design is 1159 hours (+8 GMT) 8, October 2020. <br>
                                          ● Face mask design received after this deadline will not be viewed or rated by the judging panel. <br>
@@ -665,7 +661,7 @@
                 </div>
                 <div class="tab-pane" id="gbb-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura">  ● All face mask submissions must be in png or jpg format below 3Mb <br>
                                           (Follow the template that we provide) <br>
@@ -721,7 +717,7 @@
                   <a class="nav-link" data-toggle="tab" href="#gcb-5" target="_blank">DEADLINE</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">COMPETITION FEES</a>
+                  <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">SUBMISSION</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
@@ -730,7 +726,7 @@
               <div class="tab-content">
                 <div class="tab-pane active show" id="gcb-1">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>YOU MUST PREPARE</h3>
                       <p class="futura">  ● The Title of the Recycle Handicraft <br>
                                           ● The Materials that you use ( Recycle) <br>
@@ -743,7 +739,7 @@
                 </div>
                 <div class="tab-pane" id="gcb-2">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SIZE OF THE DESIGN</h3>
                       <p class="futura"> ●	Your design must smaller than 2 feet x 2 feet
                       </p>
@@ -752,7 +748,7 @@
                 </div>
                 <div class="tab-pane" id="gcb-3">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>MUSIC ON THE VIDEO</h3>
                       <p class="futura"> ● Music must be pre-cut and prepared. <br>
                                          ● Please ensure the video uploaded is with music. <br>
@@ -763,7 +759,7 @@
                 </div>
                 <div class="tab-pane" id="gcb-4">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ● The short video submitted must not contain any copyrighted work(s) belonging to any third parties unless, (1) Participants have a license to use such works in the video; or (2) the use participants’ video makes of such works is a fair one under the copyright laws. <br>
                       ● However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason. <br>
@@ -773,7 +769,7 @@
                 </div>
                 <div class="tab-pane" id="gcb-5">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ● The deadline for submission of mask design is 1159 hours (+8 GMT) 8, October 2020. <br>
                                          ● Photo & video of the Recycle Handicraft received after this deadline will not be viewed or rated by the judging panel. <br>
@@ -783,7 +779,7 @@
                 </div>
                 <div class="tab-pane" id="gcb-6">
                   <div class="row">
-                    <div class="col-lg-12 details order-2 order-lg-1">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura">  ● All video submissions must be in MP4 format, minimum 720p, fps 24hz. <br>
                                           ● All Photo submissions must be in png or jpg format total space below 3Mb <br>
