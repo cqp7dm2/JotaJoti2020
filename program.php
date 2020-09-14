@@ -93,7 +93,7 @@
       <section id="features" class="features">
         <div class="container">
           <br>
-          <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program (13-18 years old)</h2>
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
@@ -143,7 +143,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS</h3>
-                      <p class="futura">No limit. (13-18 years old)</p>
+                      <p class="futura">No limit.</p>
                     </div>
                   </div>
                 </div>
