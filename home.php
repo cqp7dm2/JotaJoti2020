@@ -138,7 +138,8 @@
             <div class="container" id="services">
               <h2 class="text-center mt-0" data-aos="fade-down">Teaser Video!!</h2>
               <hr class="divider my-4" />
-              <iframe width="1120" height="630" src="https://www.youtube.com/embed/prWzuKwY5T4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <!-- <iframe width="1120" height="630" src="https://www.youtube.com/embed/prWzuKwY5T4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+              <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F465629627727051%2F&show_text=1&width=560" width="1120" height="630" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
             </div>
             <br> <br> <br> <br> <br>
 
