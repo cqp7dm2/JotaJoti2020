@@ -345,7 +345,7 @@ gtag('config', 'UA-177875132-1');
                                     data-action='submit'>Submit
                                 </button> -->
 
-                                <div class="g-recaptcha" data-sitekey="6LcBcssZAAAAAMQ1-hFLN8pPu5KLZQNKiilymHMt"></div>
+                                <!-- <div class="g-recaptcha" data-sitekey="6LcBcssZAAAAAMQ1-hFLN8pPu5KLZQNKiilymHMt"></div> -->
                                 <br>
                                 <!--full Length , Register Button-->
                                 <button class="btn btn-primary btn-block text-white btn-user" type="submit" name="submit" value ="submit">Register Account</button>
