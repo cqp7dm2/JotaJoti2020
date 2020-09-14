@@ -33,19 +33,19 @@
                   <h2 class="section-heading text-uppercase" data-aos="fade-up">Contact Us</h2>
                   <h3 class="section-subheading text-muted" data-aos="fade-right">Have any questions? We'd love to hear from you.</h3>
               </div>
-              <form id="contactForm" name="sentMessage" action=contactusbackend.php method="post">
+              <form id="contactForm" name="sentMessage" action=contactusback2.php method="post">
                   <div class="row align-items-stretch mb-5">
                       <div class="col-md-6">
                           <div class="form-group">
-                              <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." name = 'first_name'/>
+                              <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." name = 'first_name'>
                               <p class="help-block text-danger"></p>
                           </div>
                           <div class="form-group">
-                              <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." name = 'email' />
+                              <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." name = 'email'>
                               <p class="help-block text-danger"></p>
                           </div>
                           <div class="form-group mb-md-0">
-                              <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." name='phone_number' />
+                              <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." name='phone_number'>
                               <p class="help-block text-danger"></p>
                           </div>
                       </div>
