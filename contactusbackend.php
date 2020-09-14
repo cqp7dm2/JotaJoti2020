@@ -34,7 +34,7 @@ $mail = new PHPMailer(TRUE);
 ?>
 <?php
 try {
-$mail->SMTPDebug = 2;
+// $mail->SMTPDebug = 2;
 $mail->isSMTP();                            // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com';             // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                     // Enable SMTP authentication
@@ -65,5 +65,5 @@ catch (\Exception $e)
    echo $e->getMessage();
 }
 
-// echo "<script>window.location.href='contactus.php;</script>";
+header("Location: contactus.php");
 ?>
