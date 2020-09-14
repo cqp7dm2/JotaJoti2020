@@ -577,8 +577,8 @@
           <h3 data-aos="fade-down">KIDS DESIGN FACE MASK COMPETITION </h3>
           <div class="row col-lg-12">
             <p class="futura"> The contest is open to scouts and guides age below 12. <br>
-                                The registration fees is RM5. <br>
-                                We will post the design to vote at our Facebook Pages from 10/10/2020 to 15/10/2020. <br>
+                                The registration fees is MYR 5. <br>
+                                We will post the design to vote at our Facebook Pages from 10<sup>th</sup>, October 2020 to 15<sup>th</sup>, October 2020. <br>
 
             </p>
           </div>
@@ -626,7 +626,7 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SIZE OF THE DESIGN</h3>
                       <p class="futura"> ●	Your design must follow the PDF file we provided.
-                                        (we will provide the link for download the design template)
+                                        (We will provide the link for download the design template)<br>
                         <img class="img-fluid" style="border-radius: 50px;" src="assets/img/mask.jpg" alt=""> <br>
                                          ●  The size of your file (.png or .jpg) should be below 3Mb.
                       </p>
@@ -645,7 +645,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p class="futura"> ●	Create your own mask design.  Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered.</p>
+                      <p class="futura"> ●	Create your own mask design. Do not copy previous ideas as designs which contain copyright images, graphic elements from previous years or artwork coming from clip art will not be considered.</p>
                     </div>
                   </div>
                 </div>
@@ -664,15 +664,15 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura">  ● All face mask submissions must be in png or jpg format below 3Mb. <br>
-                                          (Follow the template that we provided) <br>
+                                            (Follow the template that we provided) <br>
                                           ● Photo with creator wearing the mask design. (Print out the template with design) <br>
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Need to submit the prove of the payment. <br>
                                           ● Judges decision will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                          <TROOPNAME_MASKDESIGN> <br>
+                                            "TROOPNAME_MASKDESIGN". <br>
                                           ● Provide a participants’ details which contains their names, age, country, email address & facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
-                                          <TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc>.<br>
+                                            "TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc". <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning.
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com <br>
                       </p>
@@ -693,8 +693,8 @@
           <h3 data-aos="fade-down">KIDS RECYCLE HANDICRAFT COMPETITION</h3>
           <div class="row col-lg-12">
             <p class="futura">  The contest is open to scouts and guides age below 12. <br>
-                                The registration fees is RM5. <br>
-                                We will post the design to vote at our Facebook Pages from 10/10/2020 to 15/10/2020. <br>
+                                The registration fees is MYR 5. <br>
+                                We will post the design to vote at our Facebook Pages from 10<sup>th</sup>, October 2020 to 15<sup>th</sup>, October 2020. <br>
             </p>
           </div>
 
@@ -728,7 +728,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>YOU MUST PREPARE</h3>
-                      <p class="futura">  ● The Title of the Recycle Handicraft. <br>
+                      <p class="futura">  ● The Title of the Recycle Handicraft <br>
                                           ● The Materials that you use (Recycle) <br>
                                           ● The Photo of the item (Top view, Site view, Front view, Back view, creator with the item) <br>
                                           ● The Video to explain the item (less than 1 minute) <br>
@@ -762,7 +762,7 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
                       <p class="futura"> ● The short video submitted must not contain any copyrighted work(s) belonging to any third parties unless, (1) Participants have a license to use such works in the video; or (2) the use participants’ video makes of such works is a fair one under the copyright laws. <br>
-                      ● However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason. <br>
+                      ● However if the video is taken down by Facebook due to copyright issues, the organizing committees will not bear responsibility for entries that are not received or posted for whatever reason. <br>
                       </p>
                     </div>
                   </div>
@@ -786,9 +786,9 @@
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Judges decision will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                          <TROOPNAME_HANDICRAFT>. <br>
+                                            "TROOPNAME_HANDICRAFT". <br>
                                           ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via	Google	Drive	with	file	name <br>
-                                          <TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc>. <br>
+                                            "TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc". <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning. <br>
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com
                       </p>
