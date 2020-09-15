@@ -12,6 +12,9 @@
   gtag('config', 'UA-177875132-1');
 </script>
 
+
+    <script data-ad-client="ca-pub-2432708023082860" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <meta charset="utf-8">
     <title>Joto - Joti 2020 | Welcome </title>
     <link rel="icon" href="../assets/img/2020.png">
