@@ -317,7 +317,8 @@ gtag('config', 'UA-177875132-1');
                                   </div>
 
                                   <small id="JustHelp" class="form-text text-muted">Enter Full Length Scout Troop Name</small>
-                                <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Scout Troop Names" name="postal_code" required = "required"></div>
+                                  <small id="JustHelp" class="form-text text-muted">Examples : Rover C GeorgeTown(South) , Penang</small>
+                                <div class="form-group"><input class="form-control form-control-user" type="text" placeholder="Scout Troop Names" name="postal_code" ></div>
 
                                 <label >Select Categories</label>
                                 <div class="form-check">
