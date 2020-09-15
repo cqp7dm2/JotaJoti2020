@@ -53,6 +53,7 @@
       <script>
         AOS.init();
       </script>
+      <?php include "footer.php"; ?>
 
 
   </body>
