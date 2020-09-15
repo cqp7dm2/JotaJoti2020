@@ -209,7 +209,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10. </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>
@@ -348,8 +350,9 @@
                 <div class="row">
                   <div class="col-lg-11 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
-                    <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                    </p>
+                    <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                      <h3>Payment Method For Malaysian</h3>
+                      <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                   </div>
                 </div>
               </div>
@@ -479,8 +482,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                      </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>
@@ -575,8 +579,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                      </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>
