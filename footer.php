@@ -51,6 +51,8 @@
                         <li><a href="challenges.php" style="font-size: 13px; color: #fff;">Challenges</a></li>
                         <li><a href="merchant.php" style="font-size: 13px; color: #fff;">Donation</a></li>
                         <li><a href="contactus.php" style="font-size: 13px; color: #fff;">Contact Us</a></li>
+                        <li><a href="/loginRegister/login.php" style="font-size: 13px; color: #fff;">Login</a></li>
+                        <li><a href="/loginRegister/register.php" style="font-size: 13px; color: #fff;">Register</a></li>
                       </ul>
                     </div>
                   </div>
