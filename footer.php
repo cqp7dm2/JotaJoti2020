@@ -78,9 +78,9 @@
               </div>
               <div class="row text-center py-5" style="color: #fff; font-size: 13px;">
                 <div class="col-12">
-                  Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:white" target="_blank">GTS Penang</a>
+                  Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:#9b59b6;" target="_blank">GTS Penang</a>
                   <hr>
-                  Designed and Developed by <a href="#" style="color:white" target="_blank">IT Team @ Jota Joti 2020</a>
+                  Designed and Developed by <a href="#" style="color:#9b59b6;" target="_blank">IT Team @ Jota Joti 2020</a>
                 </div>
               </div>
 
