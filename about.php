@@ -137,7 +137,7 @@
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">JOTA (Radio Station)</th>
-      <td><a href="#" style="color:black" target="_blank">Charlie Teoh theam Chye</a> <br> <a href="https://www.instagram.com/keanjynn/" style="color:black" target="_blank">Leonard Khor Kean Jynn</a> </td>
+      <td><a href="#" style="color:black" target="_blank">Charlie Teoh Theam Chye</a> <br> <a href="https://www.instagram.com/keanjynn/" style="color:black" target="_blank">Leonard Khor Kean Jynn</a> </td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Challenge Master</th>

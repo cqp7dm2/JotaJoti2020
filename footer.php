@@ -22,17 +22,23 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body>
 
 <footer class="footer py-4">
+  <script>
+    AOS.init();
+  </script>
           <div class="container">
               <div class="row align-items-center" style="color: #fff;">
                   <div class="col-lg-3 text-lg-left">
-                    <div class="row font-weight-bold pb-3" style="font-size: 30px"><a href="home.php" style="color:white">
+                    <div class="row font-weight-bold pb-3" data-aos="zoom-in" style="font-size: 30px"><a href="home.php" style="color:white">
                       Jota Joti 2020
                     </a></div>
-                    <div class="row" style="font-size: 15px;">
+                    <div class="row" data-aos="zoom-in" style="font-size: 15px;">
                       ORGANIZED BY <br> GEORGETOWN (SOUTH)
                     </div>
                     <div class="row pb-3">
@@ -76,7 +82,7 @@
                       <a class="btn btn-light btn-social mx-2" style="transition-duration: 0.6s" href="https://www.youtube.com/channel/UC3P9q6Zakt-olweYIC7OeMw?view_as=subscriber" target="_blank"><i class="fab fa-youtube"></i></a>
                   </div>
               </div>
-              <div class="row text-center py-5" style="color: #fff; font-size: 13px;">
+              <div class="row text-center py-5" data-aos="fade-up" style="color: #fff; font-size: 13px;">
                 <div class="col-12">
                   Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:#9b59b6;" target="_blank">GTS Penang</a>
                   <hr>
