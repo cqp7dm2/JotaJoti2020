@@ -33,7 +33,7 @@
                       Jota Joti 2020
                     </a></div>
                     <div class="row" style="font-size: 15px;">
-                      BY GEORGETOWN (SOUTH)
+                      ORGANIZED BY GEORGETOWN (SOUTH)
                     </div>
                     <div class="row pb-3">
 
