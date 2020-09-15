@@ -71,7 +71,7 @@
             new friends!</h2>
           <ul class="list-inline list-social" data-aos="slide-up">
             <li class="list-inline-item social-instagram">
-              <a href="https://www.instagram.com/georgetown_south_scout/?hl=en" target="_blank" style="transition-duration: 0.6s;">
+              <a href="https://www.instagram.com/jotajotipenang/" target="_blank" style="transition-duration: 0.6s;">
                 <i class="fab fa-instagram"></i>
               </a>
             </li>

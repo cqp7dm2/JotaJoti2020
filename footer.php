@@ -71,7 +71,7 @@
                     </div>
                   </div> -->
                   <div class="col-lg-3 my-3 my-lg-0">
-                      <a class="btn btn-light btn-social mx-2" style="transition-duration: 0.6s" href="https://www.instagram.com/georgetown_south_scout/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a>
+                      <a class="btn btn-light btn-social mx-2" style="transition-duration: 0.6s" href="https://www.instagram.com/jotajotipenang/" target="_blank"><i class="fab fa-instagram"></i></a>
                       <a class="btn btn-light btn-social mx-2" style="transition-duration: 0.6s" href="https://www.messenger.com/t/232000980145607" target="_blank"><i class="fab fa-facebook-f"></i></a>
                       <a class="btn btn-light btn-social mx-2" style="transition-duration: 0.6s" href="https://www.youtube.com/channel/UC3P9q6Zakt-olweYIC7OeMw?view_as=subscriber" target="_blank"><i class="fab fa-youtube"></i></a>
                   </div>
