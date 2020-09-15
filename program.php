@@ -90,7 +90,7 @@
       <main id="main">
 
 
-      <section id="features" class="features">
+      <section class="features" id="features-1">
         <div class="container">
           <br>
           <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program (13-18 years old)</h2>
@@ -209,7 +209,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10. </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>
@@ -224,7 +226,15 @@
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Dance Competition</h3>
-
+          <div class="row col-lg-12">
+            <p class="futura"> Dancing is a feeling expressed from the inside out. It is our hobby, our passion;
+              or even our career. We dance to express ourselves; we dance to feel free; we dance to relieve stress.
+              Dance moves define a generation. With this, bring out your most creative and fun dance choreographies!
+              All types of dance are welcome! From hip-hop, traditional cultural dances, K-pop, jazz to contemporary
+              choreography; we would love to see what you can bring to the table! Grab the chance, move your body
+              and join us now!
+            </p>
+          </div>
           <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
@@ -340,8 +350,9 @@
                 <div class="row">
                   <div class="col-lg-11 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
-                    <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                    </p>
+                    <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                      <h3>Payment Method For Malaysian</h3>
+                      <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                   </div>
                 </div>
               </div>
@@ -353,12 +364,18 @@
         </div>
 
 
-        <div class="container">
+        <div class="container" id="features-3">
           <br>
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Singing Competition</h3>
-
+          <div class="row col-lg-12">
+            <p class="futura"> There’s a song for every mood: happy, sad, angry or even scared.
+              Music paints our life to be colourful in the dullest moments. We are sure that music
+              has already blended to be a big part of your life, either singing in the bathroom
+              or making song covers in your bedroom. We need to hear your voice!
+            </p>
+          </div>
           <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
@@ -465,8 +482,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                      </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>
@@ -476,12 +494,20 @@
 
         </div>
 
-        <div class="container">
+        <div class="container" id="features-4">
           <br>
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Group Photo Competition, THEME: WHO AM I??</h3>
-
+          <div class="row col-lg-12">
+            <p class="futura"> We live in a world brimming with different cultural entities.
+              Each and every one of us has a different background, culture or tradition which
+              makes us antithetic from one another. Our cultural identity is what shapes us
+              into who we are. Let’s take this opportunity to ask yourself “WHO AM I?” and
+              proudly share with us your cultural identity by creating and submitting TWO
+              group photos with your dearest friends. Impress us with your best shot!
+            </p>
+          </div>
           <div class="row pt-3">
             <div class="col-lg-3">
               <ul class="nav nav-tabs flex-column">
@@ -553,8 +579,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10.
-                      </p>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysian</h3>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
                     </div>
                   </div>
                 </div>

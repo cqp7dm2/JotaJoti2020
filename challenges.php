@@ -54,7 +54,7 @@
                 <div class="tab-pane active show" id="tab-1">
                   <div class="row">
 
-                      <h3 data-aos="fade-right">Basic Requirement</h3>
+                      <h3 data-aos="fade-right">Basic Requirement / Information</h3>
                   </div>
                   <div class="row futura">
                       <p> 1) You need to have an email account to participate. <br>
@@ -70,15 +70,6 @@
                           11) Try your best to complete all and have fun. <br> <br> <br>
 
                       </p>
-                      <h3 data-aos="fade-right">Method of Operations</h3>
-                      <p> 1) Participants have to create a poster about ENVIRONMENTAL AWARENESS. <br>
-                          2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges</span> <br>
-                          3) Participants have to paste the URL of their posting on the google form prepared on the website for submission. <br>
-                          4) The size of the poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
-                          5) The poster must include the Logo of Jota-Joti 2020. <br>
-                          6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
-                          7) Sensitive contents such as sexual, violence, political, royalty, race, religion, etc, are prohibited. <br>
-                          8) Embezzlement of previous or existing designs/posters is prohibited.
                   </div>
                 </div>
                   </div>
@@ -110,14 +101,14 @@
                       <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-three mb-4 faa-wobble animated" style="color: #00a5c0;"></i>
                           <h3 class="h4 mb-2" href="week3">Week 3</h3>
-                          <p class="text-muted mb-0 futura">T-rex <br> Exchange JID </p>
+                          <p class="text-muted mb-0 futura">T-Rex <br> Exchange JID </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
                       <div class="mt-5">
                           <i class="fas fa-4x fa-dice-four mb-4 faa-wobble animated" style="color: #5c2f87;"></i>
                           <h3 class="h4 mb-2" href="week4">Week 4</h3>
-                          <p class="text-muted mb-0 futura">Find the Location <br> Online Chess </p>
+                          <p class="text-muted mb-0 futura">Virtual Expedition <br> Online Chess </p>
                       </div>
                   </div>
               </div>
@@ -205,7 +196,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-earth"></i>
-                <h4><a>Find the Location</a></h4>
+                <h4><a>Virtual Expedition</a></h4>
                 <p class="futura">
                   1) Participants required Google Earth to complete the challenge. <br>
                   2) The challenge is to answer the questions by searching the answers from browsing Google Earth. <br> <br>
@@ -215,7 +206,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-tasks-alt"></i>
-                <h4><a>Pac-man</a></h4>
+                <h4><a>Pac-Man</a></h4>
                 <p class="futura">
                   1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                   2) Leader board is shown for competitive spirits. <br>
@@ -234,7 +225,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-earth"></i>
-                <h4><a>T-rex</a></h4>
+                <h4><a>T-Rex</a></h4>
                 <p class="futura">
                   1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                   2) Leader board is shown for competitive spirits. <br>
