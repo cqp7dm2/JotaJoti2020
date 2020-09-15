@@ -66,7 +66,7 @@
                           7) Once you pass the challenge, a completion card for the particular challenge will be sent to you via email. <br>
                           8) All 8 completion cards are required to receive a certificate. <br>
                           9) Once 8 completion cards are collected, submit them via google form provided to earn your certificate. <br>
-                          10) The TOP 10 fastest to submit all 8 completion cards will get to win our JOTA-JOTI badge. (Note: There are 2 TOP 10 winners which are TOP 10 scouts/guides aged below 12 and TOP 10 scouts/guides aged above12) <br>
+                          10) The TOP 10 fastest to submit all 8 completion cards will get to win our JOTA-JOTI badge. <br>(Note: There are 2 TOP 10 winners which are TOP 10 scouts/guides aged below 12 and TOP 10 scouts/guides aged above 12) <br>
                           11) Try your best to complete all and have fun. <br> <br> <br>
 
                       </p>

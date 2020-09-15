@@ -40,21 +40,13 @@
         <div class="masthead-heading mb-3 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">Donation</div>
         <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Coming Soon...</div>
         <br><br><br>
-        <!--Text Typing Animation-->
-        <!--<div class="masthead-heading text-uppercase text-typing">It's Nice To Meet You</div>-->
-
-        <!--GIF text-->
-        <!--<div class="masthead-heading text-uppercase title-text"><h1>It's Nice<br>To Meet You</h1></div>-->
-        <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a> -->
       </div>
     </header>
-    <section style="background-color:#fff;"> <!--#D9514EFF-->
-    <div class="container">
       <script>
         AOS.init();
       </script>
-      
 
+      <?php include "footer.php"; ?>
 
   </body>
 </html>

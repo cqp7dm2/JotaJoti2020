@@ -210,10 +210,10 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
-                        <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
                         <h3>Payment Method For International </h3>
-                        <p>Paypal <br> mark@scout.my </p>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -353,10 +353,10 @@
                   <div class="col-lg-11 details order-2 order-lg-1">
                     <h3>COMPETITION FEES</h3>
                     <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
-                      <h3>Payment Method For Malaysian</h3>
-                      <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                      <h3>Payment Method For Malaysians</h3>
+                      <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
                       <h3>Payment Method For International </h3>
-                      <p>Paypal <br> mark@scout.my </p>
+                      <p class="futura">Paypal <br> mark@scout.my </p>
                   </div>
                 </div>
               </div>
@@ -487,10 +487,10 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
-                        <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
                         <h3>Payment Method For International </h3>
-                        <p>Paypal <br> mark@scout.my </p>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -586,10 +586,10 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
-                        <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
                         <h3>Payment Method For International </h3>
-                        <p>Paypal <br> mark@scout.my </p>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -706,7 +706,7 @@
                                           ● Judges decision will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
                                             "TROOPNAME_MASKDESIGN". <br>
-                                          ● Provide a participants’ details which contains their names, age, country, email address & facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
+                                          ● Provide a participants’ details which contains their names, age, country, email address & Facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
                                             "TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc". <br>
                                           ● Kindly contact the in-charge person of particular competition for questioning.
                                           Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com <br>
