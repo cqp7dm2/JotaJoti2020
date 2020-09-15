@@ -605,7 +605,7 @@
                   <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">SUBMISSION</a>
                 </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
+              <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a> -->
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -720,7 +720,7 @@
                   <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">SUBMISSION</a>
                 </li>
               </ul>
-              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a>
+              <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a> -->
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
