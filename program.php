@@ -211,7 +211,9 @@
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
                         <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p>Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -352,7 +354,9 @@
                     <h3>COMPETITION FEES</h3>
                     <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
                       <h3>Payment Method For Malaysian</h3>
-                      <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
+                      <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                      <h3>Payment Method For International </h3>
+                      <p>Paypal <br> mark@scout.my </p>
                   </div>
                 </div>
               </div>
@@ -484,7 +488,9 @@
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
                         <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p>Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -581,7 +587,9 @@
                       <h3>COMPETITION FEES</h3>
                       <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
                         <h3>Payment Method For Malaysian</h3>
-                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 </p>
+                        <p>Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p>Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
