@@ -67,7 +67,7 @@
                           8) All 8 completion cards are required to receive a certificate. <br>
                           9) Once 8 completion cards are collected, submit them via google form provided to earn your certificate. <br>
                           10) The TOP 10 fastest to submit all 8 completion cards will get to win our JOTA-JOTI badge. (Note: There are 2 TOP 10 winners which are TOP 10 scouts/guides aged below 12 and TOP 10 scouts/guides aged above12) <br>
-                          11) Try your best to complete all and have fun. 
+                          11) Try your best to complete all and have fun. <br> <br> <br>
 
                       </p>
                   </div>
@@ -132,9 +132,8 @@
                 <h4><a>Poster Challenge</a></h4>
                 <p class="futura">
                   1) Participants have to create a poster about ENVIRONMENTAL AWARENESS. <br>
-                  2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges </span>  (Note: remember to set the post to PUBLIC so that everyone can see it!)
-                  <br>
-                  3) Participants have to submit the poster and paste the URL link of their posting on the google form prepared on the website. <br>
+                  2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges</span> <br>
+                  3) Participants have to paste the URL of their posting on the google form prepared on the website for submission. <br>
                   4) The size of the poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
                   5) The poster must include the Logo of Jota-Joti 2020. <br>
                   6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
@@ -170,7 +169,7 @@
                   1) Morse Codes are presented to participants <br>
                   2) Participants are required to listen to the sound recording of the Morse Code and choose the correct translation from the options. <br>
                   3) As for Phonetics Alphabets, questions/statements are given in phonetics alphabets, participants have to answer or translate into words. <br>
-                  4) All questions are to be answered. <br>
+                  4) All questions are to answered. <br>
                   5) Total questions are 20 in total. <br> <br> <br>
                 </p>
               </div>
