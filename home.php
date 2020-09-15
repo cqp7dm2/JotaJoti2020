@@ -158,7 +158,7 @@
                 </div>
               </div>
               <br>
-              <center>Produced and Shooting by <a href="team2.php2" style="color:black" target="_blank">Marketing Team @ Jota Joti 2020</a></center>
+              <h2 class="section-heading text-center" data-aos="zoom-in" style="font-size: 18px;">Produced and Shooting by <a href="#" style="color:#5c2f87;" target="_blank">Marketing Team @ Jota Joti 2020</a></h2>
             <br> <br> <br> <br> <br>
 
 
