@@ -2,6 +2,6 @@
   SESSION_start();
   SESSION_unset();
   SESSION_destroy();
-  header("Location:/login.php");
+  header("Location:/loginRegister/login.php");
   exit();
  ?>
