@@ -75,20 +75,19 @@ SESSION_start();
                               <h3 data-aos="fade-right">Basic Requirement</h3>
                           </div>
                           <div class="row futura">
-                              <p> 1)	Participants need to have an e-mail account to participants. <br>
-                                  2)	All the games and challenges are published in our Jota-Joti website. <br>
-                                  3)	Computer, Laptop, Mobile Phone or any digital devices that are able to access the internet are required. <br>
-                                  4)	Online submission & posting statue in Facebook is required.  <br> <br> <br>
+                              <p> 1) You need to have an email account to participate. <br>
+                                  2) You are required to register at the web page before entering any challenges. <br>
+                                  3) Computer, Laptop, Mobile Phone, or any digital devices that are able to access the internet are needed to complete the challenges. <br>
+                                  4) 2 challenges will be updated every week for 4 weeks. There are 8 challenges in total. <br>
+                                  5) Once the challenge is published, you have at most 2 weeks to complete and submit via google form that are attached in the respective challenge. <br>
+                                  6) After 2 weeks, the challenge will be closed. (eg. the 2 challenges published on the first week will be closed on the 3<sup>rd</sup> week) <br>
+                                  7) Once you pass the challenge, a completion card for the particular challenge will be sent to you via email. <br>
+                                  8) All 8 completion cards are required to receive a certificate. <br>
+                                  9) Once 8 completion cards are collected, submit them via google form provided to earn your certificate. <br>
+                                  10) The TOP 10 fastest to submit all 8 completion cards will get to win our JOTA-JOTI badge. (Note: There are 2 TOP 10 winners which are TOP 10 scouts/guides aged below 12 and TOP 10 scouts/guides aged above12) <br>
+                                  11) Try your best to complete all and have fun.
                               </p>
-                              <h3 data-aos="fade-right">Method of Operations</h3>
-                              <p> 1)	2 tasks OR games per week, total of 4 weeks. (8 tasks in total) <br>
-                                  2)	Tasks are to upload at the first day of the week.  <br>
-                                  3)	Completion card is to send to participants once they submit the tasks. <br>
-                                  4)	1<sup>st</sup> week starts on the registration date. (15<sup>th</sup> Sept) <br>
-                                  5)	Requirement of tasks included social media uploading and answering through online. <br>
-                                  6)	The tasks must be completed within two weeks once they are uploaded. (eg. The 1<sup>st</sup> week’s tasks are removed at the 3<sup>rd</sup> week)
-                              </p>
-
+                            
                           </div>
                         </div>
                           </div>
