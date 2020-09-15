@@ -110,7 +110,7 @@
                       <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-three mb-4 faa-wobble animated" style="color: #00a5c0;"></i>
                           <h3 class="h4 mb-2" href="week3">Week 3</h3>
-                          <p class="text-muted mb-0 futura">T-rex <br> Exchange JID </p>
+                          <p class="text-muted mb-0 futura">T-Rex <br> Exchange JID </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
@@ -215,7 +215,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-tasks-alt"></i>
-                <h4><a>Pac-man</a></h4>
+                <h4><a>Pac-Man</a></h4>
                 <p class="futura">
                   1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                   2) Leader board is shown for competitive spirits. <br>
@@ -234,7 +234,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-earth"></i>
-                <h4><a>T-rex</a></h4>
+                <h4><a>T-Rex</a></h4>
                 <p class="futura">
                   1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                   2) Leader board is shown for competitive spirits. <br>

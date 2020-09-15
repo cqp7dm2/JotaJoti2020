@@ -90,7 +90,7 @@
       <main id="main">
 
 
-      <section id="features" class="features">
+      <section class="features" id="features-1">
         <div class="container">
           <br>
           <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program (13-18 years old)</h2>
@@ -361,7 +361,7 @@
         </div>
 
 
-        <div class="container">
+        <div class="container" id="features-3">
           <br>
           <hr class="divider my-4">
           <br>
@@ -490,7 +490,7 @@
 
         </div>
 
-        <div class="container">
+        <div class="container" id="features-4">
           <br>
           <hr class="divider my-4">
           <br>
