@@ -13,7 +13,7 @@
 </script>
 
     <meta charset="utf-8">
-    <title>Joto - Joti 2020 | Welcome </title>
+    <title>Jota-Joti 2020 | Welcome </title>
     <link rel="icon" href="../assets/img/2020.png">
     <link rel="stylesheet" href="hello.css">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">

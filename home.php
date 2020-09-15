@@ -59,7 +59,7 @@
         </div>
         <div class="row pt-4">
           <div class="col-lg-12 text-center" data-aos="zoom-in">
-            <h2 class="section-heading" style="font-size: 45px;">Jota Joti 2020<br>By Georgetown (South)</h2>
+            <h2 class="section-heading" style="font-size: 45px;">Jota Joti 2020<br>Organized By Georgetown (South)</h2>
           </div>
         </div>
       </div>
@@ -157,6 +157,8 @@
                   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F465629627727051%2F&show_text=1&width=560" width="1120" height="630" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
                 </div>
               </div>
+              <br>
+              <h2 class="section-heading text-center" data-aos="zoom-in" style="font-size: 18px;">Produced and Shooting by <a href="#" style="color:#5c2f87;" target="_blank">Marketing Team @ Jota Joti 2020</a></h2>
             <br> <br> <br> <br> <br>
 
 
@@ -240,53 +242,6 @@
           </div>
         </section>
 
-        <!-- <section class="page-section" id="about">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Logo History</h2>
-                    <h3 class="section-subheading text-muted">2017-2020</h3>
-                </div>
-                <ul class="timeline">
-                    <li data-aos="fade-right">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2017.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted" data-aos="fade-left">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2018.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                            </div>
-                    </li>
-                    <li data-aos="fade-right">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2019.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                            </div>
-                    </li>
-                    <li class="timeline-inverted" data-aos="fade-left">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/2020.png" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted" data-aos="fade-right">
-                        <div class="timeline-image">
-                            <h4>
-                                Be Part
-                                <br />
-                                Of Our
-                                <br />
-                                Story!
-                            </h4>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </section> -->
 
         <?php include "footer.php"; ?>
 

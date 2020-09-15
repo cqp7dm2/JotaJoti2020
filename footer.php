@@ -33,7 +33,7 @@
                       Jota Joti 2020
                     </a></div>
                     <div class="row" style="font-size: 15px;">
-                      BY GEORGETOWN (SOUTH)
+                      ORGANIZED BY <br> GEORGETOWN (SOUTH)
                     </div>
                     <div class="row pb-3">
 
@@ -51,6 +51,8 @@
                         <li><a href="challenges.php" style="font-size: 13px; color: #fff;">Challenges</a></li>
                         <li><a href="merchant.php" style="font-size: 13px; color: #fff;">Donation</a></li>
                         <li><a href="contactus.php" style="font-size: 13px; color: #fff;">Contact Us</a></li>
+                        <li><a href="/loginRegister/login.php" style="font-size: 13px; color: #fff;">Login</a></li>
+                        <li><a href="/loginRegister/register.php" style="font-size: 13px; color: #fff;">Register</a></li>
                       </ul>
                     </div>
                   </div>
@@ -76,9 +78,9 @@
               </div>
               <div class="row text-center py-5" style="color: #fff; font-size: 13px;">
                 <div class="col-12">
-                  Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:white" target="_blank">GTS Penang</a>
+                  Copyright © Jota Joti 2020, All rights reserved | Powered by <a href="https://www.scout.my/" style="color:#9b59b6;" target="_blank">GTS Penang</a>
                   <hr>
-                  Designed and Developed by <a href="#" style="color:white" target="_blank">IT Team @ Jota Joti 2020</a>
+                  Designed and Developed by <a href="#" style="color:#9b59b6;" target="_blank">IT Team @ Jota Joti 2020</a>
                 </div>
               </div>
 
