@@ -112,13 +112,14 @@ SESSION_start();
                                    <div class="col-lg-10 details order-2 order-lg-1">
                                      <h3>RULES AND RUGULATIONS</h3>
                                      <p><br>
-                                       1)	The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of #JJ2020PG & #PosterChallege.<br>
-                                       2)	The URL of the posting have to place it into the google form prepared in the website for submission.<br>
-                                       3)	The size of poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels)<br>
-                                       4)	The poster must include the Logo of Jota-Joti 2020.<br>
-                                       5)	Method of creating the poster is not limited. (Hand drawing/Online editing)<br>
-                                       6)	Sensitive contents such as sexual, violence, political, royalty, race, religion, etc, are prohibited.<br>
-                                       7)	Embezzlement of previous or existing designs/posters is prohibited. <br>
+                                       1) Participants have to create a poster about ENVIRONMENTAL AWARENESS. <br>
+                                       2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges </span> (Note: remember to set the post to PUBLIC so that everyone can see it!)<br>
+                                       3) 3) Participants have to submit the poster and paste the URL link of their posting on the google form prepared on the website. <br>
+                                       4) The size of the poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
+                                       5) The poster must include the Logo of Jota-Joti 2020. <br>
+                                       6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
+                                       7) Sensitive contents such as sexual, violence, political, royalty, race, religion, etc, are prohibited. <br>
+                                       8) Embezzlement of previous or existing designs/posters is prohibited. <br>
                                      </p>
                                    </div>
                                  </div>

@@ -132,13 +132,13 @@
                 <h4><a>Poster Challenge</a></h4>
                 <p class="futura">
                   1) Participants have to create a poster about ENVIRONMENTAL AWARENESS. <br>
-                  2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges</span> <br>
-                  3) Participants have to paste the URL of their posting on the google form prepared on the website for submission. <br>
+                  2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges </span> (Note: remember to set the post to PUBLIC so that everyone can see it!)<br>
+                  3) 3) Participants have to submit the poster and paste the URL link of their posting on the google form prepared on the website. <br>
                   4) The size of the poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
                   5) The poster must include the Logo of Jota-Joti 2020. <br>
                   6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
                   7) Sensitive contents such as sexual, violence, political, royalty, race, religion, etc, are prohibited. <br>
-                  8) Embezzlement of previous or existing designs/posters is prohibited. <br>
+                  8) Embezzlement of previous or existing designs/posters is prohibited. <br> <br>
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
@@ -169,7 +169,7 @@
                   1) Morse Codes are presented to participants <br>
                   2) Participants are required to listen to the sound recording of the Morse Code and choose the correct translation from the options. <br>
                   3) As for Phonetics Alphabets, questions/statements are given in phonetics alphabets, participants have to answer or translate into words. <br>
-                  4) All questions are to answered. <br>
+                  4) All questions are to be answered. <br>
                   5) Total questions are 20 in total. <br> <br> <br>
                 </p>
               </div>
