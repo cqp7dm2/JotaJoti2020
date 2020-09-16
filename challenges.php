@@ -138,7 +138,7 @@
                   5) The poster must include the Logo of Jota-Joti 2020. <br>
                   6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
                   7) Sensitive contents such as sexual, violence, political, royalty, race, religion, etc, are prohibited. <br>
-                  8) Embezzlement of previous or existing designs/posters is prohibited. <br> <br>
+                  8) Embezzlement of previous or existing designs/posters is prohibited.
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
@@ -149,7 +149,7 @@
                   2) The questions are automatically shuffled for participants. <br>
                   3) Participants have to answer all questions <br>
                   4) A minimum of 10 corrects are required to pass the challenge. <br>
-                  5) No time limit and searching answer from the internet is allowed. <br> <br> <br> <br> <br> <br> <br> <br> <br>
+                  5) No time limit and searching answer from the internet is allowed. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
                 </p>
               </div>
             </div>
