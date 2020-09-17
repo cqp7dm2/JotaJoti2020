@@ -133,7 +133,7 @@
                 <p class="futura">
                   1) Participants have to create a poster about ENVIRONMENTAL AWARENESS. <br>
                   2) The completed poster is required to post on participant’s Facebook statues with some captions and the hashtag of <span style="color:#fab800;">#JJ2020PG</span> & <span style="color:#fab800;">#PosterChallenges </span> (Note: remember to set the post to PUBLIC so that everyone can see it!)<br>
-                  3) 3) Participants have to submit the poster and paste the URL link of their posting on the google form prepared on the website. <br>
+                  3) Participants have to submit the poster and paste the URL link of their posting on the google form prepared on the website. <br>
                   4) The size of the poster is not limited, as long as the whole picture can be shown clear and tidy. (recommended 940 x 788 pixels, 1080 x 1080 pixels, 1200 x 1500 pixels) <br>
                   5) The poster must include the Logo of Jota-Joti 2020. <br>
                   6) Method of creating the poster is not limited. (Hand drawing/Online editing) <br>
