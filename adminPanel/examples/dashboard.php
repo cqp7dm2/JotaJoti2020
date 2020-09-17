@@ -34,6 +34,46 @@ include "connection.php";
       <div class="content">
         <div class="container-fluid">
           <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="card card-stats">
+                <div class="card-header card-header-info card-header-icon">
+                  <div class="card-icon">
+                    <i class="material-icons">person</i>
+                  </div>
+                  <p class="card-category">Total Members</p>
+                  <?php
+                    $res = mysqli_query($link, "select * from user");
+                    $count = mysqli_num_rows($res);
+                    echo '<h3 class="card-title">'; echo $count." members"; echo "</h3>";
+                   ?>
+                </div>
+                <div class="card-footer">
+                  <div class="stats">
+                    <i class="material-icons">update</i> total members for Jota Joti 2020
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="card card-stats">
+                <div class="card-header card-header-info card-header-icon">
+                  <div class="card-icon">
+                    <i class="material-icons">person</i>
+                  </div>
+                  <p class="card-category">Total Admin</p>
+                  <?php
+                    $res = mysqli_query($link, "select * from admin");
+                    $count = mysqli_num_rows($res);
+                    echo '<h3 class="card-title">'; echo $count." admins"; echo "</h3>";
+                   ?>
+                </div>
+                <div class="card-footer">
+                  <div class="stats">
+                    <i class="material-icons">update</i> total admin for Jota Joti 2020
+                  </div>
+                </div>
+              </div>
+            </div>
             <div class="col-lg-12">
               <div class="card">
                 <div class="card-header card-header-warning">
@@ -70,6 +110,8 @@ include "connection.php";
                           echo "<td>"; echo $row["admin_dob"]; echo "</td>";
                         echo "</tr>";
                       }
+                      $count = mysqli_num_rows($res);
+                      echo $count." records of admin";
                        ?>
                     </tbody>
                   </table>
@@ -117,6 +159,8 @@ include "connection.php";
                               echo "<td>"; echo $row["user_cat"]; echo "</td>";
                             echo "</tr>";
                           }
+                          $count = mysqli_num_rows($res);
+                          echo $count." records of members";
                       ?>
                     </tbody>
                   </table>
