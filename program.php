@@ -179,7 +179,7 @@
                       <p class="futura"> ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
                           (a) Participants have a license to use such works in the Film; or <br>
                           (b) the use participants’ Film makes of such works is a fair one under the copyright laws.<br>
-                          ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason <br><br>
+                          ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason. <br><br>
                       </p>
                     </div>
                   </div>
@@ -198,9 +198,9 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
-                          ●	Judges decision will be final and binding<br>
-                          ●	Submissions should be done via Google Drive with file name "TROOPNAME_SHORTFILM"<br>
-                          ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
+                          ●	Judges' decisions will be final and binding<br>
+                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_SHORTFILM".<br>
+                          ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
                       </p>
                     </div>
                   </div>
@@ -295,12 +295,11 @@
                       <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning.
                         Facebook URL: https://www.facebook.com/poh.zi.jun.13356/ OR Email: nickjun2000@gmail.com .<br>
                           ●	All registered participants must appear in video throughout the dance.<br>
-                          ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, etc.).<br>
+                          ●	Choreography may be street dance styles (commercial choreography, hip-hop, locking, popping, waacking, dancehall, krumping, house, traditional, jazz ballet etc.).<br>
                           ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
                           ●	Coach, teacher, choreographer or any other very experienced dancer are not allowed to participate in the competition.<br>
                           ●	Each crew can have more than one (1) submission per video. It is allowed for the same participant to participate in two (2) or more videos.<br>
-                          ●	Attire may include accessories such as hats, caps, gloves, scarves, jewellery, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character.
-                          Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed. Tap shoes, jazz shoes, high-heeled shoes and bare feet are prohibited. <br><br>
+                          ●	Attire may include accessories such as hats, caps, gloves, scarves, jewellery, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character. Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed.<br><br>
                       </p>
                     </div>
                   </div>
@@ -320,7 +319,9 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COPYRIGHT</h3>
-                      <p class="futura"> ●	The video submitted must not contain any copyrighted work(s) belonging to any third parties unless, (1) Participants have a license to use such works in the Video; or (2) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
+                      <p class="futura"> ●	The video submitted must not contain any copyrighted work(s) belonging to any third parties unless, <br>
+                        (a) Participants have a license to use such works in the Video; or <br>
+                        (b) the use participants’ Video makes of such works is a fair one under the copyright laws.<br>
                           ●	 However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason.</p>
                     </div>
                   </div>
@@ -329,7 +330,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020.<br>
+                      <p class="futura"> ●	The deadline for submission of video is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020.<br>
                           ●	Videos received after this deadline will not be viewed or rated by the judging panel.<br><br></p>
                     </div>
                   </div>
@@ -340,9 +341,9 @@
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
-                          ●	Judges decision will be final and binding.<br>
-                          ●	Submissions should be done via Google Drive with file name "CREWNAME_DANCE".<br>
-                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "CREW_PARTICIPANT_DETAILS.doc".<br>
+                          ●	Judges' decisions will be final and binding.<br>
+                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_DANCE".<br>
+                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_DANCE_PARTICIPANT_DETAILS.doc".<br>
                       </p>
                     </div>
                   </div>
@@ -475,9 +476,9 @@
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
                           ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges’ decisions will be final and binding.<br>
-                          ●	Submissions should be done via Google Drive with file name "TROOPNAME_SONG".<br>
-                          ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_INFO.doc".<br>
-                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "TROOPNAME_SONG_PARTICIPANT_DETAILS.doc".<br>
+                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_SING".<br>
+                          ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_DETAILS.doc".<br>
+                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_PARTICIPANT_DETAILS.doc".<br>
                       </p>
                     </div>
                   </div>
@@ -541,7 +542,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>NUMBER OF PARTICIPANTS (size of the teams)</h3>
-                      <p class="futura">5-20 members</p>
+                      <p class="futura">5-20 members.</p>
                     </div>
                   </div>
                 </div>
@@ -549,7 +550,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for any enquiries. Facebook URL: www.facebook.com/huishien99/ |  Email: huishienchong@gmail.com.<br>
+                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for any enquiries. Facebook URL: www.facebook.com/huishien99/ OR Email: huishienchong@gmail.com.<br>
                           ●	Each team has to submit 2 FUNNY & CREATIVE group photos of the team related to the theme “MY CULTURAL IDENTITY” along with one CREATIVE photo caption for each photo submitted.<br>
                           ●	Participants are allowed to wear whatever costume they want, as long as the costumes are appropriate. Anyway, participants are encouraged to wear a scout scarf in the group photos.<br>
                           ●	Photos resolution required : 1920*768, minimum 300 dpi.<br>
@@ -575,8 +576,8 @@
                       <p class="futura"> ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
                           ●	Judges’ decisions will be final and binding.<br>
                           ●	Submissions that violate the competition rules will be disqualified.<br>
-                          ●	Submissions should be done via Google Drive with file name "TEAMNAME-GPC-P1" for photo 1 and "TEAMNAME-GPC-P2" for photo 2.<br>
-                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per submission and submit via Google Drive with file name "TROOPNAME_GPC_PARTICIPANT_DETAILS.doc".<br>
+                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER-GPC-P1" for photo 1 and "REFERENCE NUMBER-GPC-P2" for photo 2.<br>
+                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per submission and submit via Google Drive with file name "REFERENCE NUMBER_GPC_PARTICIPANT_DETAILS.doc".<br>
                       </p>
                     </div>
                   </div>
@@ -703,7 +704,7 @@
                                           ● Photo with creator wearing the mask design. (Print out the template with design) <br>
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Need to submit the prove of the payment. <br>
-                                          ● Judges decision will be final and binding. <br>
+                                          ● Judges' decisions will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
                                             "TROOPNAME_MASKDESIGN". <br>
                                           ● Provide a participants’ details which contains their names, age, country, email address & Facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
@@ -819,7 +820,7 @@
                       <p class="futura">  ● All video submissions must be in MP4 format, minimum 720p, fps 24hz. <br>
                                           ● All Photo submissions must be in png or jpg format total space below 3Mb. <br>
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
-                                          ● Judges decision will be final and binding. <br>
+                                          ● Judges' decisions will be final and binding. <br>
                                           ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
                                             "TROOPNAME_HANDICRAFT". <br>
                                           ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via	Google	Drive	with	file	name <br>
