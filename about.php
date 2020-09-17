@@ -138,8 +138,8 @@
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Challenge Master</th>
-      <td><a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a></td><a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a> <br> <a href="https://www.instagram.com/khaiming1018/" style="color:black" target="_blank">Lee Khai Ming </a> <br>
-         <a href="https://www.instagram.com/khai_onn/" style="color:black" target="_blank">Lee Khai Onn </a> <br> <a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a>
+      <td><a href="https://www.instagram.com/limwanhao/" style="color:black" target="_blank">Lim Wan Hao </a><br> <a href="https://www.instagram.com/khaiming1018/" style="color:black" target="_blank">Lee Khai Ming </a> <br>
+         <a href="https://www.instagram.com/khai_onn/" style="color:black" target="_blank">Lee Khai Onn </a> <br> <a href="https://www.instagram.com/cyming_cy/" style="color:black" target="_blank">Chan Yaou Ming</a></td>
     </tr>
     <tr data-aos="fade-up">
       <th scope="row">Media and Publicity</th>
