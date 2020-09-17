@@ -80,9 +80,6 @@
       </div>
     </section>
 
-
-
-
     <section class="page-section bg-light" id="team">
       <div class="container">
         <h2 class="section-heading text-uppercase"  data-aos="flip-up" style="font-size: 60px">Our Committee</h2>
