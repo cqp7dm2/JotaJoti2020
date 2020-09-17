@@ -555,7 +555,7 @@
                           ●	Photos resolution required : 1920*768, minimum 300 dpi.<br>
                           ●	Photo collage, photo editing, and any other reasonable and appropriate visual effects can be used in the photos submitted.<br>
                           ●	All group photos submitted will be filtered then posted on our official Facebook page and Instagram Account to compete for the MOST POPULAR AWARD.<br>
-                          ●	Content that reveal nudity, hate speech, any sensitive issues (eg: Religions, Races, Skin, Colours, Sexual Preferences, Political Subjects), Violence or any other inappropriate subject are not allowed.<br><br>
+                          ●	Content that reveals nudity, hate speech, any sensitive issues (eg: Religions, Races, Skin, Colours, Sexual Preferences, Political Subjects), Violence or any other inappropriate subject are not allowed.<br><br>
                     </div>
                   </div>
                 </div>
@@ -563,7 +563,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
-                      <p class="futura">The deadline for submission of songs is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
+                      <p class="futura">The deadline for submission of group photos is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020. Submissions received after this deadline will not be reviewed or rated by the judging panel.<br><br>
                       </p>
                     </div>
                   </div>
@@ -585,7 +585,7 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>COMPETITION FEES</h3>
-                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                      <p class="futura">Each 2 photo submissions will be charged at a fee of MYR 10.<br> <br> </p>
                         <h3>Payment Method For Malaysians</h3>
                         <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
                         <h3>Payment Method For International </h3>
