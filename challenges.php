@@ -94,21 +94,21 @@
                       <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-two mb-4 faa-wobble animated" style="color: #fab800;"></i>
                           <h3 class="h4 mb-2" href="week2">Week 2</h3>
-                          <p class="text-muted mb-0 futura">Pac-Man <br> Morse Code & Phonetic </p>
+                          <p class="text-muted mb-0 futura">Morse Code & Phonetic<br> Exchange JID </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
                       <div class="mt-5" >
                           <i class="fas fa-4x fa-dice-three mb-4 faa-wobble animated" style="color: #00a5c0;"></i>
                           <h3 class="h4 mb-2" href="week3">Week 3</h3>
-                          <p class="text-muted mb-0 futura">T-Rex <br> Exchange JID </p>
+                          <p class="text-muted mb-0 futura">Virtual Expedition <br> Pac-Man </p>
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6 text-center">
                       <div class="mt-5">
                           <i class="fas fa-4x fa-dice-four mb-4 faa-wobble animated" style="color: #5c2f87;"></i>
                           <h3 class="h4 mb-2" href="week4">Week 4</h3>
-                          <p class="text-muted mb-0 futura">Virtual Expedition <br> Online Chess </p>
+                          <p class="text-muted mb-0 futura">T-Rex <br> Online Chess </p>
                       </div>
                   </div>
               </div>
