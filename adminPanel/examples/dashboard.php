@@ -36,7 +36,7 @@ include "connection.php";
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
               <div class="card card-stats">
-                <div class="card-header card-header-info card-header-icon">
+                <div class="card-header card-header-success card-header-icon">
                   <div class="card-icon">
                     <i class="material-icons">person</i>
                   </div>
@@ -56,7 +56,7 @@ include "connection.php";
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
               <div class="card card-stats">
-                <div class="card-header card-header-info card-header-icon">
+                <div class="card-header card-header-warning card-header-icon">
                   <div class="card-icon">
                     <i class="material-icons">person</i>
                   </div>
