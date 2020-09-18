@@ -642,8 +642,11 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">SUBMISSION</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-7" target="_blank">REGISTRATION FEE</a>
+                </li>
               </ul>
-              <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a> -->
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSdaafpy6li2lnPJaayLmsKfrW7mT7HLjnwLZxvjrjpUDa0Ksg/viewform" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -707,13 +710,19 @@
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Need to submit the prove of the payment. <br>
                                           ● Judges' decisions will be final and binding. <br>
-                                          ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_MASKDESIGN". <br>
-                                          ● Provide a participants’ details which contains their names, age, country, email address & Facebook account name in ONE Microsoft Word document per badge design submission and submit via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_BADGEDESIGN_PARTICIPANT_DETAILS.doc". <br>
-                                          ● Kindly contact the in-charge person of particular competition for questioning.
-                                          Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com <br>
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-7">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>REGISTRATION FEES</h3>
+                      <p class="futura">The registration fee is MYR 5.<br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
@@ -757,8 +766,11 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">SUBMISSION</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-7" target="_blank">REGISTRATION FEE</a>
+                </li>
               </ul>
-              <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Register now</a> -->
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSfnRtoDL8QHXAcm81CUggjph-H4qq9Zg6iNdVX2yZh70zVyhg/viewform" target="_blank">Register now</a>
             </div>
             <div class="col-lg-9 mt-4 mt-lg-0">
               <div class="tab-content">
@@ -823,13 +835,19 @@
                                           ● All Photo submissions must be in png or jpg format total space below 3Mb. <br>
                                           ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                                           ● Judges' decisions will be final and binding. <br>
-                                          ● Submissions	should	be	done	via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_HANDICRAFT". <br>
-                                          ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via	Google	Drive	with	file	name <br>
-                                            "TROOPNAME_RECYCLEHANDICRAFT_PARTICIPANT_DETAILS.doc". <br>
-                                          ● Kindly contact the in-charge person of particular competition for questioning. <br>
-                                          Facebook URL: https://www.facebook.com/edwinkungsinjin/ OR Email: kungsinjin@gmail.com
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-7">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>REGISTRATION FEES</h3>
+                      <p class="futura">The registration fee is MYR 5.<br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
                     </div>
                   </div>
                 </div>
