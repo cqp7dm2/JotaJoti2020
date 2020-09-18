@@ -2,6 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
 
+<script data-ad-client="ca-pub-2432708023082860" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
 <script>
