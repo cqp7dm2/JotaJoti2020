@@ -115,6 +115,10 @@
           </div>
       </section>
 
+      <!-- ...............................
+      Challenge Rules and Regulations
+      ............................... -->
+
       <section id="services" class="services">
         <div class="container">
           <h2 class="text-center mt-0" data-aos="fade-down">Rules and Regulations</h2>
@@ -123,6 +127,7 @@
           <div class="section-title" id = "week1">
             <br>
             <h2 data-aos="flip-up">Week 1</h2>
+            <h6 style="color:#c16868;">Due date - 29 September 2020</h6>
           </div>
 
           <div class="row">
@@ -158,6 +163,7 @@
             <div class="section-title" id = "week2">
               <br>
               <h2 data-aos="flip-up">Week 2</h2>
+              <h6 style="color:#c16868;">Due date - 6 October 2020</h6>
             </div>
 
             <div class="row">
@@ -190,6 +196,7 @@
           <div class="section-title" id = "week3">
             <br>
             <h2 data-aos="flip-up">Week 3</h2>
+            <h6 style="color:#c16868;">Due date - 13 October 2020</h6>
           </div>
 
           <div class="row">
@@ -219,6 +226,7 @@
           <div class="section-title" id = "week4">
             <br>
             <h2 data-aos="flip-up">Week 4</h2>
+            <h6 style="color:#c16868;">Due date - 20 October 2020</h6>
           </div>
 
           <div class="row">
