@@ -46,6 +46,27 @@
 
           <div class="row no-gutters">
             <div class="col-lg-6">
+              <a class="portfolioo-item"  href="#features-5" >
+                <div class="caption">
+                  <div class="caption-content">
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/Design.jpg" alt="" target="_blank">
+              </a>
+            </div>
+
+            <div class="col-lg-6">
+              <a class="portfolioo-item" href="#features-6">
+                <div class="caption">
+                  <div class="caption-content">
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/Handicraft.jpg" alt="" target="_blank">
+              </a>
+            </div>
+
+          <div class="row no-gutters">
+            <div class="col-lg-6">
               <a class="portfolioo-item"  href="#features-1" >
                 <div class="caption">
                   <div class="caption-content">
@@ -608,7 +629,7 @@
 
       <!-- Junior Program -->
 
-      <section id="features" class="features">
+      <section id="features-5" class="features">
         <div class="container">
           <h2 class="text-center mt-0" data-aos="fade-down">Cub Scout Program (Age below 12)</h2>
           <hr class="divider my-4">
@@ -733,7 +754,7 @@
         </div>
 
         <!-- second -->
-        <div class="container">
+        <div class="container" id="features-6">
           <br> <br>
           <hr class="divider my-4">
           <br> <br>

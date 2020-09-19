@@ -150,6 +150,14 @@
 
           </section>
 
+          <div class="container" id="services">
+            <h2 class="text-center mt-0" data-aos="fade-down">How to register?</h2>
+            <hr class="divider my-4" />
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F3333538683426000%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+              </div>
+            </div>
+            <br><br><br>
 
             <div class="container" id="services">
               <h2 class="text-center mt-0" data-aos="fade-down">Teaser Video!!</h2>
