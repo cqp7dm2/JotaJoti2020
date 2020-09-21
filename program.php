@@ -153,6 +153,9 @@
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#tab-7" target="_blank">SUBMISSION</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#tab-8" target="_blank">PRIZES</a>
+              </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#tab-9" target="_blank">COMPETITION FEES</a>
             </li>
@@ -221,10 +224,23 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
                       <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+                          ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
                           ●	Judges' decisions will be final and binding<br>
                           ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_SHORTFILM".<br>
                           ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-8">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">● Best Actor <br>
+                        ● Best Actress <br>
+                        ● Best Film <br>
+                        ● People’s Choice Award <br>
+                        ● E-cert will of participate and achievement will be provided <br>
                     </div>
                   </div>
                 </div>
@@ -252,12 +268,7 @@
           <br>
           <h3 data-aos="fade-down">Dance Competition</h3>
           <div class="row col-lg-12">
-            <p class="futura"> Dancing is a feeling expressed from the inside out. It is our hobby, our passion;
-              or even our career. We dance to express ourselves; we dance to feel free; we dance to relieve stress.
-              Dance moves define a generation. With this, bring out your most creative and fun dance choreographies!
-              All types of dance are welcome! From hip-hop, traditional cultural dances, K-pop, jazz to contemporary
-              choreography; we would love to see what you can bring to the table! Grab the chance, move your body
-              and join us now!
+            <p class="futura"> Dancing is a feeling expressed from the inside out. It is our hobby, our passion; or even our career. We dance to express ourselves; we dance to feel free; we dance to relieve stress. Dance moves define a generation. With this, bring out your most creative and fun dance choreographies! All types of dance are welcome! From hip-hop, traditional cultural dances, K-pop, jazz to contemporary choreography; we would love to see what you can bring to the table! Grab the chance, move your body and join us now!
             </p>
           </div>
           <div class="row pt-3">
@@ -285,6 +296,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#cap-7" target="_blank">SUBMISSION</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#cap-8" target="_blank">PRIZES</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#cap-9" target="_blank">COMPETITION FEES</a>
@@ -322,7 +336,7 @@
                           ●	Any safe props are allowed (no fire or pyrotechnics allowed under any circumstances).<br>
                           ●	Coach, teacher, choreographer or any other very experienced dancer are not allowed to participate in the competition.<br>
                           ●	Each crew can have more than one (1) submission per video. It is allowed for the same participant to participate in two (2) or more videos.<br>
-                          ●	Attire may include accessories such as hats, caps, gloves, scarves, jewellery, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character. Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed.<br><br>
+                          ●	Attire may include accessories such as hats, caps, gloves, scarves, jewelry, etc. Removing pieces of clothing during the performance is permitted provided it is not offensive or out of character. Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed. Tap shoes, jazz shoes, high-heeled shoes and bare feet are prohibited. <br><br>
                       </p>
                     </div>
                   </div>
@@ -367,11 +381,22 @@
                           ●	Judges' decisions will be final and binding.<br>
                           ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_DANCE".<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_DANCE_PARTICIPANT_DETAILS.doc".<br>
+                          ● Kindly send the Google Drive link to the email joinjota@scout.my and CC nickjun2000@gmail.com. <br>
                       </p>
                     </div>
                   </div>
                 </div>
-
+                <div class="tab-pane" id="cap-8">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">● Best dance crew award <br>
+                        ● Most creative dance crews <br>
+                        ● People's choice award <br>
+                        ● E-cert will of participate and achievement will be provided <br>
+                    </div>
+                  </div>
+                </div>
               <div class="tab-pane" id="cap-9">
                 <div class="row">
                   <div class="col-lg-11 details order-2 order-lg-1">
@@ -425,6 +450,9 @@
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#dab-6" target="_blank">SUBMISSION</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#dab-7" target="_blank">PRIZES</a>
+              </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#dab-8" target="_blank">COMPETITION FEES</a>
             </li>
@@ -454,20 +482,17 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>RULES</h3>
-                      <p class="futura"> ●	Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com.<br>
-                          ●	All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old.<br>
-                          ●	All registered participants which participate in singing competition must appear (show faces) in the video throughout singing.<br>
-                          ●	Musical instruments can be included in the song (if any), or non-musical instruments also can be used.<br>
-                          ●	No copyrighted or plagiarized material may be submitted. Such entries will be disqualified.<br>
-                          ●	The songs should not contain any of the following: profanity; vulgarity; obscene or pornographic content; hate or racist speech; disruptive or hostile remarks; threats of violence.<br>
-                          ●	Own mashup in one video is allowed (can perform more than one song but should not more than 5 minutes).<br>
-                          ●	Own acapella in one video is allowed (if acapella is included, participant(s) can choose either to use self-played piano as background music or not).<br>
-                          ●	Coach, teacher, or any other very experienced singers are not allowed to participate in the competition.<br>
-                          ●	If the judges suspect that participant(s) did any lip sync or did not sing by themselves, the organizer has the power to request participant(s)
-                          to record a short video of showing their face(s) singing OR record a short video of self-introduction to prove that they are not lip synced in the song.<br>
-                          ●	Each team can have more than one (1) submission per video. It is allowed for the same participants to participate in two (2) or more videos.
-                          Participants are not allowed to submit more than one (1) submission of video having the similar content. <br>
-                          ●	Participants must be dressed appropriately.</p>
+                      <p class="futura">● Kindly contact the in-charge person of particular competition for questioning. Facebook URL: https://www.facebook.com/darkchoceva/ OR Email: evateng0124@gmail.com. <br>
+                        ● All participants which take part in the singing competition must provide a copy of their personal ID to confirm their ages whether they are between 13 to 17 years old. <br>
+                        ● All registered participants which participate in singing competition must appear (show faces) in the video throughout singing. ● Musical instruments can be included in the song (if any), or non-musical instruments also can be used. <br>
+                        ● No copyrighted or plagiarized material may be submitted. Such entries will be disqualified. <br>
+                        ● The songs should not contain any of the following: profanity; vulgarity; obscene or pornographic content; hate or racist speech; disruptive or hostile remarks; threats of violence. <br>
+                        ● Own mashup in one video is allowed (can perform more than one song but should not more than 5 minutes). <br>
+                        ● Own acapella in one video is allowed (if acapella is included, participant(s) can choose either to use self-played piano as background music or not). <br>
+                        ● Coach, teacher, or any other very experienced singers are not allowed to participate in the competition. <br>
+                        ● If the judges suspect that participant(s) did any lip sync or did not sing by themselves, the organizer has the power to request participant(s) to record a short video of showing their face(s) singing OR record a short video of self-introduction to prove that they are not lip synced in the song. <br>
+                        ● Each team can have more than one (1) submission per video. It is allowed for the same participants to participate in two (2) or more videos. Participants are not allowed to submit more than one (1) submission of video having the similar content. <br>
+                        ● Participants must be dressed appropriately.</p>
                     </div>
                   </div>
                 </div>
@@ -503,6 +528,17 @@
                           ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_DETAILS.doc".<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_PARTICIPANT_DETAILS.doc".<br>
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="dab-7">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">● Best Singer <br>
+                        ● Best Band <br>
+                        ● People’s Choice Award <br>
+                        ● E-cert will of participate and achievement will be provided <br>
                     </div>
                   </div>
                 </div>
@@ -553,6 +589,9 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#gab-4" target="_blank">SUBMISSION</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gab-5" target="_blank">PRIZES</a>
+                </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#gab-6" target="_blank">COMPETITION FEES</a>
             </li>
@@ -602,6 +641,17 @@
                           ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER-GPC-P1" for photo 1 and "REFERENCE NUMBER-GPC-P2" for photo 2.<br>
                           ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per submission and submit via Google Drive with file name "REFERENCE NUMBER_GPC_PARTICIPANT_DETAILS.doc".<br>
                       </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gab-5">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">● Grand Prize <br>
+                        ● Most Inspiring and Creative <br>
+                        ● People’s Choice Award <br>
+                        ● E-cert will of participate and achievement will be provided <br>
                     </div>
                   </div>
                 </div>
