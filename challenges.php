@@ -187,7 +187,8 @@
                 <p class="futura">
                   1) Participants are required to collect 10 JID codes from other participants all around the world. <br>
                   2) For submission, collected JID codes are required to fill in into a google form prepared in the website. <br>
-                  3) Repeated JID codes in one’s collection are considered not valid. <br> <br> <br>
+                  3) Repeated JID codes in one’s collection are considered not valid. <br>
+                  **This challenge is open until the end of JOTA-JOTI. The last day JOTA-JOTI is 18 October 2020, this challenge due by 19 October 2020 **<br> <br>
                   </p> <br> <br>
               </div>
             </div>
