@@ -521,12 +521,13 @@
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>SUBMISSION</h3>
-                      <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
-                          ●	Once submitted, the entries may not be withdrawn for any reason whatsoever.<br>
-                          ●	Judges’ decisions will be final and binding.<br>
-                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_SING".<br>
-                          ●	Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_DETAILS.doc".<br>
-                          ●	Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_PARTICIPANT_DETAILS.doc".<br>
+                      <p class="futura"> ● All video submissions must be in MP4 format, minimum 720p, fps 24hz.
+                        ● Once submitted, the entries may not be withdrawn for any reason whatsoever.
+                        ● Judges’ decisions will be final and binding.
+                        ● Submissions should be done via Google Drive with file name 'REFERENCE NUMBER_SING".
+                        ● Provide the name of original singer(s), name of song(s) and song lyrics in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_DETAILS.doc".
+                        ● Provide a list of participants’ details which contains their names, age, country and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SONG_PARTICIPANT_DETAILS.doc".
+                        ● Kindly send the Google Drive link to the email joinjota@scout.my and CC evateng0124@gmail.com.
                       </p>
                     </div>
                   </div>
@@ -714,7 +715,10 @@
                   <a class="nav-link" data-toggle="tab" href="#gbb-6" target="_blank">SUBMISSION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gbb-7" target="_blank">REGISTRATION FEE</a>
+                  <a class="nav-link" data-toggle="tab" href="#gbb-7" target="_blank">PRIZES</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gbb-8" target="_blank">REGISTRATION FEE</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSdaafpy6li2lnPJaayLmsKfrW7mT7HLjnwLZxvjrjpUDa0Ksg/viewform" target="_blank">Register now</a>
@@ -788,6 +792,19 @@
                 <div class="tab-pane" id="gbb-7">
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">  ● The Champion <br>
+                                          ● The 1st Runner Up <br>
+                                          ● The 2nd Runner Up <br>
+                                          ● Consolation Prize <br>
+                                          ● All the participants will get a E-certificate <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gbb-8">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>REGISTRATION FEES</h3>
                       <p class="futura">The registration fee is MYR 5.<br> <br> </p>
                         <h3>Payment Method For Malaysians</h3>
@@ -838,7 +855,10 @@
                   <a class="nav-link" data-toggle="tab" href="#gcb-6" target="_blank">SUBMISSION</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#gcb-7" target="_blank">REGISTRATION FEE</a>
+                  <a class="nav-link" data-toggle="tab" href="#gcb-7" target="_blank">PRIZES</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#gcb-8" target="_blank">REGISTRATION FEE</a>
                 </li>
               </ul>
               <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSfnRtoDL8QHXAcm81CUggjph-H4qq9Zg6iNdVX2yZh70zVyhg/viewform" target="_blank">Register now</a>
@@ -893,8 +913,8 @@
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>DEADLINE</h3>
                       <p class="futura"> ● The deadline for submission of mask design is 1159 hours (+8 GMT) 8<sup>th</sup>, October 2020. <br>
-                                         ● Photo & video of the Recycle Handicraft received after this deadline will not be viewed or rated by the judging panel. <br>
-
+                                         ● Photo & video of the Recycle Handicraft received after this deadline will not be viewed or rated by the judging panel.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -911,6 +931,18 @@
                   </div>
                 </div>
                 <div class="tab-pane" id="gcb-7">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">  ● The Champion (Best Recycle Handicraft) <br>
+                                          ● The Champion (Best Video) <br>
+                                          ● Consolation Prize <br>
+                                          ● All the participants will get a E-certificate <br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="gcb-8">
                   <div class="row">
                     <div class="col-lg-11 details order-2 order-lg-1">
                       <h3>REGISTRATION FEES</h3>
