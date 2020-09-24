@@ -116,6 +116,152 @@
       <section class="features" id="features-1">
         <div class="container">
           <br>
+          <h2 class="text-center mt-0" data-aos="fade-down">Rover's Program (18-26 years old)</h2>
+          <hr class="divider my-4">
+          <br>
+          <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
+          <div class="row col-lg-12">
+            <p class="futura"> This year has not been an easy one for all of us. Small businesses were affected,
+              thousands of lives were lost, school was cancelled, and many of our long-term plans for the year were put on hold.
+              How did 2020 impact you? Create a short film on what 2020 has taught you, your hopes and dreams for the rest of
+              the year, or a reenactment of this year itself. As long as it is according to the theme,
+              let your ideas roam freely!
+            </p>
+          </div>
+          <div class="row pt-3">
+            <div class="col-lg-3" id="services" >
+              <ul class="nav nav-tabs flex-column">
+                <li class="nav-item">
+                  <a class="nav-link active show" data-toggle="tab" href="#qab-1" target="_blank">NUMBER OF PARTICIPANTS</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " data-toggle="tab" href="#qab-2" target="_blank">DURATION</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " data-toggle="tab" href="#qab-3" target="_blank">LANGUAGE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#qab-4" target="_blank">TOPIC SENSITIVITY</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#qab-5" target="_blank">COPYRIGHT</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#qab-6" target="_blank">DEADLINE</a>
+                </li>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#qab-7" target="_blank">SUBMISSION</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#qab-8" target="_blank">PRIZES</a>
+              </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#qab-9" target="_blank">COMPETITION FEES</a>
+            </li>
+              </ul>
+              <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+               href="https://docs.google.com/forms/d/1fllTzjUk2wn9y7i51QTSgPStUKenq4BEIKY3Gim58Dc/edit?usp=sharing" target="_blank">Register now </a>
+            </div>
+            <div class="col-lg-9 mt-4 mt-lg-0">
+              <div class="tab-content">
+                <div class="tab-pane active show" id="qab-1">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>NUMBER OF PARTICIPANTS</h3>
+                      <p class="futura">No limit.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-2">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>DURATION</h3>
+                      <p class="futura"> The total runtime of the short film must be twelve (12) minutes. This includes the beginning and ending credits.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-3">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>LANGUAGE</h3>
+                      <p class="futura">   ●	Bahasa Malaysia, English, Mandarin languages are accepted.  <br>
+                            ●	Subtitles in English are compulsory. <br><br></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-4">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>TOPIC SENSITIVITY</h3>
+                      <p class="futura">All films cannot contain any sensitive subjects such as religion, race and politics. Vulgarities and inappropriate clothing are not allowed.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-5">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>COPYRIGHT</h3>
+                      <p class="futura"> ●	The short film submitted must not contain any copyrighted work(s) belonging to any third parties unless,<br>
+                          (a) Participants have a license to use such works in the Film; or <br>
+                          (b) the use participants’ Film makes of such works is a fair one under the copyright laws.<br>
+                          ●	However if the video is taken down by Facebook due to copyright issues, the organizing committee will not bear responsibility for entries that are not received or posted for whatever reason. <br><br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-6">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>DEADLINE</h3>
+                      <p class="futura"> ●	The deadline for submission of film is 1159 hours (+8 GMT) 9<sup>th</sup>, October 2020.<br>
+                          ●	 Films received after this deadline will not be viewed or rated by the judging panel.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-7">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>SUBMISSION</h3>
+                      <p class="futura"> ●	All video submissions must be in MP4 format, minimum 720p, fps 24hz.<br>
+                          ● Once submitted, the entries may not be withdrawn for any reason whatsoever. <br>
+                          ●	Judges' decisions will be final and binding<br>
+                          ●	Submissions should be done via Google Drive with file name "REFERENCE NUMBER_SHORTFILM".<br>
+                          ●	Provide a list of participants’ details which contains their names, job title, age and email address in ONE Microsoft Word document per video submission and submit via Google Drive with file name "REFERENCE NUMBER_SHORTFILM_PARTICIPANT_DETAILS.doc".<br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-8">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>PRIZES</h3>
+                      <p class="futura">● Best Actor <br>
+                        ● Best Actress <br>
+                        ● Best Film <br>
+                        ● People’s Choice Award <br>
+                        ● E-cert will of participate and achievement will be provided <br>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="qab-9">
+                  <div class="row">
+                    <div class="col-lg-11 details order-2 order-lg-1">
+                      <h3>COMPETITION FEES</h3>
+                      <p class="futura">Each video submission will be charged at a fee of MYR 10.<br> <br> </p>
+                        <h3>Payment Method For Malaysians</h3>
+                        <p class="futura">Public Bank <br> LOO CHIN CHOONG <br> 3200262332 <br> <br> </p>
+                        <h3>Payment Method For International </h3>
+                        <p class="futura">Paypal <br> mark@scout.my </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> <br> <br> <br> <br>
+
+
+          <br>
           <h2 class="text-center mt-0" data-aos="fade-down">Junior &amp; Senior Scout Program (13-18 years old)</h2>
           <hr class="divider my-4">
           <br>
