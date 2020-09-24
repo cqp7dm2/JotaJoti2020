@@ -212,7 +212,15 @@ SESSION_start();
                                                          <div class="col-lg-10 details order-2 order-lg-1">
                                                            <h3>DESCRIPTION</h3>
                                                            <p>
-                                                           Its time for some ‘exercises’ for your brain! As scouts, we should have the spirit for exploration, thus, let’s explore our understanding towards scouting by participating in this Jota-Joti Quiz!
+                                                             In this challenge, you are going to make new friends from all around the world! One of the events of JOTI (Jamboree On The Internet) is to communicate with people around the world through the Internet using any technological devices.
+                                                             <br>
+                                                             There are many ways to communicate, including text-based chat, voice chat, video chat, emails, blogs, and social media networks. The Jamboree IDentity Code (JID code) is a special code which is specifically used for the JOTI event.
+                                                             Different countries will have different JID codes. Therefore, for this challenge, do not be shy and talk to as many people as possible around the world and collect 10 different JID codes by exchanging yours (if you have one) to them.
+                                                             <br>
+                                                             Hopefully, you can make new friends too!
+                                                             <br>
+                                                             This is a platform you might want to try out -
+                                                             <a href="https://webchat.scoutlink.net/#/">ScoutLink Webchat</a>
                                                             </p>
                                                          </div>
                                                        </div>
@@ -220,7 +228,17 @@ SESSION_start();
                                                      <div class="tab-pane" id="cab-2">
                                                        <div class="row">
                                                          <div class="col-lg-10 details order-2 order-lg-1">
-                                                           <h3>REFERENCE</h3>
+                                                           <h3>RULES AND REGULATIONS</h3>
+
+                                                           <p>
+                                                             1) Participants are required to collect 10 JID codes from other participants all around the world.
+                                                             <br>
+                                                              2)For submission, collected JID codes are required to fill into a google form prepared in the website.
+                                                              <br>
+                                                              3)Repeated JID codes in one’s collection are considered not valid.
+                                                              <br>
+                                                              4)**This challenge is open until the end of JOTA-JOTI. The last day JOTA-JOTI is 18 October 2020, this challenge due by 19 October 2020 **
+                                                           </p>
 
                                                          </div>
                                                        </div>
