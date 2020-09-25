@@ -237,8 +237,7 @@
                         -Saturday (17/9) 8.30pm-10.00pm <br>
                         -Sunday (18/9) Announce result <br> <br>
 
-                        5/10-14/10- Register <br>
-                        15/10- kemas <br>
+                        
                     </p>
                   </div>
                 </div>
