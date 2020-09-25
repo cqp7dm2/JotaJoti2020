@@ -150,6 +150,19 @@
 
           </section>
 
+          <section class="content-section" id="portfolioo">
+            <div class="container" href="amongus.php">
+              <h2 class="text-center mt-0" data-aos="fade-down">Latest Trending Game</h2>
+              <hr class="divider my-4" />
+              <div class="row py-4 align-items-center">
+                <div class="col-lg-12 text-center" data-aos="fade-down">
+                  <img class="img-fluid" src="assets/img/among-us.jpg" alt="">
+                    <a type="button" class="btn btn-primary btn-block" href="amongus.php" style="height:60px">Click for more info!</a>
+                </div>
+              </div>
+            </div>
+          </section>
+
           <div class="container" id="services">
             <h2 class="text-center mt-0" data-aos="fade-down">How to register?</h2>
             <hr class="divider my-4" />
