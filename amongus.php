@@ -24,15 +24,6 @@
     </style>
   </head>
   <body>
-    <?php include "header.php"; ?>
-
-    <header class="masthead">
-      <div class="container">
-              <div class="masthead-heading mb-2 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">JOTA JOTI 2020</div>
-              <div class="masthead-heading text-uppercase move-text2" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Among US</div>
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="loginRegister/register.php">Register Now</a>
-          </div>
-    </header>
 
     <section class="page-section" id="services">
       <div class="container">
@@ -44,7 +35,21 @@
           <div class="col-lg-11 mt-4 mt-lg-0">
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
+                <!-- <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="loginRegister/register.php">Register Now</a></center> -->
+                <br>
+                <!-- <center>Registration open at the </center> -->
+                <br>
+                <br>
+                <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://forms.gle/F7gWX7PLpof88WAW6" target="_blank">Register Now (Test Games)</a></center>
+                <br>
+                <center>Registration for Test Games will be close at 2th October 2020 </center>
+                <br>
+                <br>
+                <br>
+                <br>
+
                 <div class="row">
+
 
                     <h3 data-aos="fade-right">Gameplay</h3>
                 </div>
