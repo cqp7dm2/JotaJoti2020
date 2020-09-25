@@ -157,7 +157,11 @@
               <div class="row py-4 align-items-center">
                 <div class="col-lg-12 text-center" data-aos="fade-down">
                   <img class="img-fluid" src="assets/img/among-us.jpg" alt="">
-                    <a type="button" class="btn btn-primary btn-block" href="amongus.php" style="height:60px">Click for more info!</a>
+
+                    <!-- <a type="button" class="btn btn-primary btn-block" href="amongus.php" style="height:60px" >Click for more info!</a> -->
+                    <br>
+                    <br>
+                    <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="amongus.php" target="_blank">Register Now (Test Games)</a></center>
                 </div>
               </div>
             </div>

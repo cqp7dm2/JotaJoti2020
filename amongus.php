@@ -48,13 +48,16 @@
                 <br>
                 <br>
 
+
+                <h2 class="text-center mt-0" data-aos="fade-down">Rules and Regulations for Test Games</h2>
+                <hr class="divider my-4" />
                 <div class="row">
 
-
+                  <br>
                     <h3 data-aos="fade-right">Gameplay</h3>
                 </div>
                 <div class="row futura">
-                    <p> 1) Each room will have one committee join as player <br>
+                    <p> 1) Each room will have one committee join as player .<br>
                         2) Google meet will be used as a platform for players to communicate.<br>
                         3) Player were required to either use a phone to join Google Meet, and join Among Us using laptop or computer/ use phone to join Among Us and use laptop or computer to join Google Meet. To enable players to play games and at the same time can control their mic, as the game will be a fullscreen game and couldn’t enable players to control their mic easily. <br> <br>
 
@@ -86,13 +89,13 @@
                             </tr>
                           </tbody>
                         </table>
-                        4) 10 Player in each room, total 3 room, (1 admin, 9 player) <br>
-                        5) Map: The Skeld<br>
+                        4) 10 Player in each room, total 3 room, (1 admin, 9 player) .<br>
+                        5) Map: The Skeld .<br>
                         6) Players mic will be on when during discussion time. Player’s mic must be mute during the game and also when they die. <br>
                         7) If a player's mic is on during game time and when they die, they will be disqualified by the committee in the room and no point will gain.<br>
                         8) Players cannot talk about sensitive topics like politics, sexual, religion, violence, etc. <br>
                         9) Players will be disqualified if they use vulgar words towards other players during discussion time or in the room. <br>
-                        10) Players will gain point if the side you are on win that round and deduct if you lose<br> <br>
+                        10) Players will gain point if the side you are on win that round and deduct if you lose.<br> <br>
                         <table class="table">
                           <thead style="font-size:16px">
                             <tr class="futura">
@@ -115,11 +118,11 @@
                           </tbody>
                         </table>
 
-                        11) Players were required to screenshot/print screen the victory screen when they won a game. They will need to submit the image in a google form to gain their point <br>
-                        12) The player with the most point will be the champion <br>
-                        13) Badges will be given to the champion as a price <br>
-                        14) Each player are allow to join any amount of game in the time period 30minutes <br>
-                        15) Participant must fill in the google form which contains their username, so that we can record their name and allow them to join the google meet room and also the game. <br> <br> <br> <br>
+                        11) Players were required to screenshot/print screen the victory screen when they won a game. They will need to submit the image in a google form to gain their point. <br>
+                        12) The player with the most point will be the champion. <br>
+                        13) Badges will be given to the champion as a price. <br>
+                        <!-- 14) Each player are allow to join any amount of game in the time period 30minutes <br> -->
+                        14) Participant must fill in the google form which contains their username of google meet and Among Us username. <br> <br> <br> <br>
 
                     </p>
                 </div>
@@ -127,7 +130,7 @@
                 </div>
               </div>
 
-              <h2 class="text-center mt-0" data-aos="fade-down">Rules</h2>
+              <h2 class="text-center mt-0" data-aos="fade-down">Roles and Games Format</h2>
               <hr class="divider my-4" />
 
               <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
@@ -135,7 +138,7 @@
                   <div class="p-5" data-aos="slide-up">
                       <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-yellow.png" alt="">
                       <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-green.png" alt="">
-                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-pink.png" alt="">s
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-pink.png" alt="">
                   </div>
                 </div>
 
@@ -149,10 +152,10 @@
                         <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">-When crewmate die they also can do task</p>
+                    <p class="futura">-Completing task will still be allowed although the Crewmates had died.</p>
                     <div class="p-6" style="color:green">
                       <h6>Win(+1)</h6>
-                      <p>Vote out 2 imposter <br> Finish the task bar </p>
+                      <p>Vote out 2 imposter <br>Completing all the task to fill-up the task bar</p>
                     </div>
                     <div class="p-6" style="color:red">
                       <h6>Lose(-2)</h6>
@@ -175,7 +178,10 @@
                         <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">-Can vent through vent and travel along the map <br>-Can sabotage like close light, O2 leak, reactor meltdown <br> When imposter die they can sabotage also </p>
+                    <p class="futura">-Can travel through the map by using the vents that are set in specific places.
+                      <br>-Can sabotage electrical causing lights off, O2 leak, reactor meltdown or shutting the door.
+                      When Imposters die they still sabotage the map
+                    </p>
                     <div class="p-6" style="color:green">
                       <h6>Win(+2)</h6>
                       <p>Reactor Meltdown <br> Oxygen Leak <br> Same amount of players as Crewmate <br> Kill all Crewmate </p>
@@ -237,7 +243,12 @@
                         -Saturday (17/9) 8.30pm-10.00pm <br>
                         -Sunday (18/9) Announce result <br> <br>
 
-                        
+                        <br>
+                        -Registration Open : 5th October 2020
+                        <br>
+                        -Registration Close : 14th October 2020
+
+
                     </p>
                   </div>
                 </div>
