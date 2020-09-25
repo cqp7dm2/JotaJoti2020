@@ -116,7 +116,7 @@
       <section class="features" id="features-1">
         <div class="container">
           <br>
-          <h2 class="text-center mt-0" data-aos="fade-down">Rover's Program (18-26 years old)</h2>
+          <h2 class="text-center mt-0" data-aos="fade-down">Rover's Program (18-25 years old)</h2>
           <hr class="divider my-4">
           <br>
           <h3 data-aos="fade-down">Short Film Competition, THEME: Year 2020</h3>
