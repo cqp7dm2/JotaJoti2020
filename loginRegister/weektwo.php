@@ -64,7 +64,7 @@ SESSION_start();
                                                       <a class="nav-link " data-toggle="tab" href="#tab-2">MORSE CODE QUESTION</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                      <a class="nav-link" data-toggle="tab" href="#tab-3">RULES AND RUGULATIONS</a>
+                                                      <a class="nav-link" data-toggle="tab" href="#tab-3">THE NATO PHONETIC</a>
                                                     </li>
                                                   </ul>
                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href= "https://docs.google.com/forms/d/e/1FAIpQLSdOwfhYvoNAKluTM7r6NJrSLRRRW76WhDQ_-HQaZbx7zeGaOQ/viewform" target="_blank">Submit Your Answer Now</a>
