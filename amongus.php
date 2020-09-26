@@ -239,9 +239,9 @@
                         <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">-Friday (16/9) 8.30pm-10.00pm <br>
-                        -Saturday (17/9) 8.30pm-10.00pm <br>
-                        -Sunday (18/9) Announce result <br> <br>
+                    <p class="futura">-Friday (16/10) 8.30pm-10.00pm <br>
+                        -Saturday (17/10) 8.30pm-10.00pm <br>
+                        -Sunday (18/10) Announce result <br> <br>
 
                         <br>
                         -Registration Open : 5th October 2020
