@@ -58,7 +58,7 @@ catch (Exception $e)
 {
    echo $e->errorMessage();
 }
-catch (\Exception $e)
+catch (Exception $e)
 {
    echo $e->getMessage();
 }
