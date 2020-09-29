@@ -53,8 +53,8 @@ SESSION_start();
                                           <main id="main">
                                           <section id="features" class="features">
                                             <div class="container">
-                                              <h3 data-aos="fade-right" style="color: #fab800;">Challenge 3 | Morse Code & Phonetic</h3>
-                                              <p class="futura" data-aos="flip-down"> Let figure out the World of Morse Code & Phonetic
+                                              <h3 data-aos="fade-right" style="color: #fab800;">Challenge 5 | Virtual Expedition</h3>
+                                              <p class="futura" data-aos="flip-down"> ##
 
                                               <div class="row">
                                                 <div class="col-lg-3">
@@ -191,7 +191,7 @@ SESSION_start();
                      <!-- 2nd Competition  -->
                                            <section id="features" class="features">
                                              <div class="container">
-                                               <h3 data-aos="fade-right" style="color: #fab800;">Challenge 4 | Exchange JID</h3>
+                                               <h3 data-aos="fade-right" style="color: #fab800;">Challenge 6 | Pac-Man</h3>
                                                <p class="futura" data-aos="flip-down">Lets Join Us and Exchange JID with Us.
 
                                                <div class="row">
@@ -269,7 +269,7 @@ SESSION_start();
 
 
 
-    <h1>Week Three</h1>
+
 </div>
 </div>
 </div>
