@@ -120,7 +120,6 @@
                         11) Players were required to screenshot/print screen the victory screen when they won a game. They will need to submit the image in a google form to gain their point. <br>
                         12) The player with the most point will be the champion. <br>
                         13) Badges will be given to the champion as a price. <br>
-                        <!-- 14) Each player are allow to join any amount of game in the time period 30minutes <br> -->
                         14) Participant must fill in the google form which contains their username of google meet and Among Us username. <br> <br> <br> <br>
 
                     </p>
@@ -129,7 +128,7 @@
                 </div>
               </div>
 
-              <h2 class="text-center mt-0" data-aos="fade-down">Roles and Games Format</h2>
+              <!-- <h2 class="text-center mt-0" data-aos="fade-down">Roles and Games Format</h2>
               <hr class="divider my-4" />
 
               <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
@@ -263,7 +262,7 @@
               </div>
 
 
-      </div>
+      </div> -->
 
 
 
