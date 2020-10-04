@@ -164,7 +164,7 @@ SESSION_start();
                                 <div class="tab-pane" id="cab-2">
                                   <div class="row">
                                     <div class="col-lg-10 details order-2 order-lg-1">
-                                      <h3>REFERENCE</h3>
+                                      <h3>RULES AND REGULATIONS</h3>
                                        <p> 1)	There is a total of 30 questions, and all must be answered.<br>
                                             2)	Participants are allowed to do researches through the Internet, not just for the sake of answering, but also gaining knowledge.<br>
                                             3)	There is no time limit, thus, stay calm and take your time answering all of the questions.<br>
