@@ -11,6 +11,7 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
 <script>
@@ -46,7 +47,6 @@ SESSION_start();
                     <?php
                     include ('usernav.php');
                      ?>
-
 
 
                      <!-- 1st Competition -->
@@ -100,6 +100,8 @@ SESSION_start();
                                             </div>
                                           </section><!-- End Features Section -->
                                           <hr>
+
+
                      <!-- 2nd Competition  -->
                                            <section id="features" class="features">
                                              <div class="container">
@@ -116,7 +118,8 @@ SESSION_start();
                                                        <a class="nav-link" data-toggle="tab" href="#cab-2">RULES AND RUGULATIONS</a>
                                                      </li>
                                                    </ul>
-                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSccPnVVIB2H0B_QeiPG-uJagiDa2Ci0Ds-J-QPcBv9cxpyfNg/viewform" target="_blank">Start Game Now</a>
+                                                   <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a>
+                                                     <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../pacman.php" target="_blank">Start Game Now</a> -->
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">
@@ -163,15 +166,6 @@ SESSION_start();
                                            <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 
                                            <script src="../assets/js/main.js"></script>
-
-
-
-
-
-
-
-
-
 
 </div>
 </div>
