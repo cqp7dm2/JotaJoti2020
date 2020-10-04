@@ -40,7 +40,7 @@
                 <!-- <center>Registration open at the </center> -->
                 <br>
                 <br>
-                <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://forms.gle/F7gWX7PLpof88WAW6" target="_blank">Register Now (Test Games)</a></center>
+                <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger">Register Now (Test Games)</a></center>
                 <br>
                 <center>Registration for Test Games will be close at 2th October 2020 </center>
                 <br>
@@ -206,11 +206,13 @@
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="slide-up">
                       <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-grn.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-yellow.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-pink.png" alt="">
                   </div>
                 </div>
 
                 <div class="col-lg-6">
-                  <div class="p-5" data-aos="fade-right" style="color:#0a9d00;">
+                  <div class="p-5" data-aos="fade-right" style="color:#e3148b;">
                     <div class="row pb-3" >
                       <div class="col-6">
                         <h2 class="section-heading" style="font-size: 50px;">Test Game</h2>
@@ -230,7 +232,7 @@
 
               <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
                 <div class="col-lg-6">
-                  <div class="p-5" data-aos="fade-left" style="color:#e9a803;">
+                  <div class="p-5" data-aos="fade-left" style="color:#6e009d;">
                     <div class="row pb-3">
                       <div class="col-6">
                         <h2 class="section-heading" style="font-size: 50px;">Official Game</h2>
@@ -255,6 +257,8 @@
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="slide-up">
                       <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-orange.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-red.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-purple.png" alt="">
                   </div>
                 </div>
               </div>
