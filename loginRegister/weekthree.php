@@ -104,7 +104,7 @@ SESSION_start();
                                            <section id="features" class="features">
                                              <div class="container">
                                                <h3 data-aos="fade-right" style="color: #fab800;">Challenge 6 | Pac-Man</h3>
-                                               <p class="futura" data-aos="flip-down">Lets Join Us and Exchange JID with Us.
+                                               <p class="futura" data-aos="flip-down">More fun with everyone at home </p>
 
                                                <div class="row">
                                                  <div class="col-lg-3">
