@@ -54,22 +54,19 @@ SESSION_start();
                                           <section id="features" class="features">
                                             <div class="container">
                                               <h3 data-aos="fade-right" style="color: #fab800;">Challenge 5 | Virtual Expedition</h3>
-                                              <p class="futura" data-aos="flip-down"> ##
+                                              <p class="futura" data-aos="flip-down"> Let's explore like we did it before
 
                                               <div class="row">
                                                 <div class="col-lg-3">
                                                   <ul class="nav nav-tabs flex-column">
                                                     <li class="nav-item">
-                                                      <a class="nav-link active show" data-toggle="tab" href="#tab-1">MORSE CODE DESCRIPTION</a>
+                                                      <a class="nav-link active show" data-toggle="tab" href="#tab-1">DESCRIPTION</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                      <a class="nav-link " data-toggle="tab" href="#tab-2">MORSE CODE QUESTION</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                      <a class="nav-link" data-toggle="tab" href="#tab-3">THE NATO PHONETIC</a>
+                                                      <a class="nav-link " data-toggle="tab" href="#tab-2">RULES AND REGULATIONS</a>
                                                     </li>
                                                   </ul>
-                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href= "https://docs.google.com/forms/d/e/1FAIpQLSdOwfhYvoNAKluTM7r6NJrSLRRRW76WhDQ_-HQaZbx7zeGaOQ/viewform" target="_blank">Submit Your Answer Now</a>
+                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href= "https://docs.google.com/forms/d/e/1FAIpQLSdwkmpH6Xkhz3aiFa_FBqcwc3cAVUpQSLNnJ3jW4BNI-nmhQg/viewform" target="_blank">Join Virtual Expedition Now</a>
                                                 </div>
                                                 <div class="col-lg-9 mt-4 mt-lg-0">
                                                   <div class="tab-content">
@@ -77,9 +74,10 @@ SESSION_start();
                                                     <div class="tab-pane active show" id="tab-1">
                                                       <div class="row">
                                                         <div class="col-lg-10 details order-2 order-lg-1">
-                                                          <h3>MORSE CODE DESCRIPTION</h3>
+                                                          <h3>DESCRIPTION</h3>
                                                           <p>
-                                                            Morse code is a method of sending text messages by keying in a series of electronic pulses, usually represented as a short pulse (called a "dot") and a long pulse (a "dash"). In the time of its invention, it was the fastest long distance form of communication. The International Morse Code encodes the 26 English letters A to Z, some non-English letters, the Arabic numerals and a small set of punctuation and procedural signals (prosigns). Morse code is usually transmitted by on-off keying of an information-carrying medium such as electric current, radio waves, visible light, or sound waves. Nowadays, Morse Code is most prevalent in Aviation and Aeronautical fields since radio navigational aids such as VOR's and NDB's are still identified in Morse Code. Moreover, the US Navy and Coast Guard still use signal lamps to communicate via Morse Code. Morse Code has also been used as an alternative form of communication for people with disabilities or who have their abilities to communicate imparied by stroke, heart attack, or paralysis. There have been several cases where individuals have been able to use their eyelids to communicate in Morse Code by using a series of long and quick blinks to represent dots and dashes.
+                                                            There is nothing that can stop us from exploring our beautiful world! By using Google Earth, we can ‘travel’ to anywhere,at any time we desire in the entire world. In this challenge, we are going on an expedition virtually around the globe, searching for the final destination and observing the surroundings to complete the tasks. More importantly, enjoy and have fun. <br>
+                                                            What are you waiting for, let’s get started!
                                                            </p>
                                                         </div>
                                                       </div>
@@ -88,95 +86,9 @@ SESSION_start();
                                                     <div class="tab-pane" id="tab-2">
                                                       <div class="row">
                                                         <div class="col-lg-10 details order-2 order-lg-1">
-                                                          <h3>MORSE CODE QUESTIONS</h3>
-                                                          <p>Click On the Play Button to Listen to the Morse Code :</p>
-
-                                                          <p>Morse Code One</p>
-                                                            <audio controls>
-                                                             <source src="../mc/one.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Two</p>
-                                                            <audio controls>
-                                                             <source src="../mc/two.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Three</p>
-                                                            <audio controls>
-                                                             <source src="../mc/three.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Four</p>
-                                                            <audio controls>
-                                                             <source src="../mc/four.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Five</p>
-                                                            <audio controls>
-                                                             <source src="../mc/five.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Six</p>
-                                                            <audio controls>
-                                                             <source src="../mc/six.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Seven</p>
-                                                            <audio controls>
-                                                             <source src="../mc/seven.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Eight</p>
-                                                            <audio controls>
-                                                             <source src="../mc/eight.wav" type="audio/wav">                                                             <source src="horse.mp3" type="audio/mpeg">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Nine</p>
-                                                            <audio controls>
-                                                             <source src="../mc/nine.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-                                                            <p>Morse Code Ten</p>
-                                                            <audio controls>
-                                                             <source src="../mc/ten.wav" type="audio/wav">
-                                                             Your browser does not support the audio element.
-                                                            </audio>
-                                                            <br>
-
-
-                                                        </div>
-                                                      </div>
-                                                    </div>
-
-                                                    <div class="tab-pane" id="tab-3">
-                                                      <div class="row">
-                                                        <div class="col-lg-10 details order-2 order-lg-1">
-                                                          <p>
-                                                            <h3>The NATO Phonetic</h3>
-                                                          The NATO phonetic alphabet is a widely-used, standardized phonetic alphabet, where each letter in the English alphabet is replaced with a specific, specially-chosen codeword
-                                                          The NATO phonetic alphabet was formally established in 1956 through the joint effort of several groups, including, most notably, the North Atlantic Treaty Organization (NATO) and the International Civil Aviation Organization (ICAO). It was created with the goal of becoming the universal phonetic alphabet, in order to overcome the issues which occurred as a result of different countries and organizations using different alphabets.
-                                                          The two main advantages to learning the NATO phonetic alphabet today compared to other alphabets are:
-                                                          The NATO alphabet is the main phonetic alphabet used by many countries, organizations, and individuals around the world, meaning that a lot of people, and especially those who encounter it in a professional setting, are likely to be familiar with it. Accordingly, this is the phonetic alphabet that people are most likely to easily understand if you use it to talk to them, and it’s also the phonetic alphabet that people are most likely to use when talking to you.
-                                                          The specific codewords in the NATO phonetic alphabet were chosen based on extensive testing, as they ensure mutual intelligibility between speakers from different linguistic backgrounds, by virtue of being easy to pronounce and recognize.
-                                                          </p>
+                                                          <h3>RULES SND REGULATIONS</h3>
+                                                          <p>1) Participants required Google Earth to complete the challenge. <br>
+                                                          2) The challenge is to answer the questions by searching the answers from browsing Google Earth. <br> <br></p>
                                                         </div>
                                                       </div>
                                                     </div>
@@ -204,7 +116,7 @@ SESSION_start();
                                                        <a class="nav-link" data-toggle="tab" href="#cab-2">RULES AND RUGULATIONS</a>
                                                      </li>
                                                    </ul>
-                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSccPnVVIB2H0B_QeiPG-uJagiDa2Ci0Ds-J-QPcBv9cxpyfNg/viewform" target="_blank">Submit JID Now</a>
+                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSccPnVVIB2H0B_QeiPG-uJagiDa2Ci0Ds-J-QPcBv9cxpyfNg/viewform" target="_blank">Start Game Now</a>
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">
@@ -213,15 +125,10 @@ SESSION_start();
                                                          <div class="col-lg-10 details order-2 order-lg-1">
                                                            <h3>DESCRIPTION</h3>
                                                            <p>
-                                                             In this challenge, you are going to make new friends from all around the world! One of the events of JOTI (Jamboree On The Internet) is to communicate with people around the world through the Internet using any technological devices.
+                                                             Pac-Man is an old archive game from the 80’s. Despite being ‘old’, it has not been any less fun and attractive for the game lovers. Over the years, modifications and improvement of the game can be clearly seen and the hard work definitely paid off as it is still considered as a well-known game until this day.
                                                              <br>
-                                                             There are many ways to communicate, including text-based chat, voice chat, video chat, emails, blogs, and social media networks. The Jamboree IDentity Code (JID code) is a special code which is specifically used for the JOTI event.
-                                                             Different countries will have different JID codes. Therefore, for this challenge, do not be shy and talk to as many people as possible around the world and collect 10 different JID codes by exchanging yours (if you have one) to them.
-                                                             <br>
-                                                             Hopefully, you can make new friends too!
-                                                             <br>
-                                                             This is a platform you might want to try out -
-                                                             <a href="https://webchat.scoutlink.net/#/">ScoutLink Webchat</a>
+                                                            In this challenge, let us take a ‘time travelling trip’ back to the 80’s and enjoy the fun brought by the marvellous game - Pac-Man.
+
                                                             </p>
                                                          </div>
                                                        </div>
@@ -232,13 +139,9 @@ SESSION_start();
                                                            <h3>RULES AND REGULATIONS</h3>
 
                                                            <p>
-                                                             1) Participants are required to collect 10 JID codes from other participants all around the world.
-                                                             <br>
-                                                              2)For submission, collected JID codes are required to fill into a google form prepared in the website.
-                                                              <br>
-                                                              3)Repeated JID codes in one’s collection are considered not valid.
-                                                              <br>
-                                                              4)**This challenge is open until the end of JOTA-JOTI. The last day JOTA-JOTI is 18 October 2020, this challenge due by 19 October 2020 **
+                                                             1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
+                                                             2) Leader board is shown for competitive spirits. <br>
+                                                             3) Participants are allowed to play as many times as they desire. <br>
                                                            </p>
 
                                                          </div>
