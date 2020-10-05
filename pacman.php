@@ -42,10 +42,6 @@
                 <br>
                 <!-- <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger"></a></center> -->
 
-
-
-
-
     </section>
 
     <?php include "footer.php"; ?>
