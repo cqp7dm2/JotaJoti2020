@@ -241,14 +241,14 @@
                         <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">-Friday (16/10) 8.30pm-10.00pm <br>
-                        -Saturday (17/10) 8.30pm-10.00pm <br>
-                        -Sunday (18/10) Announce result <br> <br>
-
-                        <br>
-                        -Registration Open : 5th October 2020
-                        <br>
-                        -Registration Close : 14th October 2020
+                    <p class="futura">
+                      <h5>Schedule</h5>
+                      -Registration Open : 5th October 2020 <br>
+                      -Registration Close : 14th October 2020 <br> <br>
+                      -Thursday (15/10) Send email and grouping <br>
+                      -Friday (16/10) Official Game 1 (8:30pm - 10:00pm) <br>
+                      -Saturday (17/10) Official Game 2 (8:30pm - 10:00pm) <br>
+                      -Sunday (18/10) Announce Result <br>
 
 
                     </p>
