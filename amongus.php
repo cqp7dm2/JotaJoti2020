@@ -233,8 +233,8 @@
               <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="fade-left" style="color:#6e009d;">
-                    <div class="row pb-3">
-                      <div class="col-6">
+                    <div class="row pb-6">
+                      <div class="col-10">
                         <h2 class="section-heading" style="font-size: 50px;">Official Game</h2>
                       </div>
                       <div class="col-6">
@@ -242,15 +242,19 @@
                       </div>
                     </div>
                     <p class="futura">
-                      <h5>Schedule</h5>
+                      <h5>Date</h5>
                       -Registration Open : 5th October 2020 <br>
                       -Registration Close : 14th October 2020 <br> <br>
                       -Thursday (15/10) Send email and grouping <br>
-                      -Friday (16/10) Official Game 1 (8:30pm - 10:00pm) <br>
-                      -Saturday (17/10) Official Game 2 (8:30pm - 10:00pm) <br>
-                      -Sunday (18/10) Announce Result <br>
+                      -Friday (16/10) Official Game 1 (8:30pm - 10:00pm)GMT +8 <br>
+                      -Saturday (17/10) Official Game 2 (8:30pm - 10:00pm)GMT +8 <br>
+                      -Sunday (18/10) Announce Result <br> <br>
 
-
+                      <h5>Official Game Schedule</h5>
+                      <h6>Time : 8:30pm - 10:00pm(GMT +8) </h6>
+                      2015-2030 Open Session, Rules Explanation <br>
+                      2030-2115 Gameplay Part 1 <br>
+                      2115-2200 Gameplay Part 2 <br>
                     </p>
                   </div>
                 </div>
