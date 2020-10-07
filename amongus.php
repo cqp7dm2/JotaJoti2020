@@ -215,16 +215,19 @@
                   <div class="p-5" data-aos="fade-right" style="color:#e3148b;">
                     <div class="row pb-3" >
                       <div class="col-6">
-                        <h2 class="section-heading" style="font-size: 50px;">Test Game</h2>
+                        <h2 class="section-heading" style="font-size: 50px;">Date</h2>
                       </div>
                       <div class="col-6">
                         <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">1) Will be open to public <br>
-                                        2) 3 room will be open<br>
-                                        3) This session will be open on weekend (Saturday- 3/10 : 8.30pm-10.00pm)<br>
-                                        4) Feedback and suggestions will be collected and changes will be made.<br>
+                    <p class="futura">
+                    -Registration Open : 5th October 2020 <br>
+                    -Registration Close : 14th October 2020 <br> <br>
+                    -Thursday (15/10) Send email and grouping <br>
+                    -Friday (16/10) Official Game 1 (8:30pm - 10:00pm)GMT +8 <br>
+                    -Saturday (17/10) Official Game 2 (8:30pm - 10:00pm)GMT +8 <br>
+                    -Sunday (18/10) Announce Result <br> <br>
                   </div></p>
                   </div>
                 </div>
@@ -235,22 +238,13 @@
                   <div class="p-5" data-aos="fade-left" style="color:#6e009d;">
                     <div class="row pb-6">
                       <div class="col-10">
-                        <h2 class="section-heading" style="font-size: 50px;">Official Game</h2>
+                        <h2 class="section-heading" style="font-size: 50px;">Schedule</h2>
                       </div>
                       <div class="col-6">
                         <i class="display-4 flaticon-calendar futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
                     <p class="futura">
-                      <h5>Date</h5>
-                      -Registration Open : 5th October 2020 <br>
-                      -Registration Close : 14th October 2020 <br> <br>
-                      -Thursday (15/10) Send email and grouping <br>
-                      -Friday (16/10) Official Game 1 (8:30pm - 10:00pm)GMT +8 <br>
-                      -Saturday (17/10) Official Game 2 (8:30pm - 10:00pm)GMT +8 <br>
-                      -Sunday (18/10) Announce Result <br> <br>
-
-                      <h5>Official Game Schedule</h5>
                       <h6>Time : 8:30pm - 10:00pm(GMT +8) </h6>
                       2015-2030 Open Session, Rules Explanation <br>
                       2030-2115 Gameplay Part 1 <br>
