@@ -40,9 +40,9 @@
                 <!-- <center>Registration open at the </center> -->
                 <br>
                 <br>
-                <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger">Register Now (Test Games)</a></center>
+                 <center><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSf1eiE1ogQSyiH2pH9vT1sD4NW9Q_PbLg1z6fRKuwtAiZ0LNQ/closedform" target="_blank">Register Now (Test Games)</a></center>
                 <br>
-                <center>Registration for Test Games will be close at 2th October 2020 </center>
+                <center>Registration for Official Game will be close at 14th October 2020 </center>
                 <br>
                 <br>
                 <br>
