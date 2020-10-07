@@ -161,7 +161,7 @@
                     <!-- <a type="button" class="btn btn-primary btn-block" href="amongus.php" style="height:60px" >Click for more info!</a> -->
                     <br>
                     <br>
-                    <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="amongus.php" target="_blank">Register Now (Test Games)</a></center>
+                    <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="amongus.php" target="_blank">Register Now</a></center>
                 </div>
               </div>
             </div>
