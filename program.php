@@ -36,7 +36,9 @@
                 <div class="masthead-heading text-uppercase move-text2" style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Check out our programs</div>
           </div>
       </header>
+      <div class="container">
 
+      </div>
       <section class="content-section" id="portfolioo">
         <div class="container">
           <div class="content-section-heading text-center">
@@ -105,6 +107,15 @@
                 <img class="img-fluid" src="assets/img/photo.jpg" alt="" target="_blank">
               </a>
             </div>
+          </div>
+        </div>
+        <br> <br> <br> <br> <br>
+        <div class="container">
+          <div class="content-section-heading text-center">
+            <h2>Jota-Joti 2020 Program Proposal</h2>
+            <hr class="divider my-4">
+            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="assets/pdf/Proposal.pdf" target="blank">Click here to view proposal</a> <br>
+            <br>
           </div>
         </div>
       </section>
