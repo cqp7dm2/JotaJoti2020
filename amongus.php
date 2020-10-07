@@ -222,7 +222,7 @@
                       </div>
                     </div>
                     <p class="futura">
-                    -Registration Open : 5th October 2020 <br>
+                    -Registration Open : 8th October 2020 <br>
                     -Registration Close : 14th October 2020 <br> <br>
                     -Thursday (15/10) Send email and grouping <br>
                     -Friday (16/10) Official Game 1 (8:30pm - 10:00pm)GMT +8 <br>
