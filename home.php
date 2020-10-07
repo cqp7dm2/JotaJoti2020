@@ -177,16 +177,25 @@
             <br><br><br>
 
             <div class="container" id="services">
-              <h2 class="text-center mt-0" data-aos="fade-down">Teaser Video!!</h2>
+              <h2 class="text-center mt-0" data-aos="fade-down">Speech by Penang State Chief Commissioner</h2>
               <hr class="divider my-4" />
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F465629627727051%2F&show_text=1&width=560" width="1120" height="630" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F1020489941729641%2F&show_text=0&width=560" width="1120" height="630" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+                </div>
+              </div>
+              <br>
+
+            <br> <br> <br>
+            <div class="container" id="services">
+              <h2 class="text-center mt-0" data-aos="fade-down">Speech by Penang Georgetoen (South) District Commissioner</h2>
+              <hr class="divider my-4" />
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjotajoti.penang%2Fvideos%2F257975572165475%2F&show_text=false&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
                 </div>
               </div>
               <br>
               <h2 class="section-heading text-center" data-aos="zoom-in" style="font-size: 18px;">Produced and Shooting by <a href="#" style="color:#5c2f87;" target="_blank">Marketing Team @ Jota Joti 2020</a></h2>
-            <br> <br> <br> <br> <br>
-
+              <br><br><br><br>
 
     <div class="py-5 c2a10" style="background-image:url(assets/img/program.jpg)">
   <div class="container">

@@ -114,7 +114,7 @@
           <div class="content-section-heading text-center">
             <h2>Jota-Joti 2020 Program Proposal</h2>
             <hr class="divider my-4">
-            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="assets/pdf/Proposal.pdf" target="blank">Click here to view proposal</a> <br>
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="assets/pdf/Proposal.pdf" target="blank">Click here to view proposal</a> <br>
             <br>
           </div>
         </div>
