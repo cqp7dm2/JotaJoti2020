@@ -18,6 +18,7 @@
         transition: 1s box-shadow;
       }
 
+
       .hover-div:hover {
         box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);
       }
