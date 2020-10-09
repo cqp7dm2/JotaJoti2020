@@ -162,10 +162,6 @@
          <a href="https://www.instagram.com/kevinlim715/" style="color:black" target="_blank">Lim Chee Hoong</a> <br> <a href="https://www.instagram.com/nik_nikkhesh/" style="color:black" target="_blank">Nikkhesh Naiidu</a> </td>
     </tr>
     <tr data-aos="fade-up">
-      <th scope="row">Prize and Souvenir</th>
-      <td><a href="#" style="color:black" target="_blank">Boon Yoong Theng</a></td>
-    </tr>
-    <tr data-aos="fade-up">
       <th scope="row">Auditor</th>
       <td><a href="https://www.instagram.com/pantherloo1/" style="color:black" target="_blank">Loo Chin Choong</a></td>
     </tr>
