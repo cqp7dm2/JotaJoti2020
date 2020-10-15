@@ -159,7 +159,7 @@
                       <div class="row align-items-center">
                         <div class="col-lg-6" data-aos="flip-down">
                           <div class="p-5">
-                            <img class="img-fluid" src="assets/img/callsign.jpg" alt="" style="border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
+                            <img class="img-fluid" src="assets/img/callsignn.jpg" alt="" style="border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
                           </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-down">

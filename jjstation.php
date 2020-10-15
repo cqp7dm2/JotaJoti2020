@@ -46,7 +46,7 @@
               <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="slide-up">
-                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/callsign.jpg" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/callsignn.jpg" alt="">
                   </div>
                 </div>
 
