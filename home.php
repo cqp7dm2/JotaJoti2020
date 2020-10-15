@@ -152,16 +152,27 @@
 
           <section class="content-section" id="portfolioo">
             <div class="container" href="amongus.php">
-              <h2 class="text-center mt-0" data-aos="fade-down">Latest Trending Game</h2>
+              <h2 class="text-center mt-0" data-aos="fade-down">Our Jota & Joti Station</h2>
               <hr class="divider my-4" />
               <div class="row py-4 align-items-center">
                 <div class="col-lg-12 text-center" data-aos="fade-down">
-                  <img class="img-fluid" src="assets/img/among-us.jpg" alt="">
+                      <div class="row align-items-center">
+                        <div class="col-lg-6" data-aos="flip-down">
+                          <div class="p-5">
+                            <img class="img-fluid" src="assets/img/callsign.jpg" alt="" style="border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
+                          </div>
+                        </div>
+                        <div class="col-lg-6" data-aos="fade-down">
+                          <div class="p-5">
+                            <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2> <br> <br>
+                            <p>Find out our call sign(Jota) or skype/echolink id(Joti) </p>
+                            <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="jjstation.php" target="_blank">More Details</a></center>
+                            <p></p>
+                          </div>
+                        </div>
+                      </div>
+                    <br>
 
-                    <!-- <a type="button" class="btn btn-primary btn-block" href="amongus.php" style="height:60px" >Click for more info!</a> -->
-                    <br>
-                    <br>
-                    <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="amongus.php" target="_blank">Register Now</a></center>
                 </div>
               </div>
             </div>
@@ -258,24 +269,6 @@
 </div>
 </div>
 
-
-        <section>
-          <div class="container">
-            <div class="row align-items-center">
-              <div class="col-lg-6" data-aos="flip-down">
-                <div class="p-5">
-                  <img class="img-fluid" src="assets/img/callsign.jpg" alt="" style="border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
-                </div>
-              </div>
-              <div class="col-lg-6" data-aos="fade-down">
-                <div class="p-5">
-                  <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
 
 
         <?php include "footer.php"; ?>
