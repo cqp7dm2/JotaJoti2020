@@ -29,26 +29,16 @@
     <section class="page-section" id="services">
       <div class="container">
         <h2 class="text-center mt-0" data-aos="fade-down">Jota Joti Station</h2>
-        <img class="img-fluid" src="assets/img/callsign.jpg" alt="Responsive image">
+        <img class="img-fluid" src="assets/img/live.jpg" alt="Responsive image"> <br> <br>
+        <h4 class="text-center mt-0" data-aos="fade-down">Visit Us on Facebook at
+            <a href="https://www.facebook.com/jotajoti.penang">@Jota Joti Penang</a>
+        </h4>
         <hr class="divider my-4" />
 
 
           <div class="col-lg-11 mt-4 mt-lg-0">
             <div class="tab-content">
-              <div class="tab-pane active show" id="tab-1">
-                <!-- <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="loginRegister/register.php">Register Now</a></center> -->
-                <br>
-                <!-- <center>Registration open at the </center> -->
-                <br>
-                <br>
-                 <!-- <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSf1eiE1ogQSyiH2pH9vT1sD4NW9Q_PbLg1z6fRKuwtAiZ0LNQ/closedform" target="_blank">Register Now (Official Games)</a></center> -->
-                <br>
-                <br>
-                <br>
-                <br>
-
-
-
+              <div class="tab-pane active show" id="tab-1"> <br><br><br><br><br><br><br>
 
               <h2 class="text-center mt-0" data-aos="fade-down">Jamboree on the Air</h2>
               <hr class="divider my-4" />
@@ -61,7 +51,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                  <div class="p-5" data-aos="fade-right" style="color:#e99803;">
+                  <div class="p-5" data-aos="fade-right" style="color:#ff6363;">
                     <div class="row pb-3" >
                       <div class="col-10">
                         <h2 class="section-heading" style="font-size: 50px;">Jota Station</h2>
@@ -96,22 +86,27 @@
                       </div>
                     </div>
                     <p class="futura" style="font-size:20px;">
-
+                      Skype Name : <br>
+                      -JOTA JOTI PENANG_GTS 2020 <br>
+                      -JOTA JOTI PENANG_GTS_1 <br>
+                      -JOTA JOTI PENANG_GTS_2 <br>
+                      -JOTA JOTI PENANG_GTS_3 <br>
+                      -JOTA JOTI PENANG_GTS_4 <br>
                     </p>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="slide-up">
-                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-red.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/skype.jpg" alt="">
                   </div>
                 </div>
               </div>
 
 
-              <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
+              <!-- <div class="row px-4 py-4 mb-5 align-items-center" style="background-color: white; border-radius: 10px; box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);">
                 <div class="col-lg-6">
                   <div class="p-5" data-aos="slide-up">
-                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/as-grn.png" alt="">
+                      <img class="img-fluid" style="border-radius: 50px;" src="assets/img/echolink.jpg" alt="">
                   </div>
                 </div>
 
@@ -125,19 +120,11 @@
                         <i class="display-4 flaticon-boy-scout futura" style="font-size: 50px;"></i>
                       </div>
                     </div>
-                    <p class="futura">
-                  </div></p>
                   </div>
-                </div>
-
-
-
-
+                  </div>
+                </div> -->
 
       </div>
-
-
-
     </section>
 
     <?php include "footer.php"; ?>
