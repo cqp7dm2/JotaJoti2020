@@ -82,6 +82,49 @@
       </div>
     </section>
 
+    <section  class="content-section">
+      <div class="container">
+        <h1 class="text-center mt-0" data-aos="fade-down">Our Partners</h1>
+        <hr class="divider my-4" />
+        <div class="text-center">
+            <h3 class="section-subheading text-muted">Platinum Sponsor</h3> <br>
+        </div>
+        <div class="row text-center">
+
+            <div class="col-md-4">
+                    <img src="assets/img/s-pallas.jpg" alt="pallas" style="width:256px;height:170.5px;">
+                <h4 class="my-3">International Footwear (Penang) Sdn Bhd</h4>
+                </div>
+            <div class="col-md-4">
+                <img src="assets/img/s-habitat.jpg" alt="habitat" style="width:256px;height:170.5px;">
+                <h4 class="my-3">The Habitat Penang Hill</h4>
+              </div>
+            <div class="col-md-4">
+                <img src="assets/img/s-entopias.jpg" alt="" style="width:256px;height:170.5px;">
+                <h4 class="my-3">Entopia</h4>
+              </div>
+        </div>
+        <br><br><br><br>
+        <div class="text-center">
+            <h3 class="section-subheading text-muted">Goodies Bag Sponsor</h3> <br>
+        </div>
+        <div class="row text-center">
+
+          <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+                <img src="assets/img/s-koko.jpg" alt="habitat" style="width:294px;height:193px;">
+                <h4 class="my-3">Daily Recipe Industries (M) Sdn Bhd</h4>
+              </div>
+              <div class="col-md-4">
+              </div>
+        </div>
+
+
+      </div>
+    </section>
+
+
     <section class="page-section bg-light" id="team">
       <div class="container">
         <h2 class="section-heading text-uppercase"  data-aos="flip-up" style="font-size: 60px">Our Committee</h2>
@@ -173,53 +216,7 @@
     </section>
 
 
-<a href="#"></a>
-
-    <!-- .....................................................
-    If future need to put personal photo can use this template
-    ........................................................... -->
-
-    <!-- <section class="page-section bg-light" id="team">
-        <div class="container">
-            <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Committee</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="" />
-                        <h4>AJK Name 1</h4>
-                        <p class="text-muted">Position 1</p>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="" />
-                        <h4>AJK name 2</h4>
-                        <p class="text-muted">Position 2</p>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="" />
-                        <h4>AJK name 3</h4>
-                        <p class="text-muted">Position 3</p>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-            <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div> -->
-            </div>
+<a href="#"></a></div>
         </div>
     </section>
 

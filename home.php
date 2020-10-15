@@ -151,7 +151,7 @@
           </section>
 
           <section class="content-section" id="portfolioo">
-            <div class="container" href="amongus.php">
+            <div class="container">
               <h2 class="text-center mt-0" data-aos="fade-down">Our Jota & Joti Station</h2>
               <hr class="divider my-4" />
               <div class="row py-4 align-items-center">
@@ -167,12 +167,9 @@
                             <h2 class="display-6">Our Jota Joti call-sign is 9M4SAM, hit us up on 17th of October for a chat!</h2> <br> <br>
                             <p>Find out our call sign(Jota) or skype/echolink id(Joti) </p>
                             <center><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="jjstation.php" target="_blank">More Details</a></center>
-                            <p></p>
                           </div>
                         </div>
                       </div>
-                    <br>
-
                 </div>
               </div>
             </div>
