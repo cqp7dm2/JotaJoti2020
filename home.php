@@ -258,8 +258,8 @@
     <div class="card" data-aos="fade-left" style="box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);">
       <div class="card-body">
         <div class="text-box">
-          <h3 class="mb-3">Donations</h3>
-          <h6 class="subtitle font-weight-normal">Coming Soon......</h6>
+          <h3 class="mb-3">Merchant</h3>
+          <h6 class="subtitle font-weight-normal">Check Out what we got!!</h6>
           <a class="btn btn-info-gradiant btn-md border-0 text-white mt-3" href="merchant.php" ><span>View Details</span></a>
         </div>
       </div>

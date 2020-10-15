@@ -37,7 +37,7 @@
     <header class="masthead">
       <!-- <div class="overlay"></div> -->
       <div class="container">
-        <div class="masthead-heading mb-3 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">Donation</div>
+        <div class="masthead-heading mb-3 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">Merchant</div>
         <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Coming Soon...</div>
         <br><br><br>
       </div>
