@@ -113,7 +113,7 @@
           <div class="col-md-4">
             </div>
             <div class="col-md-4">
-                <img src="assets/img/s-koko.jpg" alt="habitat" style="width:294px;height:193px;">
+                <img src="assets/img/s-koko.JPG" alt="habitat" style="width:294px;height:193px;">
                 <h4 class="my-3">Daily Recipe Industries (M) Sdn Bhd</h4>
               </div>
               <div class="col-md-4">
