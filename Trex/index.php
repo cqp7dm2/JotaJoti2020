@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
-    <title >chrome easter egg: t-rex runner</title>
+    <title >Challenge 7 | T-Rex</title>
+    <link rel="icon" href="../assets/img/2020.png">
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <script src="index.js"></script>
@@ -12,6 +13,7 @@
 
 <body id="t" class="offline">
     <div id="messageBox" class="sendmessage">
+      <h1 style="text-align: center;font-family: 'Open Sans', sans-serif;">Challenge 7 | T-rex</h1>
          <h1 style="text-align: center;font-family: 'Open Sans', sans-serif;">Press Space to start</h1>
          <div class="niokbutton" onclick="okbuttonsend()"></div>
     </div>

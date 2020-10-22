@@ -2,7 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>HTML5 Pacman</title>
+    <title>Challenge 6 | Pac-Man</title>
+    <link rel="icon" href="../../assets/img/2020.png">
 
     <style type="text/css">
       @font-face {
@@ -32,10 +33,8 @@
 
   <div id="shim">shim for font face</div>
 
-  <h1>HTML5 Pacman</h1>
+  <h1>Challenge 6 | Pac-Man</h1>
 
-  <a href="http://arandomurl.com/">Writeup</a> |
-  Code on <a href="http://arandomurl.com/">Github</a>
 
   <div id="pacman"></div>
   <script src="pacman.js"></script>
@@ -53,6 +52,8 @@
         "(firefox 3.6+, Chrome 4+, Opera 10+ and Safari 4+)</small>";
     }
   </script>
+
+<a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../../loginRegister/weekthree.php" target="_blank">Back to Jota-Joti Penang 2020 User Menu</a>
 
 </body>
 </html>
