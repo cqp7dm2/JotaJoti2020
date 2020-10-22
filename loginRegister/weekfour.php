@@ -51,8 +51,8 @@ SESSION_start();
                                           <main id="main">
                                           <section id="features" class="features">
                                             <div class="container">
-                                              <h3 data-aos="fade-right" style="color: #fab800;">Challenge 7 | Virtual Expedition</h3>
-                                              <p class="futura" data-aos="flip-down"> Let's explore like we did it before
+                                              <h3 data-aos="fade-right" style="color: #fab800;">Challenge 7 | T-Rex</h3>
+                                              <p class="futura" data-aos="flip-down"> Lets Us Challenge on T-Rex
 
                                               <div class="row">
                                                 <div class="col-lg-3">
@@ -64,7 +64,7 @@ SESSION_start();
                                                       <a class="nav-link " data-toggle="tab" href="#tab-2">RULES AND REGULATIONS</a>
                                                     </li>
                                                   </ul>
-                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href= "https://docs.google.com/forms/d/e/1FAIpQLSdwkmpH6Xkhz3aiFa_FBqcwc3cAVUpQSLNnJ3jW4BNI-nmhQg/viewform" target="_blank">Join Virtual Expedition Now</a>
+                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../trex.php" target="_blank">Join T-Rex Now</a>
                                                 </div>
                                                 <div class="col-lg-9 mt-4 mt-lg-0">
                                                   <div class="tab-content">
@@ -101,8 +101,8 @@ SESSION_start();
                      <!-- 2nd Competition  -->
                                            <section id="features" class="features">
                                              <div class="container">
-                                               <h3 data-aos="fade-right" style="color: #fab800;">Challenge 8 | Pac-Man</h3>
-                                               <p class="futura" data-aos="flip-down">More fun with everyone at home </p>
+                                               <h3 data-aos="fade-right" style="color: #fab800;">Challenge 8 | Tetris Battle</h3>
+                                               <p class="futura" data-aos="flip-down">Lets Us Challenge on Tetris Battle</p>
 
                                                <div class="row">
                                                  <div class="col-lg-3">
@@ -114,8 +114,8 @@ SESSION_start();
                                                        <a class="nav-link" data-toggle="tab" href="#cab-2">RULES AND RUGULATIONS</a>
                                                      </li>
                                                    </ul>
-                                                   <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a>
-                                                     <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../pacman.php" target="_blank">Start Game Now</a> -->
+                                                   <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a> -->
+                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../tettris.php" target="_blank">Start Tetris Battle Now</a>
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">
@@ -124,10 +124,10 @@ SESSION_start();
                                                          <div class="col-lg-10 details order-2 order-lg-1">
                                                            <h3>DESCRIPTION</h3>
                                                            <p>
-                                                             Pac-Man is an old archive game from the 80’s. Despite being ‘old’, it has not been any less fun and attractive for the game lovers. Over the years, modifications and improvement of the game can be clearly seen and the hard work definitely paid off as it is still considered as a well-known game until this day.
+                                                             This is another game from the 80’s. Even though many new advanced games have been introduced to us over the years, Tetris still remains as one of the most memorable games of all time, especially for those who were still kids back in the 80’s and 90’s.
+                                                             In this challenge, let us all experience the excitements this game can bring to us.
                                                              <br>
-                                                            In this challenge, let us take a ‘time travelling trip’ back to the 80’s and enjoy the fun brought by the marvellous game - Pac-Man.
-
+                                                             Link for the challenge: https://jstris.jezevec10.com/?play=1&mode=1&fbclid=IwAR3Jvu0x3o8AyxGcjfKZeJmA1uz2TDQJsjhf6qF0RdwJN6FU0nz5tvq55RE
                                                             </p>
                                                          </div>
                                                        </div>
@@ -138,9 +138,12 @@ SESSION_start();
                                                            <h3>RULES AND REGULATIONS</h3>
 
                                                            <p>
-                                                             1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
-                                                             2) Leader board is shown for competitive spirits. <br>
-                                                             3) Participants are allowed to play as many times as they desire. <br>
+                                                             Rules and Regulation <br>
+                                                               1) Participants have to clear 40 lines in 2 minutes. <br>
+                                                               2) After completing all 40 lines, take a screenshot of your results with the time shown clearly. <br>
+                                                               3) Submit the screenshotted result via google form provided. <br>
+                                                               4) Practice makes perfect. Participants can play as many times as desire either for practice or just for fun.  <br>
+
                                                            </p>
 
                                                          </div>
