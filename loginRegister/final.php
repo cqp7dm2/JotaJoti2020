@@ -43,7 +43,7 @@
 
                                                    </ul>
                                                    <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a> -->
-                                                   <a class="mt-4 btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Submit Your Completion Card Here</a>
+                                                   <a class="mt-4 btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1m5fIlB8efIYdmwwg7UwJemK229ZbWCgsF9s2qpOE9zI/edit#responses" target="_blank">Submit Your Completion Card Here</a>
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">

@@ -65,7 +65,7 @@ SESSION_start();
                                                     </li>
                                                   </ul>
                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../Trex/index.php" target="_blank">Join T-Rex Now</a>
-                                                    <a class="mt-4 btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Submit Result Now</a>
+                                                    <a class="mt-4 btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSdM1TkvAPdlYxWd5KR0NoIzjN0KpBF3GtgXkz4yGdRswYuHRA/viewform" target="_blank">Submit Result Now</a>
                                                 </div>
                                                 <div class="col-lg-9 mt-4 mt-lg-0">
                                                   <div class="tab-content">
