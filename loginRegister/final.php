@@ -28,7 +28,7 @@
                      ?>
 
 
-    <h1>Week Three</h1>
+    <h1>Final Page</h1>
 </div>
 </div>
 </div>
