@@ -38,13 +38,55 @@
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="masthead-heading mb-3 move-text1" style="text-shadow: 3px 3px 3px #7158e2;">Merchant</div>
-        <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Coming Soon...</div>
+        <div class="masthead-heading text-uppercase move-text2"  style="font-size: 35px; text-shadow: 3px 3px 3px #7158e2;">Check our our merchandise</div>
         <br><br><br>
       </div>
     </header>
       <script>
         AOS.init();
       </script>
+
+      
+      <!-- <section  class="content-section">
+        <div class="container">
+          <h1 class="text-center mt-0" data-aos="fade-down">Title</h1>
+          <hr class="divider my-4" />
+          <div class="text-center">
+              <h3 class="section-subheading text-muted">Platinum Sponsor</h3> <br>
+          </div>
+          <div class="row text-center">
+
+              <div class="col-md-4">
+                      <img src="" alt="" style="width:256px;height:170.5px;">
+                  <h4 class="my-3">Merchant 1</h4>
+                  </div>
+              <div class="col-md-4">
+                  <img src="" alt="" style="width:256px;height:170.5px;">
+                  <h4 class="my-3">Merchant 2</h4>
+                </div>
+              <div class="col-md-4">
+                  <img src="" alt="" style="width:256px;height:170.5px;">
+                  <h4 class="my-3">Merchant 3</h4>
+                </div>
+          </div>
+          <br><br><br><br>
+          <div class="text-center">
+              <h3 class="section-subheading text-muted">Title 2</h3> <br>
+          </div>
+          <div class="row text-center">
+
+            <div class="col-md-4">
+              </div>
+              <div class="col-md-4">
+                  <img src="" alt="" style="width:294px;height:193px;">
+                  <h4 class="my-3">Merchant</h4>
+                </div>
+                <div class="col-md-4">
+                </div>
+          </div>
+
+        </div>
+      </section> -->
 
       <?php include "footer.php"; ?>
 
