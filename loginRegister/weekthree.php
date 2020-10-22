@@ -144,6 +144,7 @@ SESSION_start();
                                                              1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                                                              2) Leader board is shown for competitive spirits. <br>
                                                              3) Participants are allowed to play as many times as they desire. <br>
+                                                             4) Participants have to screenshot the result and submit in google form. <br>
                                                            </p>
 
                                                          </div>

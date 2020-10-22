@@ -108,7 +108,7 @@
                       <div class="mt-5">
                           <i class="fas fa-4x fa-dice-four mb-4 faa-wobble animated" style="color: #5c2f87;"></i>
                           <h3 class="h4 mb-2" href="week4">Week 4</h3>
-                          <p class="text-muted mb-0 futura">T-Rex <br> Online Chess </p>
+                          <p class="text-muted mb-0 futura">T-Rex <br> Tetris </p>
                       </div>
                   </div>
               </div>
@@ -227,7 +227,7 @@
           <div class="section-title" id = "week4">
             <br>
             <h2 data-aos="flip-up">Week 4</h2>
-            <h6 style="color:#c16868;">Due date - 20 October 2020</h6>
+            <h6 style="color:#c16868;">Due date - 30 October 2020</h6>
           </div>
 
           <div class="row">
@@ -238,17 +238,18 @@
                 <p class="futura">
                   1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
                   2) Leader board is shown for competitive spirits. <br>
-                  3) Participants are allowed to play as many times as they desire. <br>
+                  3) Participants are allowed to play as many times as they desire. <br> <br> <br>
               </div>
             </div>
             <div class="col-md-6 mt-4 mt-md-0">
               <div class="icon-box hover-div">
                 <i class="icofont-tasks-alt"></i>
-                <h4><a>Online Chess</a></h4>
+                <h4><a>Tetris</a></h4>
                 <p class="futura">
-                    1)	Computer is the opponent of the participants. <br>
-                    2)	Defeat the computer to complete the challenge. <br>
-                    3)	Participants are allowed to play as many times as they desire. <br> <br>
+                    1) Participants have to clear 40 lines in 2 minutes. <br>
+                    2) After completing all 40 lines, take a screenshot of your results with the time shown clearly. <br>
+                    3) Submit the screenshotted result via google form provided. <br>
+                    4) Practice makes perfect. Participants can play as many times as desire either for practice or just for fun.
                 </p>
               </div>
             </div>
