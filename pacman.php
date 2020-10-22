@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
   <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177875132-1"></script>
     <script>
@@ -23,6 +24,7 @@
       }
     </style>
   </head>
+
   <body>
 
     <section class="page-section" id="services">
@@ -31,6 +33,8 @@
         <hr>
         <img class="img-fluid" src="assets/img/pacman-cover.jpg" alt="Responsive image">
         <hr class="divider my-4" />
+
+        <?php include "/PacMan/pacman-master/index.php"; ?>
 
           <div class="col-lg-11 mt-4 mt-lg-0">
             <div class="tab-content">

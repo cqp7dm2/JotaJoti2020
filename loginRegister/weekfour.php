@@ -64,7 +64,8 @@ SESSION_start();
                                                       <a class="nav-link " data-toggle="tab" href="#tab-2">RULES AND REGULATIONS</a>
                                                     </li>
                                                   </ul>
-                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../trex.php" target="_blank">Join T-Rex Now</a>
+                                                    <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../Trex/index.php" target="_blank">Join T-Rex Now</a>
+                                                    <a class="mt-4 btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#" target="_blank">Submit Result Now</a>
                                                 </div>
                                                 <div class="col-lg-9 mt-4 mt-lg-0">
                                                   <div class="tab-content">
@@ -115,7 +116,8 @@ SESSION_start();
                                                      </li>
                                                    </ul>
                                                    <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a> -->
-                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../tettris.php" target="_blank">Start Tetris Battle Now</a>
+                                                   <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://jstris.jezevec10.com/?play=1&mode=1&fbclid=IwAR3Jvu0x3o8AyxGcjfKZeJmA1uz2TDQJsjhf6qF0RdwJN6FU0nz5tvq55RE" target="_blank">Start Tetris Battle Now</a>
+                                                     <a class="mt-4 btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSedcwuzuqVpp5pN5WSCPmrvRKPtQLHJdqvRU0jpuADZNkBCKQ/viewform" target="_blank">Submit Result Now</a>
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">
@@ -126,8 +128,7 @@ SESSION_start();
                                                            <p>
                                                              This is another game from the 80’s. Even though many new advanced games have been introduced to us over the years, Tetris still remains as one of the most memorable games of all time, especially for those who were still kids back in the 80’s and 90’s.
                                                              In this challenge, let us all experience the excitements this game can bring to us.
-                                                             <br>
-                                                             Link for the challenge: https://jstris.jezevec10.com/?play=1&mode=1&fbclid=IwAR3Jvu0x3o8AyxGcjfKZeJmA1uz2TDQJsjhf6qF0RdwJN6FU0nz5tvq55RE
+
                                                             </p>
                                                          </div>
                                                        </div>

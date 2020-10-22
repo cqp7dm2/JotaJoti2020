@@ -118,8 +118,8 @@ SESSION_start();
                                                        <a class="nav-link" data-toggle="tab" href="#cab-2">RULES AND RUGULATIONS</a>
                                                      </li>
                                                    </ul>
-                                                   <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#" >Coming Soon ... </a>
-                                                     <!-- <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../pacman.php" target="_blank">Start Game Now</a> -->
+                                                     <a class="mt-4 btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../PacMan/pacman-master/index.php" target="_blank">Start Game Now</a>
+                                                     <a class="mt-4 btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/1Y2Wheq1Zeoif8C0QltREEPvDQfvXumIZIGekrAF0EN4/edit" target="_blank">Submit Result Now</a>
                                                  </div>
                                                  <div class="col-lg-9 mt-4 mt-lg-0">
                                                    <div class="tab-content">
@@ -131,7 +131,6 @@ SESSION_start();
                                                              Pac-Man is an old archive game from the 80’s. Despite being ‘old’, it has not been any less fun and attractive for the game lovers. Over the years, modifications and improvement of the game can be clearly seen and the hard work definitely paid off as it is still considered as a well-known game until this day.
                                                              <br>
                                                             In this challenge, let us take a ‘time travelling trip’ back to the 80’s and enjoy the fun brought by the marvellous game - Pac-Man.
-
                                                             </p>
                                                          </div>
                                                        </div>
