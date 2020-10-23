@@ -141,10 +141,10 @@ SESSION_start();
                                                            <h3>RULES AND REGULATIONS</h3>
 
                                                            <p>
-                                                             1) Specific points are required to reach or exceed to be considered as completing the challenge. <br>
-                                                             2) Leader board is shown for competitive spirits. <br>
-                                                             3) Participants are allowed to play as many times as they desire. <br>
-                                                             4) Participants have to screenshot the result and submit in google form. <br>
+                                                             1. Participants have to gain at least 5000points. <br>
+                                                             2. After the game, take a screenshot of your results. <br>
+                                                             3. Submit the screenshotted result via google form provided. <br>
+                                                             4. Practice makes perfect. Participants can play as many times as desire either for practice or just for fun.<br>
                                                            </p>
 
                                                          </div>

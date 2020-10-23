@@ -85,7 +85,12 @@ SESSION_start();
                                                       <div class="row">
                                                         <div class="col-lg-10 details order-2 order-lg-1">
                                                           <h3>RULES SND REGULATIONS</h3>
-                                                          <p>Help him to dodge all the obstacles and attacks and complete the challenge. Bare in mind, Mr. T-rex likes to speed up over time, BE CAREFUL!! Participants have to screenshot the result and submit in google form. <br></p>
+                                                          <p>Rules and Regulation (T-Rex)
+                                                            1. Participants have to gain at least 3000points. <br>
+                                                            2. After the game, take a screenshot of your results. <br>
+                                                            3. Submit the screenshotted result via google form provided.<br>
+                                                            4. Practice makes perfect. Participants can play as many times as desire either for practice or just for fun.<br>
+</p>
                                                         </div>
                                                       </div>
                                                     </div>
